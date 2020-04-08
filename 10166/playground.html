@@ -36,6 +36,11 @@
             width: 80vw;
             height: 50px;
         }
+
+        p {
+            text-align: center;
+            word-break: keep-all;
+        }
     </style>
 </head>
 
@@ -45,10 +50,11 @@
     <input type="number" id="d1">
     <label for="d2">D<sub>2</sub></label>
     <input type="number" id="d2">
+    <p>북쪽 점 부분을 잘라내고 북쪽 점은 언제나 가장 안쪽 원만 유효하므로 그 외에는 숨겼습니다. 아래쪽일수록 중앙과 가깝습니다.</p>
 </body>
 
 <script>
-    const SVG_TAGS = ['svg', 'line', 'circle', 'animate'];
+    const SVG_TAGS = ['svg', 'line', 'circle', 'animate', 'clipPath', 'rect'];
     const NUMBER_REGEX = /[0-9]+/;
     function h(tag, { className, children, onClick, ...rest } = {}) {
         let element;
@@ -90,6 +96,28 @@
             svgWrap.append(h('svg', {
                 viewBox: '0 0 200 10',
                 children: [
+                    i === lastValidFrom && h('clipPath', {
+                        id: 'clip-left',
+                        children: [
+                            h('rect', {
+                                x: -1,
+                                y: 0,
+                                width: 5,
+                                height: 10
+                            })
+                        ]
+                    }),
+                    i === lastValidFrom && h('clipPath', {
+                        id: 'clip-right',
+                        children: [
+                            h('rect', {
+                                x: 196,
+                                y: 0,
+                                width: 5,
+                                height: 10
+                            })
+                        ]
+                    }),
                     h('line', {
                         x1: 0,
                         y1: 5,
@@ -97,10 +125,27 @@
                         y2: 5,
                         stroke: 'black'
                     }),
+                    i === lastValidFrom && [
+                        h('circle', {
+                            cx: -1,
+                            cy: 5,
+                            r: 4,
+                            fill: 'black',
+                            stroke: 'black',
+                            'clip-path': 'url(#clip-left)',
+                        }),
+                        h('circle', {
+                            cx: 201,
+                            cy: 5,
+                            r: 4,
+                            fill: 'black',
+                            stroke: 'black',
+                            'clip-path': 'url(#clip-right)',
+                        }),
+                    ],
                     range(0, i - 1).map(j => {
                         const where = (j + 1) * 200 / i;
                         const element = h('circle', {
-                            id: `circle_${i}_${j}`,
                             cx: where,
                             cy: 5,
                             r: 4,
