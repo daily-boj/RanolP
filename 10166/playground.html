@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            min-height: 100vh;
+        }
+    </style>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        #svgWrap {
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: center;
+            justify-content: center;
+            height: 80vh;
+        }
+
+        #svgWrap> :not(:last-child) {
+            margin-top: 2em;
+        }
+
+        svg {
+            width: 80vw;
+            height: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="svgWrap"></div>
+    <label for="d1">D<sub>1</sub></label>
+    <input type="number" id="d1">
+    <label for="d2">D<sub>2</sub></label>
+    <input type="number" id="d2">
+</body>
+
+<script>
+    const SVG_TAGS = ['svg', 'line', 'circle', 'animate'];
+    const NUMBER_REGEX = /[0-9]+/;
+    function h(tag, { className, children, onClick, ...rest } = {}) {
+        let element;
+        if (SVG_TAGS.includes(tag)) {
+            element = document.createElementNS('http://www.w3.org/2000/svg', tag);
+            if (tag == 'svg') {
+                element.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+            }
+        } else {
+            element = document.createElement(tag);
+        };
+        if (className) {
+            element.classList.add(className);
+        }
+        if (onClick) {
+            element.onclick = onClick;
+        }
+        for (const [key, value] of Object.entries(rest)) {
+            element.setAttribute(key, value);
+        }
+        element.append(...(children || []).filter(Boolean).flat(Infinity));
+        return element;
+    }
+
+    function range(from, to) {
+        return Array.from({ length: to - from }).map((_, index) => from + index);
+    }
+
+    let lastValidFrom = 3;
+    let lastValidTo = 6;
+
+    d1.value = lastValidFrom;
+    d2.value = lastValidTo;
+
+    function update() {
+        const haveSeen = [];
+        svgWrap.innerHTML = '';
+        for (const i of range(lastValidFrom, lastValidTo + 1)) {
+            svgWrap.append(h('svg', {
+                viewBox: '0 0 200 10',
+                children: [
+                    h('line', {
+                        x1: 0,
+                        y1: 5,
+                        x2: 200,
+                        y2: 5,
+                        stroke: 'black'
+                    }),
+                    range(0, i - 1).map(j => {
+                        const where = (j + 1) * 200 / i;
+                        const element = h('circle', {
+                            id: `circle_${i}_${j}`,
+                            cx: where,
+                            cy: 5,
+                            r: 4,
+                            fill: haveSeen.includes(where) ? 'white' : 'black',
+                            stroke: 'black',
+                        });
+                        if (!haveSeen.includes(where)) {
+                            haveSeen.push(where);
+                        }
+                        return element;
+                    })
+                ]
+            }))
+        }
+    }
+
+    d1.onchange = () => {
+        const match = NUMBER_REGEX.exec(d1.value);
+        if (match) {
+            lastValidFrom = Number(match);
+            update();
+        }
+    }
+
+    d2.onchange = () => {
+        const match = NUMBER_REGEX.exec(d2.value);
+        if (match) {
+            lastValidTo = Number(match);
+            update();
+        }
+    }
+
+    update();
+</script>
+
+</html>
