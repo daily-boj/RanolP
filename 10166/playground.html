@@ -162,27 +162,34 @@
         }
     }
 
-    const accept = (target, other, consume, update = true) => {
+    const accept = (target, other, shouldUpdate = true) => {
         const match = NUMBER_REGEX.exec(target.value);
         if (match && target.checkValidity()) {
-            consume(Number(match));
-            if (update && d2.checkValidity()) {
-                accept(other, target, consume, update = false);
+            target.consume(Number(match));
+            if (shouldUpdate && d2.checkValidity()) {
+                accept(other, target, shouldUpdate = false);
+                accept(target, other, shouldUpdate = false);
                 update();
             }
         }
     }
 
+    d1.consume = n => {
+        lastValidFrom = n;
+        d2.min = lastValidFrom;
+    }
+
     d1.onchange = () => {
-        accept(d1, d2, n => {
-            lastValidFrom = n;
-        });
+        accept(d1, d2);
+    }
+
+    d2.consume = n => {
+        lastValidTo = n;
+        d1.max = lastValidTo;
     }
 
     d2.onchange = () => {
-        accept(d2, d1, n => {
-            lastValidTo = n;
-        });
+        accept(d2, d1);
     }
 
     update();
