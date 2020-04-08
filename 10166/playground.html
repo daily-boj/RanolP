@@ -47,9 +47,9 @@
 <body>
     <div id="svgWrap"></div>
     <label for="d1">D<sub>1</sub></label>
-    <input type="number" id="d1">
+    <input type="number" id="d1" min="1" max="6">
     <label for="d2">D<sub>2</sub></label>
-    <input type="number" id="d2">
+    <input type="number" id="d2" min="3" max="100">
     <p>북쪽 점 부분을 잘라내고 북쪽 점은 언제나 가장 안쪽 원만 유효하므로 그 외에는 숨겼습니다. 아래쪽일수록 중앙과 가깝습니다.</p>
 </body>
 
@@ -166,6 +166,7 @@
         const match = NUMBER_REGEX.exec(d1.value);
         if (match) {
             lastValidFrom = Number(match);
+            d2.min = lastValidFrom;
             update();
         }
     }
@@ -174,6 +175,7 @@
         const match = NUMBER_REGEX.exec(d2.value);
         if (match) {
             lastValidTo = Number(match);
+            d1.max = lastValidTo;
             update();
         }
     }
