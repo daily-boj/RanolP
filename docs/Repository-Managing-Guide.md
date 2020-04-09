@@ -16,9 +16,13 @@
 그리고 모든 `{name}`에 대해, `/{number}/test/{name}.in`을 입력으로 넣었을 때 `/{number}/test/{name}.out` 결과물과 동일한지 검증합니다.
 이 검증 과정은 라인 피드 문자 (`\n`)나 뒤에 붙는 공백 문자 등 시각적으로 보이지 않는다고 해도 다르다면 거부합니다.
 
-### (TODO) ./boj.sh update-readme
+### ./boj.sh update-readme
 
-`config/README.template.md`를 기반으로 `README.md` 파일을 업데이트합니다. 해당 템플릿 파일은 GFM을 확장한 마크다운 방언을 사용합니다.
+`template/README.template.md`를 기반으로 `README.md` 파일을 업데이트합니다. 해당 템플릿 파일은 GFM을 확장한 마크다운 방언을 사용합니다.
+
+### (TODO) ./boj.sh init \<number\> \<language\>
+
+각 언어별 템플릿을 기반으로 프로젝트를 초기화합니다.
 
 ### ./boj.sh update-symlink
 

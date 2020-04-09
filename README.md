@@ -1,10 +1,45 @@
 # @daily-boj/RanolP
 
-| 날짜       | 문제 번호                                                                                                     | 제목                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2020-04-07 | [<img src="https://static.solved.ac/tier_small/5.svg" height="16px"/> Bronze I, 1340](http://noj.am/1340)     | 연도 진행바 [풀이](./1340/solution.py), [노트](./1340/README.md) |
-| 2020-04-08 | [<img src="https://static.solved.ac/tier_small/8.svg" height="16px"/> Silver III, 10166](http://noj.am/10166) | 관중석 [풀이](./10166/solution.py), [노트](./10166/README.md)    |
-| 2020-04-09 | [<img src="https://static.solved.ac/tier_small/8.svg" height="16px"/> Silver III, 1935](http://noj.am/1935)  | 후위 표기식2 [풀이](./1935/solution.rs), [노트](./1935/README.md)    |
+## 문제 풀이 현황
+
+<table>
+    <tr>
+      <th>날짜</th>
+      <th>문제</th>
+      <th>풀이</th>
+    </tr>
+  <tr><td rowspan="1">2020-04-07</td><td>
+<a href="https://noj.am/1340">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1340 연도 진행바
+</a>
+</td><td><a href="./1340/solution.py">풀이 (.py)</a>, <a href="./1340/README.md">노트</a></td></tr>
+<tr><td rowspan="1">2020-04-08</td><td>
+<a href="https://noj.am/10166">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 10166 관중석
+</a>
+</td><td><a href="./10166/solution.py">풀이 (.py)</a>, <a href="./10166/README.md">노트</a></td></tr>
+<tr><td rowspan="2">2020-04-09</td><td>
+<a href="https://noj.am/1935">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 1935 후위 표기식2
+</a>
+</td><td><a href="./1935/solution.rs">풀이 (.rs)</a>, <a href="./1935/README.md">노트</a></td></tr>
+<tr><td>
+<a href="https://noj.am/1735">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 1735 분수 합
+</a>
+</td><td><a href="./1735/solution.py">풀이 (.py)</a></td></tr>
+  </table>
+
+## 언어 사용량
+
+| 언어 | 사용 비율 |
+| ---- | --------- |
+| Python (.py) | 3 of 4 (75%) |
+| Rust (.rs) | 1 of 4 (25%) |
 
 ## 연결고리
 
