@@ -52,7 +52,7 @@
   Gold V, LV3 1043 거짓말
 </a>
 </td><td>시간 내 못 품</td></tr>
-<tr><td rowspan="2">2020-04-11</td><td>
+<tr><td rowspan="3">2020-04-11</td><td>
 <a href="https://noj.am/1373">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, LV1 1373 2진수 8진수
@@ -64,14 +64,20 @@
   Silver III, LV2 3213 피자
 </a>
 </td><td><a href="./3213/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="https://noj.am/1068">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, LV3 1068 트리
+</a>
+</td><td><a href="./1068/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 ## 언어 사용량
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 5 of 7 (71.43%) |
-| Rust (.rs) | 2 of 7 (28.57%) |
+| Python (.py) | 6 of 8 (75.00%) |
+| Rust (.rs) | 2 of 8 (25.00%) |
 
 ## 연결고리
 
