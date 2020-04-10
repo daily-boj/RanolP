@@ -34,20 +34,32 @@
   Silver II, 1735 분수 합
 </a>
 </td><td><a href="./1735/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="1">2020-04-10</td><td>
+<tr><td rowspan="3">2020-04-10</td><td>
 <a href="https://noj.am/2422">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
   Silver V, LV1 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
 </a>
 </td><td><a href="./2422/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="https://noj.am/6236">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, LV2 6236 용돈 관리
+</a>
+</td><td>시간 내 못 품</td></tr>
+<tr><td>
+<a href="https://noj.am/1043">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, LV3 1043 거짓말
+</a>
+</td><td>시간 내 못 품</td></tr>
   </table>
 
 ## 언어 사용량
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 3 of 5 (60%) |
-| Rust (.rs) | 2 of 5 (40%) |
+| Python (.py) | 3 of 5 (60.00%) |
+| Rust (.rs) | 2 of 5 (40.00%) |
 
 ## 연결고리
 
