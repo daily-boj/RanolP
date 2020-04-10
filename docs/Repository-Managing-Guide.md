@@ -18,7 +18,9 @@
 
 ### ./boj.sh update-readme
 
-`template/README.template.md`를 기반으로 `README.md` 파일을 업데이트합니다. 해당 템플릿 파일은 GFM을 확장한 마크다운 방언을 사용합니다.
+`template/README.template.md`를 기반으로 `README.md` 파일을,
+`{problem-number}/Note.md`를 기반으로 `{problem-number}/README.md` 파일을 업데이트합니다.
+해당 템플릿 파일은 GFM을 확장한 마크다운 방언[\[1\]][1]을 사용합니다.
 
 ### (TODO) ./boj.sh init \<number\> \<language\>
 
@@ -31,3 +33,5 @@
 ### (TODO) ./boj.sh clean
 
 `.boj-cache/` 폴더를 제거합니다.
+
+[1]: ./PGFM.md
