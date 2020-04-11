@@ -87,7 +87,7 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, LV3 1149 RGB거리
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./1149/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -98,8 +98,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 7 of 10 (70.00%) |
-| Rust (.rs) | 3 of 10 (30.00%) |
+| Python (.py) | 8 of 11 (72.73%) |
+| Rust (.rs) | 3 of 11 (27.27%) |
 
 
 
