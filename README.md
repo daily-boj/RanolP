@@ -57,7 +57,7 @@
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, LV1 1373 2진수 8진수
 </a>
-</td><td><a href="./1373/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./1373/solution.py">풀이 (.py)</a>, <a href="./1373/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/3213">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
