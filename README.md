@@ -70,6 +70,24 @@
   Silver I, LV3 1068 트리
 </a>
 </td><td><a href="./1068/solution.py">풀이 (.py)</a>, <a href="./1068/README.md">노트</a></td></tr>
+<tr><td rowspan="3">2020-04-12</td><td>
+<a href="http://noj.am/3447">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, LV1 3447 버그왕
+</a>
+</td><td><a href="./3447/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9461">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, LV2 9461 파도반 수열
+</a>
+</td><td><a href="./9461/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1149">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, LV3 1149 RGB거리
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -80,8 +98,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 6 of 8 (75.00%) |
-| Rust (.rs) | 2 of 8 (25.00%) |
+| Python (.py) | 7 of 10 (70.00%) |
+| Rust (.rs) | 3 of 10 (30.00%) |
 
 
 
