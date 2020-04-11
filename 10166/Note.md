@@ -1,26 +1,7 @@
-# 10166 관중석
+# {@ problem-title @}
 
-
-
-<table>
-  <tr>
-    <th>랭크</th>
-    <th>상태</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="http://noj.am/10166">
-        <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-        Silver II, 10166 관중석
-      </a>
-    </td>
-    <td>
-      싱공
-    </td>
-  </tr>
-</table>
-
-
+~~~problem-info-table
+~~~
 
 ## 문제 분석
 

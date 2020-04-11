@@ -1,26 +1,7 @@
-# 1340 연도 진행바
+# {@ problem-title @}
 
-
-
-<table>
-  <tr>
-    <th>랭크</th>
-    <th>상태</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="http://noj.am/1340">
-        <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-        Bronze I, 1340 연도 진행바
-      </a>
-    </td>
-    <td>
-      싱공
-    </td>
-  </tr>
-</table>
-
-
+~~~problem-info-table
+~~~
 
 ## 문제 분석
 

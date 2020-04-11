@@ -1,26 +1,7 @@
-# 1935 후위 표기식2
+# {@ problem-title @}
 
-
-
-<table>
-  <tr>
-    <th>랭크</th>
-    <th>상태</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="http://noj.am/1935">
-        <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-        Silver III, 1935 후위 표기식2
-      </a>
-    </td>
-    <td>
-      싱공
-    </td>
-  </tr>
-</table>
-
-
+~~~problem-info-table
+~~~
 
 ## 문제 분석
 

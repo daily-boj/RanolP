@@ -17,7 +17,7 @@ PGFM은 마크다운 전처리기 및 그 규격으로, Preprocessor for Github 
 
 ### 인라인 변수
 
-중괄호와 퍼센트 기호로 감쌉니다.
+중괄호와 골뱅이 기호로 감쌉니다.
 
 예시:
 
@@ -74,7 +74,7 @@ daily-boj로 푼 문제 테이블을 생성합니다.
 
 각 문제의 번호입니다.
 
-### title `[note]`
+### problem-title `[note]`
 
 각 문제의 제목입니다.
 `{@ problem-number @} {@ problem-name @}` 과 동치입니다.
