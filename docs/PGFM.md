@@ -22,7 +22,7 @@ PGFM은 마크다운 전처리기 및 그 규격으로, Preprocessor for Github 
 예시:
 
 ```markdown
-{% title %}
+{@ title @}
 ```
 
 ## 지원 문법 목록
@@ -77,4 +77,4 @@ daily-boj로 푼 문제 테이블을 생성합니다.
 ### title `[note]`
 
 각 문제의 제목입니다.
-`{% problem-number %} {% problem-name %}` 과 동치입니다.
+`{@ problem-number @} {@ problem-name @}` 과 동치입니다.
