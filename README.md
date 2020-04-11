@@ -63,7 +63,7 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, LV2 3213 피자
 </a>
-</td><td><a href="./3213/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./3213/solution.py">풀이 (.py)</a>, <a href="./3213/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1068">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
