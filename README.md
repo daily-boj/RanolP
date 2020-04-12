@@ -87,7 +87,7 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, LV3 1149 RGB거리
 </a>
-</td><td><a href="./1149/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./1149/solution.py">풀이 (.py)</a>, <a href="./1149/README.md">노트</a></td></tr>
   </table>
 
 
