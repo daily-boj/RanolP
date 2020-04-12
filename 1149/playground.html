@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGB거리</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            min-height: 100vh;
+            max-width: 100vw;
+            font-size: 32px;
+        }
+
+        button {
+            font-size: inherit;
+        }
+
+        #root {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #houses {
+            display: flex;
+            flex-direction: row;
+        }
+
+        #houses>:not(:last-child) {
+            margin-right: 2em;
+        }
+
+        .prices {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .prices>* {
+            width: 5em;
+            text-align: center;
+        }
+
+        .prices>:not(:last-child) {
+            margin-bottom: 0.5em;
+        }
+
+        .price-for-paint {
+            color: white;
+            padding: 0.2em 1em;
+            position: relative;
+        }
+
+        .red {
+            background-color: hsl(0, 65%, 65%);
+        }
+
+        .green {
+            background-color: hsl(120, 65%, 65%);
+        }
+
+        .blue {
+            background-color: hsl(240, 65%, 65%);
+        }
+
+        .disabled {
+            background-color: hsl(0, 0%, 65%);
+        }
+
+        .line {
+            position: absolute;
+            width: 6em;
+            height: 6em;
+            left: -2em;
+            z-index: -2;
+            background-color: hsl(0, 0%, 85%);
+        }
+
+        .red>.line {
+            top: 0.5em;
+        }
+
+        .green>.line {
+            top: -2em;
+        }
+
+        .blue>.line {
+            top: -4.5em;
+        }
+
+        .line-select {
+            z-index: -1;
+        }
+
+
+        .red>.line-select {
+            background: hsl(0, 25%, 55%);
+        }
+
+        .green>.line-select {
+            background: hsl(120, 25%, 55%);
+        }
+
+        .blue>.line-select {
+            background: hsl(240, 25%, 55%);
+        }
+
+        .line-pos-01 {
+            clip-path: polygon(0 42%, 35% 0, 35% 10%, 0% 52%);
+        }
+
+        .line-pos-02 {
+            clip-path: polygon(-1% 79%, 34% 0%, 36% 9%, 0% 94%);
+        }
+
+        .line-pos-10 {
+            clip-path: polygon(0 4%, 35% 46%, 35% 56%, 0% 14%);
+        }
+
+        .line-pos-12 {
+            clip-path: polygon(0 84%, 35% 46%, 35% 56%, 0% 94%);
+        }
+
+        .line-pos-20 {
+            clip-path: polygon(0 6%, 35% 88%, 36% 103%, 0% 21%);
+        }
+
+        .line-pos-21 {
+            clip-path: polygon(0 49%, 35% 88%, 35% 97%, -3% 57%);
+        }
+
+        #next {
+            border: none;
+            margin-top: 2em;
+            background-color: hsl(230, 45%, 65%);
+            color: white;
+            padding: 0.5em 2em;
+        }
+
+        #next:hover {
+            border: none;
+            background-color: hsl(230, 45%, 75%);
+        }
+
+        #next:active {
+            border: none;
+            background-color: hsl(230, 45%, 55%);
+        }
+
+        #next:disabled {
+            border: none;
+            background-color: hsl(230, 0%, 55%);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="root"></div>
+</body>
+
+
+<script>
+
+    const data = [
+        [26, 40, 83],
+        [49, 60, 57],
+        [13, 89, 99],
+    ];
+    const dpMap = [];
+
+    function min(index, a, b, v) {
+        return dpMap[index][a][0] < dpMap[index][b][0] ? [dpMap[index][a][0] + v, a] : [dpMap[index][b][0] + v, b];
+    }
+
+    for (const [index, [r, g, b]] of Object.entries(data)) {
+        if (dpMap.length === 0) {
+            dpMap.push([[r, 0], [g, 1], [b, 2]]);
+            continue;
+        }
+        dpMap.push([
+            min(index - 1, 1, 2, r),
+            min(index - 1, 0, 2, g),
+            min(index - 1, 0, 1, b),
+        ]);
+    }
+
+    const answer = Math.min(...dpMap[dpMap.length - 1].map(it => it[0]));
+
+    let cursor = 0;
+    let disableNext = true;
+
+    const SVG_TAGS = ['svg', 'line', 'circle', 'animate', 'clipPath', 'rect'];
+    function h(tag, { className, children, onClick, ...rest } = {}) {
+        let element;
+        if (SVG_TAGS.includes(tag)) {
+            element = document.createElementNS('http://www.w3.org/2000/svg', tag);
+            if (tag == 'svg') {
+                element.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+            }
+        } else {
+            element = document.createElement(tag);
+        };
+        if (className) {
+            element.classList.add(className);
+        }
+        if (onClick) {
+            element.onclick = onClick;
+        }
+        for (const [key, value] of Object.entries(rest)) {
+            element.setAttribute(key, value);
+        }
+        element.append(...(children || []).filter(Boolean).flat(Infinity));
+        return element;
+    }
+
+    const Houses = () => (
+        h('div', {
+            id: 'houses',
+            children: data.map((value, index, array) => {
+                const style = (id) => {
+                    if (array.length - 1 === index) {
+                        if (cursor === data.flat().length && answer !== dpMap[index][id][0]) {
+                            return 'disabled';
+                        }
+                        return '';
+                    }
+                    if (cursor > index * 3 + id) {
+                        return 'disabled';
+                    }
+                    return '';
+                };
+
+                const LineTo = ({ id }) => {
+                    if (cursor < index * 3 + id || index == 0) {
+                        return data[index][id];
+                    }
+                    return (
+                        [0, 1, 2]
+                            .map(other =>
+                                other !== id &&
+                                (
+                                    other === dpMap[index][id][1]
+                                        ?
+                                        [
+                                            h('span', { class: `line line-select line-pos-${id}${other}` }),
+                                            cursor > index * 3 + id ? dpMap[index][id][0] : `${dpMap[index - 1][other][0]} + ${data[index][id]}`
+                                        ]
+                                        : h('span', { class: `line line-pos-${id}${other}` })
+                                )
+                            ).filter(Boolean).flat(Infinity)
+                    );
+                };
+                return h('div', {
+                    class: "prices",
+                    children: [
+                        h('span', {
+                            class: `price-for-paint ${style(0)} red`,
+                            children: [
+                                LineTo({ id: 0 }),
+                            ]
+                        }),
+                        h('span', {
+                            class: `price-for-paint ${style(1)} green`,
+                            children: [
+                                LineTo({ id: 1 }),
+                            ]
+                        }),
+                        h('span', {
+                            class: `price-for-paint ${style(2)} blue`,
+                            children: [
+                                LineTo({ id: 2 }),
+                            ]
+                        })
+                    ]
+                }
+                )
+            })
+        })
+    );
+    const Next = () => h('button', {
+        id: 'next',
+        onClick: next,
+        children: ['다음']
+    });
+
+    function update() {
+        root.innerHTML = '';
+        root.append(Houses());
+        root.append(Next());
+    }
+
+    function next() {
+        if (cursor >= data.length * 3) {
+            return;
+        }
+        cursor += 1;
+
+        update();
+
+        if (cursor >= 3) {
+            next.disabled = true;
+            setTimeout(() => {
+                next.disabled = false;
+            }, 1500);
+        }
+    }
+
+    update();
+</script>
+
+</html>
