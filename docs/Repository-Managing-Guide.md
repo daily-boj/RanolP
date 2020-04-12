@@ -5,8 +5,9 @@
 ## 설치
 
 1. 저장소를 포크하고 클론하세요.
-2. `./boj.sh reset`을 실행하고, 수락하세요.
-3. :tada: 끝!
+2. `cd scripts`를 하고 `yarn` 혹은 `npm install`을 수행하세요.
+3. `cd ../`로 다시 원래 폴더로 돌아가서, `./boj.sh reset`을 실행하고, 수락하세요.
+4. :tada: 끝!
 
 ## scripts/
 
