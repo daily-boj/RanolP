@@ -75,13 +75,13 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, LV1 3447 버그왕
 </a>
-</td><td><a href="./3447/solution.rs">풀이 (.rs)</a></td></tr>
+</td><td><a href="./3447/solution.rs">풀이 (.rs)</a>, <a href="./3447/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/9461">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, LV2 9461 파도반 수열
 </a>
-</td><td><a href="./9461/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./9461/solution.py">풀이 (.py)</a>, <a href="./9461/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1149">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
