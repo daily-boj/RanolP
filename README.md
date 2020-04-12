@@ -92,7 +92,7 @@
   Silver I, LV3 1149 RGB거리
 </a>
 </td><td><a href="./1149/solution.py">풀이 (.py)</a>, <a href="./1149/README.md">노트</a></td></tr>
-<tr><td rowspan="2">2020-04-13</td><td>
+<tr><td rowspan="3">2020-04-13</td><td>
 <a href="http://noj.am/2547">
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
   Bronze III, LV1 2547 사탕 선생 고창영
@@ -104,6 +104,12 @@
   Silver III, LV2 2508 사탕 박사 고창영
 </a>
 </td><td><a href="./2508/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2435">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, LV3 2435 기상청 인턴 신현수
+</a>
+</td><td><a href="./2435/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -114,8 +120,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 10 of 13 (76.92%) |
-| Rust (.rs) | 3 of 13 (23.08%) |
+| Python (.py) | 11 of 14 (78.57%) |
+| Rust (.rs) | 3 of 14 (21.43%) |
 
 
 
