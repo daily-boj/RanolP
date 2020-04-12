@@ -55,7 +55,6 @@
 
 <script>
     const SVG_TAGS = ['svg', 'line', 'circle', 'animate', 'clipPath', 'rect'];
-    const NUMBER_REGEX = /[0-9]+/;
     function h(tag, { className, children, onClick, ...rest } = {}) {
         let element;
         if (SVG_TAGS.includes(tag)) {
@@ -162,6 +161,7 @@
         }
     }
 
+    const NUMBER_REGEX = /[0-9]+/;
     const accept = (target, other, shouldUpdate = true) => {
         const match = NUMBER_REGEX.exec(target.value);
         if (match && target.checkValidity()) {
