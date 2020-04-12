@@ -92,6 +92,12 @@
   Silver I, LV3 1149 RGB거리
 </a>
 </td><td><a href="./1149/solution.py">풀이 (.py)</a>, <a href="./1149/README.md">노트</a></td></tr>
+<tr><td rowspan="1">2020-04-13</td><td>
+<a href="http://noj.am/2547">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, LV1 2547 사탕 선생 고창영
+</a>
+</td><td><a href="./2547/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -102,8 +108,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 8 of 11 (72.73%) |
-| Rust (.rs) | 3 of 11 (27.27%) |
+| Python (.py) | 9 of 12 (75.00%) |
+| Rust (.rs) | 3 of 12 (25.00%) |
 
 
 
