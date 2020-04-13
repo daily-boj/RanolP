@@ -110,6 +110,24 @@
   Silver II, LV3 2435 기상청 인턴 신현수
 </a>
 </td><td><a href="./2435/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-14</td><td>
+<a href="http://noj.am/14648">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 14648 쿼리 맛보기
+</a>
+</td><td><a href="./14648/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11047">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 11047 동전 0
+</a>
+</td><td><a href="./11047/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1904">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 1904 01타일
+</a>
+</td><td><a href="./1904/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -120,8 +138,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 11 of 14 (78.57%) |
-| Rust (.rs) | 3 of 14 (21.43%) |
+| Python (.py) | 14 of 17 (82.35%) |
+| Rust (.rs) | 3 of 17 (17.65%) |
 
 
 
