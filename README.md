@@ -97,19 +97,19 @@
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
   Bronze III, LV1 2547 사탕 선생 고창영
 </a>
-</td><td><a href="./2547/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./2547/solution.py">풀이 (.py)</a>, <a href="./2547/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2508">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, LV2 2508 사탕 박사 고창영
 </a>
-</td><td><a href="./2508/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./2508/solution.py">풀이 (.py)</a>, <a href="./2508/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2435">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, LV3 2435 기상청 인턴 신현수
 </a>
-</td><td><a href="./2435/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./2435/solution.py">풀이 (.py)</a>, <a href="./2435/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-14</td><td>
 <a href="http://noj.am/14648">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
