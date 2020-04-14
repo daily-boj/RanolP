@@ -20,9 +20,15 @@
 폴더를 첫 상태로 초기화합니다.
 새로 설치하려는 게 아니면 실행하지 마세요!
 
-### (TODO) ./boj.sh test \<number\> \[file extension\]
+### (TODO) ,/boj.sh init [--id \<number\>]
 
-테스트 수트를 수행합니다.
+문제 초기 설정을 수행합니다.
+템플릿을 기반으로 솔루션 파일, meta.json, Note.md를 생성합니다.
+Note.md의 경우 생략하고 이후에 다시 명령어를 수행해 생성할 수 있습니다.
+
+### (TODO) ./boj.sh test \<number\>
+
+솔루션 파일을 선택하고 테스트 수트를 수행합니다.
 `/{number}/test/` 폴더가 없거나 파일이 하나도 없는 경우 종료 코드 `1`로 종료합니다.
 `/{number}/solution.{file extension}` 을 BOJ 실행 환경과 유사한 상태로 만들어 실행합니다.
 그리고 모든 `{name}`에 대해, `/{number}/test/{name}.in`을 입력으로 넣었을 때 `/{number}/test/{name}.out` 결과물과 동일한지 검증합니다.
