@@ -143,7 +143,7 @@
 <tr><td>
 <a href="http://noj.am/18111">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 18111 마인크래프트
+  Silver III, C 18111 마인크래프트
 </a>
 </td><td>푸는 중</td></tr>
   </table>

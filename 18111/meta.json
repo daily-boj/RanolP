@@ -3,5 +3,6 @@
   "lastUpdate": "2020-04-15",
   "status": "in-progress",
   "type": "daily-boj",
-  "order": 2
+  "order": 2,
+  "problemDifficulty": "C"
 }
