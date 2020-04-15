@@ -6,8 +6,10 @@
 
 1. 저장소를 포크하고 클론하세요.
 2. `cd scripts`를 하고 `yarn` 혹은 `npm install`을 통해 의존성을 설치하세요.
-3. `cd ../`로 다시 원래 폴더로 돌아가서, `./boj.sh reset`을 실행하고 수락하세요.
+3. `cd ../`로 다시 원래 폴더로 돌아가서, `boj reset`<sup>1</sup>을 실행하고 수락하세요.
 4. :tada: 끝!
+
+<sup>1: *NIX 계열은 ./boj.sh reset, Windows는 ./boj.cmd reset, Powershell을 쓴다면 ./boj.ps1 reset</sup>
 
 ## scripts/
 
