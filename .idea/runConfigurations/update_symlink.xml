@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="update-symlink" type="NodeJSConfigurationType" path-to-js-file="dist/bin/update-symlink.js" working-dir="$PROJECT_DIR$/scripts">
+  <configuration default="false" name="update-symlink" type="NodeJSConfigurationType" path-to-js-file="scripts/dist/bin/update-symlink.js" working-dir="$PROJECT_DIR$">
     <method v="2" />
   </configuration>
 </component>

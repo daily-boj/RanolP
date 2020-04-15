@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="init" type="NodeJSConfigurationType" path-to-js-file="dist/bin/init.js" working-dir="$PROJECT_DIR$/scripts">
+  <configuration default="false" name="init" type="NodeJSConfigurationType" path-to-js-file="scripts/dist/bin/init.js" working-dir="$PROJECT_DIR$">
     <method v="2" />
   </configuration>
 </component>
