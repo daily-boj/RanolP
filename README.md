@@ -145,7 +145,7 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, C 18111 마인크래프트
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./18111/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -156,8 +156,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 16 of 19 (84.21%) |
-| Rust (.rs) | 3 of 19 (15.79%) |
+| Python (.py) | 17 of 20 (85.00%) |
+| Rust (.rs) | 3 of 20 (15.00%) |
 
 
 
