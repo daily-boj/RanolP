@@ -12,7 +12,7 @@
 ## scripts/
 
 모든 스크립트는 TypeScript로 작성되어 있습니다. `node` 의 설치를 필요로 합니다. 저장소 루트에 `boj.sh`, `boj.cmd`, `boj.ps1` 파일이 있어 편하게 사용할 수 있습니다.
-IntelliJ Ultimate이나 WebStorm을 사용하고 있다면 Run/Debug를 통해서 스크립트를 실행할 수 있습니다.
+IntelliJ Ultimate 혹은 그와 비슷한 프로덕트에서 Node.js 플러그인을 사용하고 있다면 Run/Debug를 통해서 스크립트를 실행할 수 있습니다.
 
 `<꺽쇠>`로 감싸진 인수는 필수이며 `[사각 괄호]`로 감싸진 인수는 필수가 아닙니다.
 
