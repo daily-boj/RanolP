@@ -163,5 +163,5 @@
 
 ## 연결고리
 
-- [저장소 관리 가이드](./docs/Repository-Managing-Guide.md)
-- [저장소 방문 가이드](./docs/Repository-Visiting-Guide.md)
+- [boj](https://github.com/RanolP/boj)
+- [저장소 방문 가이드](./Repository-Visiting-Guide.md)
