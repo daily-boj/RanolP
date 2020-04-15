@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="clean" type="NodeJSConfigurationType" path-to-js-file="dist/bin/clean.js" working-dir="$PROJECT_DIR$/scripts">
+    <method v="2" />
+  </configuration>
+</component>
