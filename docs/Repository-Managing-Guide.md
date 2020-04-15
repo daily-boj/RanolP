@@ -24,7 +24,7 @@
 
 문제 초기 설정을 수행합니다.
 템플릿을 기반으로 솔루션 파일, meta.json, Note.md를 생성합니다.
-Note.md의 경우 생략하고 이후에 다시 명령어를 수행해 생성할 수 있습니다.
+Note.md와 솔루션 파일의 경우 생략하고 이후에 다시 명령어를 수행해 생성할 수 있습니다.
 솔루션 템플릿 파일은 `template/{language-id}/*.{file extension}` 에 저장하며,
 기본적으로 `template/{language-id}/main.{file extension}`이 선택됩니다.
 스페이스 키로 선택/해제할 수 있습니다.
