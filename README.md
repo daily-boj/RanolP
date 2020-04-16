@@ -146,6 +146,24 @@
   Silver III, C 18111 마인크래프트
 </a>
 </td><td><a href="./18111/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-16</td><td>
+<a href="http://noj.am/17363">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, A 17363 우유가 넘어지면?
+</a>
+</td><td><a href="./17363/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9693">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, B 9693 시파르
+</a>
+</td><td><a href="./9693/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/18429">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 18429 근손실
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -156,8 +174,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 17 of 20 (85.00%) |
-| Rust (.rs) | 3 of 20 (15.00%) |
+| Python (.py) | 19 of 22 (86.36%) |
+| Rust (.rs) | 3 of 22 (13.64%) |
 
 
 
