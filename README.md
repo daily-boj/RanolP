@@ -163,7 +163,7 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 18429 근손실
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./18429/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -174,8 +174,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 19 of 22 (86.36%) |
-| Rust (.rs) | 3 of 22 (13.64%) |
+| Python (.py) | 20 of 23 (86.96%) |
+| Rust (.rs) | 3 of 23 (13.04%) |
 
 
 
