@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/1373">
         <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-        Bronze II, LV1 1373 2진수 8진수
+        Bronze II, 1373 2진수 8진수
       </a>
     </td>
     <td>

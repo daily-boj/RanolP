@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/2422">
         <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-        Silver V, LV1 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
+        Silver V, 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
       </a>
     </td>
     <td>

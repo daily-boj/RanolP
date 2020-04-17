@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/3447">
         <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-        Bronze I, LV1 3447 버그왕
+        Bronze I, 3447 버그왕
       </a>
     </td>
     <td>

@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/9461">
         <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-        Silver III, LV2 9461 파도반 수열
+        Silver III, 9461 파도반 수열
       </a>
     </td>
     <td>

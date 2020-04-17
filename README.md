@@ -38,76 +38,64 @@
   Silver II, 1735 분수 합
 </a>
 </td><td><a href="./1735/solution.py">풀이 (.py)</a>, <a href="./1735/README.md">노트</a></td></tr>
-<tr><td rowspan="3">2020-04-10</td><td>
+<tr><td rowspan="1">2020-04-10</td><td>
 <a href="http://noj.am/2422">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-  Silver V, LV1 (Legacy) 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
+  Silver V, 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
 </a>
 </td><td><a href="./2422/solution.rs">풀이 (.rs)</a>, <a href="./2422/README.md">노트</a></td></tr>
-<tr><td>
-<a href="http://noj.am/6236">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, LV2 (Legacy) 6236 용돈 관리
-</a>
-</td><td><a href="./6236/solution.rs">풀이 (.rs)</a> *지각</td></tr>
-<tr><td>
-<a href="http://noj.am/1043">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, LV3 (Legacy) 1043 거짓말
-</a>
-</td><td><a href="./1043/solution.py">풀이 (.py)</a> *지각</td></tr>
 <tr><td rowspan="3">2020-04-11</td><td>
 <a href="http://noj.am/1373">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, LV1 (Legacy) 1373 2진수 8진수
+  Bronze II, 1373 2진수 8진수
 </a>
 </td><td><a href="./1373/solution.py">풀이 (.py)</a>, <a href="./1373/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/3213">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, LV2 (Legacy) 3213 피자
+  Silver III, 3213 피자
 </a>
 </td><td><a href="./3213/solution.py">풀이 (.py)</a>, <a href="./3213/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1068">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, LV3 (Legacy) 1068 트리
+  Silver I, 1068 트리
 </a>
 </td><td><a href="./1068/solution.py">풀이 (.py)</a>, <a href="./1068/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-12</td><td>
 <a href="http://noj.am/3447">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-  Bronze I, LV1 (Legacy) 3447 버그왕
+  Bronze I, 3447 버그왕
 </a>
 </td><td><a href="./3447/solution.rs">풀이 (.rs)</a>, <a href="./3447/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/9461">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, LV2 (Legacy) 9461 파도반 수열
+  Silver III, 9461 파도반 수열
 </a>
 </td><td><a href="./9461/solution.py">풀이 (.py)</a>, <a href="./9461/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1149">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, LV3 (Legacy) 1149 RGB거리
+  Silver I, 1149 RGB거리
 </a>
 </td><td><a href="./1149/solution.py">풀이 (.py)</a>, <a href="./1149/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-13</td><td>
 <a href="http://noj.am/2547">
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
-  Bronze III, LV1 (Legacy) 2547 사탕 선생 고창영
+  Bronze III, 2547 사탕 선생 고창영
 </a>
 </td><td><a href="./2547/solution.py">풀이 (.py)</a>, <a href="./2547/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2508">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, LV2 (Legacy) 2508 사탕 박사 고창영
+  Silver III, 2508 사탕 박사 고창영
 </a>
 </td><td><a href="./2508/solution.py">풀이 (.py)</a>, <a href="./2508/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2435">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, LV3 (Legacy) 2435 기상청 인턴 신현수
+  Silver II, 2435 기상청 인턴 신현수
 </a>
 </td><td><a href="./2435/solution.py">풀이 (.py)</a>, <a href="./2435/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-14</td><td>
@@ -131,31 +119,31 @@
 <tr><td rowspan="3">2020-04-15</td><td>
 <a href="http://noj.am/11383">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-  Bronze I, A 11383 뚊
+  Bronze I, 11383 뚊
 </a>
 </td><td><a href="./11383/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/16510">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, B 16510 Predictable Queue
+  Silver I, 16510 Predictable Queue
 </a>
 </td><td><a href="./16510/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/18111">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, C 18111 마인크래프트
+  Silver III, 18111 마인크래프트
 </a>
 </td><td><a href="./18111/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-04-16</td><td>
 <a href="http://noj.am/17363">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-  Bronze I, A 17363 우유가 넘어지면?
+  Bronze I, 17363 우유가 넘어지면?
 </a>
 </td><td><a href="./17363/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/9693">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, B 9693 시파르
+  Silver IV, 9693 시파르
 </a>
 </td><td><a href="./9693/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -164,12 +152,24 @@
   Silver III, 18429 근손실
 </a>
 </td><td><a href="./18429/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="1">2020-04-17</td><td>
+<tr><td rowspan="3">2020-04-17</td><td>
 <a href="http://noj.am/2875">
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
-  Bronze III, A 2875 대회 or 인턴
+  Bronze III, 2875 대회 or 인턴
 </a>
 </td><td><a href="./2875/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/6236">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 6236 용돈 관리
+</a>
+</td><td><a href="./6236/solution.rs">풀이 (.rs)</a> (→ 2020-04-10)</td></tr>
+<tr><td>
+<a href="http://noj.am/1043">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1043 거짓말
+</a>
+</td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
   </table>
 
 

@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/3213">
         <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-        Silver III, LV2 3213 피자
+        Silver III, 3213 피자
       </a>
     </td>
     <td>

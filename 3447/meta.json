@@ -1,8 +1,7 @@
 {
-  "date": "2020-04-12",
-  "lastUpdate": "2020-04-12",
+  "createDate": "2020-04-12",
+  "solvedDate": "2020-04-12",
   "status": "solved",
   "type": "daily-boj",
-  "order": 1,
-  "love": 1
+  "order": 1
 }

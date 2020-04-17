@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/2508">
         <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-        Silver III, LV2 2508 사탕 박사 고창영
+        Silver III, 2508 사탕 박사 고창영
       </a>
     </td>
     <td>

@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/2547">
         <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
-        Bronze III, LV1 2547 사탕 선생 고창영
+        Bronze III, 2547 사탕 선생 고창영
       </a>
     </td>
     <td>

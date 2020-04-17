@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/1149">
         <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-        Silver I, LV3 1149 RGB거리
+        Silver I, 1149 RGB거리
       </a>
     </td>
     <td>

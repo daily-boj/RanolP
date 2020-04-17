@@ -11,7 +11,7 @@
     <td>
       <a href="http://noj.am/1068">
         <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-        Silver I, LV3 1068 트리
+        Silver I, 1068 트리
       </a>
     </td>
     <td>
