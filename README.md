@@ -164,6 +164,12 @@
   Silver III, 18429 근손실
 </a>
 </td><td><a href="./18429/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="1">2020-04-17</td><td>
+<a href="http://noj.am/2875">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, A 2875 대회 or 인턴
+</a>
+</td><td><a href="./2875/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -174,8 +180,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 20 of 23 (86.96%) |
-| Rust (.rs) | 3 of 23 (13.04%) |
+| Python (.py) | 21 of 24 (87.50%) |
+| Rust (.rs) | 3 of 24 (12.50%) |
 
 
 
