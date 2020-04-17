@@ -55,7 +55,7 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, LV3 (Legacy) 1043 거짓말
 </a>
-</td><td>타임아웃</td></tr>
+</td><td><a href="./1043/solution.py">풀이 (.py)</a> *지각</td></tr>
 <tr><td rowspan="3">2020-04-11</td><td>
 <a href="http://noj.am/1373">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -180,8 +180,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 21 of 25 (84.00%) |
-| Rust (.rs) | 4 of 25 (16.00%) |
+| Python (.py) | 22 of 26 (84.62%) |
+| Rust (.rs) | 4 of 26 (15.38%) |
 
 
 
