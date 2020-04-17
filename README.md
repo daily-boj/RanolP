@@ -49,7 +49,7 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, LV2 (Legacy) 6236 용돈 관리
 </a>
-</td><td>타임아웃</td></tr>
+</td><td><a href="./6236/solution.rs">풀이 (.rs)</a> *지각</td></tr>
 <tr><td>
 <a href="http://noj.am/1043">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
@@ -180,8 +180,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 21 of 24 (87.50%) |
-| Rust (.rs) | 3 of 24 (12.50%) |
+| Python (.py) | 21 of 25 (84.00%) |
+| Rust (.rs) | 4 of 25 (16.00%) |
 
 
 
