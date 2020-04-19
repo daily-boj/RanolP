@@ -153,12 +153,6 @@
 </a>
 </td><td><a href="./18429/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-04-17</td><td>
-<a href="http://noj.am/2875">
-  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
-  Bronze III, 2875 대회 or 인턴
-</a>
-</td><td><a href="./2875/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/6236">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 6236 용돈 관리
@@ -170,6 +164,48 @@
   Gold V, 1043 거짓말
 </a>
 </td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
+<tr><td>
+<a href="http://noj.am/2875">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, 2875 대회 or 인턴
+</a>
+</td><td><a href="./2875/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-18</td><td>
+<a href="http://noj.am/9933">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 9933 민균이의 비밀번호
+</a>
+</td><td><a href="./9933/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15500">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 15500 이상한 하노이 탑
+</a>
+</td><td><a href="./15500/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/18891">
+  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
+  Gold I, 18891 제21대 국회의원 선거
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-04-19</td><td>
+<a href="http://noj.am/9625">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 9625 BABBA
+</a>
+</td><td><a href="./9625/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2606">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2606 바이러스
+</a>
+</td><td><a href="./2606/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1058">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 1058 친구
+</a>
+</td><td><a href="./1058/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -180,8 +216,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 22 of 26 (84.62%) |
-| Rust (.rs) | 4 of 26 (15.38%) |
+| Python (.py) | 27 of 31 (87.10%) |
+| Rust (.rs) | 4 of 31 (12.90%) |
 
 
 
