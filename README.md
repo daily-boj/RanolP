@@ -1,8 +1,6 @@
 # @daily-boj/RanolP
 
-> 이 저장소를 포크해 사용할 수 있습니다.
-> 하지만 아직 기능이 많이 부족합니다.
-> [연결고리](#연결고리)에서 저장소 관리 가이드를 확인할 수 있습니다.
+> 이 저장소는 [boj](https://github.com/RanolP/boj)를 통해 관리하고 있습니다.
 
 ## 문제 풀이 현황
 
@@ -206,6 +204,24 @@
   Silver I, 1058 친구
 </a>
 </td><td><a href="./1058/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-20</td><td>
+<a href="http://noj.am/4378">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 4378 트ㅏㅊ;
+</a>
+</td><td><a href="./4378/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11725">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11725 트리의 부모 찾기
+</a>
+</td><td><a href="./11725/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2644">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2644 촌수계산
+</a>
+</td><td><a href="./2644/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -216,8 +232,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 27 of 31 (87.10%) |
-| Rust (.rs) | 4 of 31 (12.90%) |
+| Python (.py) | 30 of 34 (88.24%) |
+| Rust (.rs) | 4 of 34 (11.76%) |
 
 
 

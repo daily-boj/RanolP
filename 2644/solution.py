@@ -1,3 +1,4 @@
+
 class Edge:
     def __init__(self, vertex1, vertex2):
         self.vertex1 = vertex1
@@ -49,3 +50,30 @@ class Vertex:
                 for edge in vertex.edge_list:
                     if edge.vertex2.id not in visited:
                         to_visit.append([edge.vertex2, depth + 1])
+
+
+def connect(vertex1, vertex2):
+    vertex1.add_edge_to(vertex2)
+    vertex2.add_edge_to(vertex1)
+
+n = int(input())
+vertices = [Vertex(id) for id in range(n)]
+x, y = map(int, input().split())
+m = int(input())
+for _ in range(m):
+    a, b = map(int, input().split())
+    connect(vertices[a - 1], vertices[b - 1])
+
+answer = -1
+
+def on_visit(node, depth):
+    global answer
+    if node.id == y - 1:
+        answer = depth
+        return VisitResult.CANCEL_ALL
+    return VisitResult.CONTINUE
+
+
+vertices[x - 1].dfs(on_visit)
+
+print(answer)
