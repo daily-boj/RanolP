@@ -257,7 +257,7 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 2491 수열
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./2491/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -268,8 +268,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 32 of 36 (88.89%) |
-| Rust (.rs) | 4 of 36 (11.11%) |
+| Python (.py) | 33 of 37 (89.19%) |
+| Rust (.rs) | 4 of 37 (10.81%) |
 
 
 
