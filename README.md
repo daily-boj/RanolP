@@ -233,11 +233,29 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 5639 이진 검색 트리
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2019">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 2019 다각형개수
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-04-22</td><td>
+<a href="http://noj.am/13301">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 13301 타일 장식물
+</a>
+</td><td><a href="./13301/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2579">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2579 계단 오르기
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2491">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2491 수열
 </a>
 </td><td>푸는 중</td></tr>
   </table>
@@ -250,8 +268,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 31 of 35 (88.57%) |
-| Rust (.rs) | 4 of 35 (11.43%) |
+| Python (.py) | 32 of 36 (88.89%) |
+| Rust (.rs) | 4 of 36 (11.11%) |
 
 
 
