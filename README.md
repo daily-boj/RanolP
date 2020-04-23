@@ -251,13 +251,31 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 2579 계단 오르기
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./2579/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2491">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 2491 수열
 </a>
 </td><td><a href="./2491/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-23</td><td>
+<a href="http://noj.am/17247">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 17247 택시 거리
+</a>
+</td><td><a href="./17247/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1654">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 1654 랜선 자르기
+</a>
+</td><td><a href="./1654/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11053">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11053 가장 긴 증가하는 부분 수열
+</a>
+</td><td><a href="./11053/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -268,8 +286,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 33 of 37 (89.19%) |
-| Rust (.rs) | 4 of 37 (10.81%) |
+| Python (.py) | 37 of 41 (90.24%) |
+| Rust (.rs) | 4 of 41 (9.76%) |
 
 
 
