@@ -119,7 +119,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 11383 뚊
 </a>
-</td><td><a href="./11383/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./11383/solution.py">풀이 (.py)</a>, <a href="./11383/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/16510">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -191,7 +191,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 9625 BABBA
 </a>
-</td><td><a href="./9625/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./9625/solution.py">풀이 (.py)</a>, <a href="./9625/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2606">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
@@ -209,7 +209,7 @@
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
   Silver V, 4378 트ㅏㅊ;
 </a>
-</td><td><a href="./4378/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./4378/solution.py">풀이 (.py)</a>, <a href="./4378/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/11725">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
