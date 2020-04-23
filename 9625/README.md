@@ -36,9 +36,10 @@ K가 작기 때문에 O(1)을 만들어도 나쁘지는 않지만...
 
 <a href="https://twitter.com/PSing_Pirim/status/1227449216013946880">
 
-> <img src="https://pbs.twimg.com/profile_images/1227442623327150080/QYE5fpZ2_normal.png" alt="PSing_Pirim" style="vertical-align: top; border-radius: 50%;"> <span style="display:inline-block;">**PS하는 피림이**<br>@PSing_Pirim</span>
+> <table><tr><td valign="center"><img src="https://pbs.twimg.com/profile_images/1227442623327150080/QYE5fpZ2_normal.png" alt="PSing_Pirim"></td> <td> <b>PS하는 피림이</b><br>@PSing_Pirim</td></tr></table>
 > 
 > DB를 용납 못하는 피림이
+>
 > ![Image](https://pbs.twimg.com/media/EQjGjIdWoAAE5SO?format=png&name=small)
 
 </a>
