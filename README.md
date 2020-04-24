@@ -276,6 +276,24 @@
   Silver II, 11053 가장 긴 증가하는 부분 수열
 </a>
 </td><td><a href="./11053/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-24</td><td>
+<a href="http://noj.am/1357">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1357 뒤집힌 덧셈
+</a>
+</td><td><a href="./1357/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14715">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
+</a>
+</td><td><a href="./14715/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1790">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 1790 수 이어 쓰기 2
+</a>
+</td><td><a href="./1790/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -286,8 +304,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 37 of 41 (90.24%) |
-| Rust (.rs) | 4 of 41 (9.76%) |
+| Python (.py) | 40 of 44 (90.91%) |
+| Rust (.rs) | 4 of 44 (9.09%) |
 
 
 
