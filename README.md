@@ -294,6 +294,24 @@
   Silver I, 1790 수 이어 쓰기 2
 </a>
 </td><td><a href="./1790/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-25</td><td>
+<a href="http://noj.am/11285">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 11285 초성 중성 종성 2
+</a>
+</td><td><a href="./11285/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/18187">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 18187 평면 분할
+</a>
+</td><td><a href="./18187/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1992">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 1992 쿼드트리
+</a>
+</td><td><a href="./1992/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -304,8 +322,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 40 of 44 (90.91%) |
-| Rust (.rs) | 4 of 44 (9.09%) |
+| Python (.py) | 43 of 47 (91.49%) |
+| Rust (.rs) | 4 of 47 (8.51%) |
 
 
 
