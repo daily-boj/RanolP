@@ -30,7 +30,7 @@
 
 점화식은 다음과 같습니다.
 
-P(n) = P(n - 1) + P(n - 5)
+![P(n) = P(n - 1) + P(n - 5)](https://render.githubusercontent.com/render/math?math=P(n)%20%3D%20P(n%20-%201)%20%2B%20P(n%20-%205))
 
-문제에 앞 10개의 값이 주어져 있으므로 n - 5가 나오지 않을 일은 없습니다.
+문제에 앞 10개의 값이 주어져 있으므로 ![n - 5](https://render.githubusercontent.com/render/math?math=n%20-%205)가 나오지 않을 일은 없습니다.
 DP 배열을 하나 만들고 재귀로 풀면 됩니다.

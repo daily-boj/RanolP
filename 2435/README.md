@@ -24,7 +24,8 @@
 
 ## 문제 분석
 
-길이가 n인 수열이 주어졌을 때, 연속적인 k개의 원소를 더한 값 중 가장 큰 값을 구하는 문제입니다.
+길이가 ![n](https://render.githubusercontent.com/render/math?math=n)인 수열이 주어졌을 때,
+연속적인 ![k](https://render.githubusercontent.com/render/math?math=k)개의 원소를 더한 값 중 가장 큰 값을 구하는 문제입니다.
 
 ## 풀이
 
