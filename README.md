@@ -305,7 +305,7 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 18187 평면 분할
 </a>
-</td><td><a href="./18187/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./18187/solution.py">풀이 (.py)</a>, <a href="./18187/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1992">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
