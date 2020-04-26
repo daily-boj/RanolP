@@ -215,7 +215,7 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11725 트리의 부모 찾기
 </a>
-</td><td><a href="./11725/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./11725/solution.py">풀이 (.py)</a>, <a href="./11725/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2644">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
