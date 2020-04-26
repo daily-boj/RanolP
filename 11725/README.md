@@ -38,7 +38,7 @@
 
 
 
-![dot graph](../boj-public/graphviz/dot/13421b44b5a0fc96a65f238a4e664096.svg)
+![dot graph](../boj-public/graphviz/dot/11725/13421b44b5a0fc96a65f238a4e664096.svg)
 
 
 
@@ -46,6 +46,6 @@
 
 
 
-![dot graph](../boj-public/graphviz/dot/d9e9ddf238ce73e3a3e147a867169654.svg)
+![dot graph](../boj-public/graphviz/dot/11725/d9e9ddf238ce73e3a3e147a867169654.svg)
 
 
