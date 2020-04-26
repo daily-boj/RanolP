@@ -222,18 +222,12 @@
   Silver II, 2644 촌수계산
 </a>
 </td><td><a href="./2644/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="3">2020-04-21</td><td>
+<tr><td rowspan="2">2020-04-21</td><td>
 <a href="http://noj.am/15721">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 15721 번데기
 </a>
 </td><td><a href="./15721/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/5639">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 5639 이진 검색 트리
-</a>
-</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2019">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -312,6 +306,12 @@
   Silver I, 1992 쿼드트리
 </a>
 </td><td><a href="./1992/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="1">2020-04-26</td><td>
+<a href="http://noj.am/5639">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 5639 이진 검색 트리
+</a>
+</td><td><a href="./5639/solution.py">풀이 (.py)</a> (→ 2020-04-21)</td></tr>
   </table>
 
 
@@ -322,8 +322,8 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 43 of 47 (91.49%) |
-| Rust (.rs) | 4 of 47 (8.51%) |
+| Python (.py) | 44 of 48 (91.67%) |
+| Rust (.rs) | 4 of 48 (8.33%) |
 
 
 
