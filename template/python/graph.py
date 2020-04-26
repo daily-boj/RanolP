@@ -49,3 +49,8 @@ class Vertex:
                 for edge in vertex.edge_list:
                     if edge.vertex2.id not in visited:
                         to_visit.append([edge.vertex2, depth + 1])
+
+
+def connect(vertex1, vertex2):
+    vertex1.add_edge_to(vertex2)
+    vertex2.add_edge_to(vertex1)
