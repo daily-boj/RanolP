@@ -329,7 +329,7 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 4531 Verdis Quo
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./4531/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -340,9 +340,9 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 45 of 50 (90.00%) |
-| Rust (.rs) | 4 of 50 (8.00%) |
-| Kotlin (.kt) | 1 of 50 (2.00%) |
+| Python (.py) | 45 of 51 (88.24%) |
+| Rust (.rs) | 4 of 51 (7.84%) |
+| Kotlin (.kt) | 2 of 51 (3.92%) |
 
 
 
