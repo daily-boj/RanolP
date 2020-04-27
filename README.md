@@ -312,13 +312,7 @@
   Silver I, 2019 다각형개수
 </a>
 </td><td><a href="./2019/solution.py">풀이 (.py)</a> (→ 2020-04-21)</td></tr>
-<tr><td rowspan="3">2020-04-27</td><td>
-<a href="http://noj.am/10610">
-  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-  Silver V, 10610 30
-</a>
-</td><td>푸는 중</td></tr>
-<tr><td>
+<tr><td rowspan="2">2020-04-27</td><td>
 <a href="http://noj.am/2504">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 2504 괄호의 값
@@ -330,6 +324,12 @@
   Silver I, 4531 Verdis Quo
 </a>
 </td><td><a href="./4531/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="1">2020-04-28</td><td>
+<a href="http://noj.am/10610">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 10610 30
+</a>
+</td><td><a href="./10610/solution.kt">풀이 (.kt)</a> (→ 2020-04-27)</td></tr>
   </table>
 
 
@@ -340,9 +340,9 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 45 of 51 (88.24%) |
-| Rust (.rs) | 4 of 51 (7.84%) |
-| Kotlin (.kt) | 2 of 51 (3.92%) |
+| Python (.py) | 45 of 52 (86.54%) |
+| Rust (.rs) | 4 of 52 (7.69%) |
+| Kotlin (.kt) | 3 of 52 (5.77%) |
 
 
 
