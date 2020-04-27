@@ -92,8 +92,8 @@
 </td><td><a href="./2508/solution.py">풀이 (.py)</a>, <a href="./2508/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2435">
-  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, 2435 기상청 인턴 신현수
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2435 기상청 인턴 신현수
 </a>
 </td><td><a href="./2435/solution.py">풀이 (.py)</a>, <a href="./2435/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-14</td><td>
@@ -158,8 +158,8 @@
 </td><td><a href="./6236/solution.rs">풀이 (.rs)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
 <a href="http://noj.am/1043">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1043 거짓말
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1043 거짓말
 </a>
 </td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
@@ -312,6 +312,24 @@
   Silver I, 2019 다각형개수
 </a>
 </td><td><a href="./2019/solution.py">풀이 (.py)</a> (→ 2020-04-21)</td></tr>
+<tr><td rowspan="3">2020-04-27</td><td>
+<a href="http://noj.am/10610">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 10610 30
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2504">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2504 괄호의 값
+</a>
+</td><td><a href="./2504/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/4531">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 4531 Verdis Quo
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -322,8 +340,9 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 45 of 49 (91.84%) |
-| Rust (.rs) | 4 of 49 (8.16%) |
+| Python (.py) | 45 of 50 (90.00%) |
+| Rust (.rs) | 4 of 50 (8.00%) |
+| Kotlin (.kt) | 1 of 50 (2.00%) |
 
 
 
