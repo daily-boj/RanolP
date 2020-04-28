@@ -324,12 +324,30 @@
   Silver I, 4531 Verdis Quo
 </a>
 </td><td><a href="./4531/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="1">2020-04-28</td><td>
+<tr><td rowspan="4">2020-04-28</td><td>
 <a href="http://noj.am/10610">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
   Silver V, 10610 30
 </a>
 </td><td><a href="./10610/solution.kt">풀이 (.kt)</a> (→ 2020-04-27)</td></tr>
+<tr><td>
+<a href="http://noj.am/4732">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 4732 조옮김
+</a>
+</td><td><a href="./4732/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/10799">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 10799 쇠막대기
+</a>
+</td><td><a href="./10799/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2757">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2757 엑셀
+</a>
+</td><td><a href="./2757/solution.js">풀이 (.js)</a></td></tr>
   </table>
 
 
@@ -340,9 +358,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 45 of 52 (86.54%) |
-| Rust (.rs) | 4 of 52 (7.69%) |
-| Kotlin (.kt) | 3 of 52 (5.77%) |
+| Python (.py) | 46 of 55 (83.64%) |
+| Rust (.rs) | 4 of 55 (7.27%) |
+| Kotlin (.kt) | 4 of 55 (7.27%) |
+| Node.js (.js) | 1 of 55 (1.82%) |
 
 
 
