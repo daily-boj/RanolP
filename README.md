@@ -348,6 +348,24 @@
   Gold V, 2757 엑셀
 </a>
 </td><td><a href="./2757/solution.js">풀이 (.js)</a></td></tr>
+<tr><td rowspan="3">2020-04-29</td><td>
+<a href="http://noj.am/2896">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2896 무알콜 칵테일
+</a>
+</td><td><a href="./2896/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5430">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 5430 AC
+</a>
+</td><td><a href="./5430/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14585">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 14585 사수빈탕
+</a>
+</td><td><a href="./14585/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -358,10 +376,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 46 of 55 (83.64%) |
-| Rust (.rs) | 4 of 55 (7.27%) |
-| Kotlin (.kt) | 4 of 55 (7.27%) |
-| Node.js (.js) | 1 of 55 (1.82%) |
+| Python (.py) | 49 of 58 (84.48%) |
+| Rust (.rs) | 4 of 58 (6.90%) |
+| Kotlin (.kt) | 4 of 58 (6.90%) |
+| Node.js (.js) | 1 of 58 (1.72%) |
 
 
 
