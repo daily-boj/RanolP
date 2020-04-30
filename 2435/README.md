@@ -10,8 +10,8 @@
   <tr>
     <td>
       <a href="http://noj.am/2435">
-        <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-        Silver II, 2435 기상청 인턴 신현수
+        <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+        Silver III, 2435 기상청 인턴 신현수
       </a>
     </td>
     <td>

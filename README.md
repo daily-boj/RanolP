@@ -140,8 +140,8 @@
 </td><td><a href="./17363/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/9693">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 9693 시파르
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 9693 시파르
 </a>
 </td><td><a href="./9693/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -366,6 +366,24 @@
   Silver I, 14585 사수빈탕
 </a>
 </td><td><a href="./14585/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-04-30</td><td>
+<a href="http://noj.am/10988">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 10988 팰린드롬인지 확인하기
+</a>
+</td><td><a href="./10988/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15649">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 15649 N과 M (1)
+</a>
+</td><td><a href="./15649/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3709">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 3709 레이저빔은 어디로
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -376,10 +394,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 49 of 58 (84.48%) |
-| Rust (.rs) | 4 of 58 (6.90%) |
-| Kotlin (.kt) | 4 of 58 (6.90%) |
-| Node.js (.js) | 1 of 58 (1.72%) |
+| Python (.py) | 51 of 60 (85.00%) |
+| Rust (.rs) | 4 of 60 (6.67%) |
+| Kotlin (.kt) | 4 of 60 (6.67%) |
+| Node.js (.js) | 1 of 60 (1.67%) |
 
 
 
