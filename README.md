@@ -383,7 +383,25 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 3709 레이저빔은 어디로
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-01</td><td>
+<a href="http://noj.am/2869">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2869 달팽이는 올라가고 싶다
+</a>
+</td><td><a href="./2869/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1041">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 1041 주사위
+</a>
+</td><td><a href="./1041/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1276">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1276 교각 놓기
+</a>
+</td><td><a href="./1276/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -394,10 +412,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 51 of 60 (85.00%) |
-| Rust (.rs) | 4 of 60 (6.67%) |
-| Kotlin (.kt) | 4 of 60 (6.67%) |
-| Node.js (.js) | 1 of 60 (1.67%) |
+| Python (.py) | 53 of 63 (84.13%) |
+| Rust (.rs) | 4 of 63 (6.35%) |
+| Kotlin (.kt) | 5 of 63 (7.94%) |
+| Node.js (.js) | 1 of 63 (1.59%) |
 
 
 
