@@ -125,25 +125,25 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 16510 Predictable Queue
 </a>
-</td><td><a href="./16510/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./16510/solution.py">풀이 (.py)</a>, <a href="./16510/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/18111">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 18111 마인크래프트
 </a>
-</td><td><a href="./18111/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./18111/solution.py">풀이 (.py)</a>, <a href="./18111/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-16</td><td>
 <a href="http://noj.am/17363">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 17363 우유가 넘어지면?
 </a>
-</td><td><a href="./17363/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./17363/solution.py">풀이 (.py)</a>, <a href="./17363/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/9693">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 9693 시파르
 </a>
-</td><td><a href="./9693/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./9693/solution.py">풀이 (.py)</a>, <a href="./9693/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/18429">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
