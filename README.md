@@ -402,7 +402,7 @@
   Gold V, 1276 교각 놓기
 </a>
 </td><td><a href="./1276/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="3">2020-05-02</td><td>
+<tr><td rowspan="2">2020-05-02</td><td>
 <a href="http://noj.am/17245">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 17245 서버실
@@ -414,12 +414,12 @@
   Silver I, 16456 하와와 대학생쨩 하와이로 가는 거시와요~
 </a>
 </td><td><a href="./16456/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
+<tr><td rowspan="1">2020-05-03</td><td>
 <a href="http://noj.am/2812">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 2812 크게 만들기
 </a>
-</td><td>타임아웃</td></tr>
+</td><td><a href="./2812/solution.kt">풀이 (.kt)</a> (→ 2020-05-02)</td></tr>
   </table>
 
 
@@ -430,10 +430,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 55 of 65 (84.62%) |
-| Rust (.rs) | 4 of 65 (6.15%) |
-| Kotlin (.kt) | 5 of 65 (7.69%) |
-| Node.js (.js) | 1 of 65 (1.54%) |
+| Python (.py) | 55 of 66 (83.33%) |
+| Rust (.rs) | 4 of 66 (6.06%) |
+| Kotlin (.kt) | 6 of 66 (9.09%) |
+| Node.js (.js) | 1 of 66 (1.52%) |
 
 
 
