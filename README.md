@@ -101,19 +101,19 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 14648 쿼리 맛보기
 </a>
-</td><td><a href="./14648/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./14648/solution.py">풀이 (.py)</a>, <a href="./14648/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/11047">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 11047 동전 0
 </a>
-</td><td><a href="./11047/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./11047/solution.py">풀이 (.py)</a>, <a href="./11047/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1904">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 1904 01타일
 </a>
-</td><td><a href="./1904/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./1904/solution.py">풀이 (.py)</a>, <a href="./1904/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-15</td><td>
 <a href="http://noj.am/11383">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>

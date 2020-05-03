@@ -2,11 +2,13 @@
 	"python.formatting.provider": "black",
 	"files.exclude": {
 		".git/": true,
+		"{\u0000boj-managed\u0000,1041/**}": true,
 		"{\u0000boj-managed\u0000,1068/**}": true,
 		"{\u0000boj-managed\u0000,1149/**}": true,
 		"{\u0000boj-managed\u0000,1340/**}": true,
 		"{\u0000boj-managed\u0000,1373/**}": true,
 		"{\u0000boj-managed\u0000,1735/**}": true,
+		"{\u0000boj-managed\u0000,1904/**}": true,
 		"{\u0000boj-managed\u0000,1935/**}": true,
 		"{\u0000boj-managed\u0000,2422/**}": true,
 		"{\u0000boj-managed\u0000,2435/**}": true,
@@ -18,8 +20,10 @@
 		"{\u0000boj-managed\u0000,9461/**}": true,
 		"{\u0000boj-managed\u0000,9625/**}": true,
 		"{\u0000boj-managed\u0000,10166/**}": true,
+		"{\u0000boj-managed\u0000,11047/**}": true,
 		"{\u0000boj-managed\u0000,11383/**}": true,
 		"{\u0000boj-managed\u0000,11725/**}": true,
+		"{\u0000boj-managed\u0000,14648/**}": true,
 		"{\u0000boj-managed\u0000,18187/**}": true,
 		"{\u0000boj-managed\u0000,P*.*}": true
 	}
