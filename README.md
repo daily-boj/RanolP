@@ -200,8 +200,8 @@
 </td><td><a href="./2606/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1058">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 1058 친구
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 1058 친구
 </a>
 </td><td><a href="./1058/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-04-20</td><td>
@@ -395,7 +395,7 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 1041 주사위
 </a>
-</td><td><a href="./1041/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./1041/solution.py">풀이 (.py)</a>, <a href="./1041/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1276">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>

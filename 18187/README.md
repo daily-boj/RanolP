@@ -24,7 +24,7 @@
 
 ## 문제 분석
 
-기울기가 ![-1, 0, 1](https://render.githubusercontent.com/render/math?math=-1%2C%200%2C%201)인 직선만으로 최대한 분할된 평면이 많게 분할하는 문제입니다.
+기울기가 -1, 0, 1인 직선만으로 최대한 분할된 평면이 많게 분할하는 문제입니다.
 
 ## 풀이
 
@@ -44,7 +44,7 @@
 | 9         | 37        | 7        |
 
 굵게 처리한 부분을 제외하곤 전부 1씩 증가하고 있음을 알아낼 수 있습니다.
-n mod 3 = 0인 경우에 증가시키지 않고 그대로 넘어가네요.
+![n \bmod 3 \equiv 0](https://render.githubusercontent.com/render/math?math=n%20%5Cbmod%203%20%5Cequiv%200)인 경우에 증가시키지 않고 그대로 넘어가네요.
 이를 이용해서 풀면 됩니다.
 
 ![Euler characteristic (χ=V-E+F)](./tag.png)

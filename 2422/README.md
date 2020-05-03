@@ -24,12 +24,13 @@
 
 ## 문제 분석
 
-![N](https://render.githubusercontent.com/render/math?math=N)은 작지만 ![M](https://render.githubusercontent.com/render/math?math=M)은 큽니다.
-가능하면 ![N](https://render.githubusercontent.com/render/math?math=N) 쪽으로 뚫는 쪽이 좋을 것 같습니다.
+<i class="variable">N</i>은 작지만 <i class="variable">M</i>은 큽니다.
+가능하면 <i class="variable">N</i> 쪽으로 뚫는 쪽이 좋을 것 같습니다.
 
 ## 풀이
 
-![(a, b, c)](https://render.githubusercontent.com/render/math?math=(a%2C%20b%2C%20c)) 조합에서 ![a < b < c](https://render.githubusercontent.com/render/math?math=a%20%3C%20b%20%3C%20c)가 보장되면 편해집니다.
+(<i class="variable">a</i>, <i class="variable">b</i>, <i class="variable">c</i>) 조합에서,
+<i class="variable">a</i> < <i class="variable">b</i> < <i class="variable">c</i>가 보장되면 편해집니다.
 중복 조합은 `Map<Int, Set<Int>>`에 넣어두고,
 작은 것부터 겹치나 안 겹치나 확인합니다.
 ![O(n^3m)](https://render.githubusercontent.com/render/math?math=O(n%5E3m))으로 풀었습니다.

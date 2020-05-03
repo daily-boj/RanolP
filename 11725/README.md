@@ -24,10 +24,10 @@
 
 ## 문제 분석
 
-노드의 개수 ![n](https://render.githubusercontent.com/render/math?math=n)을 입력받고,
-그 뒤로 ![n - 1](https://render.githubusercontent.com/render/math?math=n%20-%201)개의 줄에 간선을 입력받습니다.
+노드의 개수 <i class="variable">n</i>을 입력받고,
+그 뒤로 <i class="variable">n</i> - 1개의 줄에 간선을 입력받습니다.
 그래프를 입력받고 1번 노드을 루트라고 했을 때,
-2번 노드부터 ![n](https://render.githubusercontent.com/render/math?math=n)번 노드까지 해당 노드의 부모를 출력합니다.
+2번 노드부터 <i class="variable">n</i>번 노드까지 해당 노드의 부모를 출력합니다.
 
 ## 풀이
 

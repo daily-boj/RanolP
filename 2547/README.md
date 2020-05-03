@@ -24,11 +24,11 @@
 
 ## 문제 분석
 
-![A_0, A_1, \cdots, A_{n - 1}, A_n](https://render.githubusercontent.com/render/math?math=A_0%2C%20A_1%2C%20%5Ccdots%2C%20A_%7Bn%20-%201%7D%2C%20A_n)를 전부 더하고 n으로 나누는 문제입니다.
+![A_0, A_1, \cdots, A_{n - 1}, A_n](https://render.githubusercontent.com/render/math?math=A_0%2C%20A_1%2C%20%5Ccdots%2C%20A_%7Bn%20-%201%7D%2C%20A_n)를 전부 더하고 <i class="variable">n</i>으로 나누는 문제입니다.
 
 ## 입력
 
-T, (빈줄, N, A_i × n) × T입니다. 빈줄에 주의할 필요가 있습니다.
+T, (빈줄, N, A<sub>i</sub> × n) × T입니다. 빈줄에 주의할 필요가 있습니다.
 
 ## 풀이
 
