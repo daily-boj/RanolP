@@ -420,6 +420,24 @@
   Silver I, 2812 크게 만들기
 </a>
 </td><td><a href="./2812/solution.kt">풀이 (.kt)</a> (→ 2020-05-02)</td></tr>
+<tr><td rowspan="3">2020-05-04</td><td>
+<a href="http://noj.am/16433">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 16433 주디와 당근농장
+</a>
+</td><td><a href="./16433/solution.py">풀이 (.py)</a>, <a href="./16433/README.md">노트</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1564">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 1564 팩토리얼5
+</a>
+</td><td><a href="./1564/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/6568">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
+</a>
+</td><td><a href="./6568/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -430,10 +448,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 55 of 66 (83.33%) |
-| Rust (.rs) | 4 of 66 (6.06%) |
-| Kotlin (.kt) | 6 of 66 (9.09%) |
-| Node.js (.js) | 1 of 66 (1.52%) |
+| Python (.py) | 58 of 69 (84.06%) |
+| Rust (.rs) | 4 of 69 (5.80%) |
+| Kotlin (.kt) | 6 of 69 (8.70%) |
+| Node.js (.js) | 1 of 69 (1.45%) |
 
 
 
