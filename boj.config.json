@@ -3,6 +3,9 @@
   "runtimeOverrides": {
     "kotlin": {
       "forceRuntime": "Kotlin (JVM)"
+    },
+    "python": {
+      "forceRuntime": "Python 3"
     }
   }
 }
