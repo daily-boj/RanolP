@@ -438,6 +438,60 @@
   Gold V, 6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
 </a>
 </td><td><a href="./6568/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-05-05</td><td>
+<a href="http://noj.am/18512">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 18512 점프 점프
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/17413">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 17413 단어 뒤집기 2
+</a>
+</td><td><a href="./17413/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13398">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 13398 연속합 2
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-06</td><td>
+<a href="http://noj.am/17946">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 17946 피자는 나눌 수록 커지잖아요
+</a>
+</td><td><a href="./17946/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13414">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 13414 수강신청
+</a>
+</td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13023">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 13023 ABCDE
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-07</td><td>
+<a href="http://noj.am/17478">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 17478 재귀함수가 뭔가요?
+</a>
+</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11441">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 11441 합 구하기
+</a>
+</td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15922">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 15922 아우으 우아으이야!!
+</a>
+</td><td><a href="./15922/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -448,10 +502,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 58 of 69 (84.06%) |
-| Rust (.rs) | 4 of 69 (5.80%) |
-| Kotlin (.kt) | 6 of 69 (8.70%) |
-| Node.js (.js) | 1 of 69 (1.45%) |
+| Python (.py) | 62 of 75 (82.67%) |
+| Rust (.rs) | 4 of 75 (5.33%) |
+| Kotlin (.kt) | 8 of 75 (10.67%) |
+| Node.js (.js) | 1 of 75 (1.33%) |
 
 
 
