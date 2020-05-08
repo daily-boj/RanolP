@@ -272,8 +272,8 @@
 </td><td><a href="./1357/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/14715">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
 </a>
 </td><td><a href="./14715/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -492,6 +492,24 @@
   Gold V, 15922 아우으 우아으이야!!
 </a>
 </td><td><a href="./15922/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="3">2020-05-08</td><td>
+<a href="http://noj.am/11723">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 11723 집합
+</a>
+</td><td><a href="./11723/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14594">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 14594 동방 프로젝트 (Small)
+</a>
+</td><td><a href="./14594/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16916">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 16916 부분 문자열
+</a>
+</td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
   </table>
 
 
@@ -502,10 +520,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 62 of 75 (82.67%) |
-| Rust (.rs) | 4 of 75 (5.33%) |
-| Kotlin (.kt) | 8 of 75 (10.67%) |
-| Node.js (.js) | 1 of 75 (1.33%) |
+| Python (.py) | 63 of 78 (80.77%) |
+| Rust (.rs) | 5 of 78 (6.41%) |
+| Kotlin (.kt) | 9 of 78 (11.54%) |
+| Node.js (.js) | 1 of 78 (1.28%) |
 
 
 
