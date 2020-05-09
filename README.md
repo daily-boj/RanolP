@@ -510,6 +510,24 @@
   Gold V, 16916 부분 문자열
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td rowspan="3">2020-05-09</td><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11082">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 11082 소수를 분수로
+</a>
+</td><td><a href="./11082/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/10464">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 10464 XOR
+</a>
+</td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
   </table>
 
 
@@ -520,10 +538,10 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 63 of 78 (80.77%) |
-| Rust (.rs) | 5 of 78 (6.41%) |
-| Kotlin (.kt) | 9 of 78 (11.54%) |
-| Node.js (.js) | 1 of 78 (1.28%) |
+| Python (.py) | 66 of 81 (81.48%) |
+| Rust (.rs) | 5 of 81 (6.17%) |
+| Kotlin (.kt) | 9 of 81 (11.11%) |
+| Node.js (.js) | 1 of 81 (1.23%) |
 
 
 
