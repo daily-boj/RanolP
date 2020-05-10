@@ -438,13 +438,7 @@
   Gold V, 6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
 </a>
 </td><td><a href="./6568/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="3">2020-05-05</td><td>
-<a href="http://noj.am/18512">
-  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-  Bronze I, 18512 점프 점프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
+<tr><td rowspan="2">2020-05-05</td><td>
 <a href="http://noj.am/17413">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 17413 단어 뒤집기 2
@@ -522,12 +516,24 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
-<tr><td rowspan="1">2020-05-10</td><td>
+<tr><td rowspan="3">2020-05-10</td><td>
+<a href="http://noj.am/18512">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 18512 점프 점프
+</a>
+</td><td><a href="./18512/solution.py">풀이 (.py)</a> (→ 2020-05-05)</td></tr>
+<tr><td>
 <a href="http://noj.am/13023">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 13023 ABCDE
 </a>
 </td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
+<tr><td>
+<a href="http://noj.am/11060">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11060 점프 점프
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -538,12 +544,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 67 of 82 (81.71%) |
-| Kotlin (.kt) | 9 of 82 (10.98%) |
-| Rust (.rs) | 5 of 82 (6.10%) |
-| ECMAScript (.js) | 1 of 82 (1.22%) |
+| Python (.py) | 68 of 83 (81.93%) |
+| Kotlin (.kt) | 9 of 83 (10.84%) |
+| Rust (.rs) | 5 of 83 (6.02%) |
+| ECMAScript (.js) | 1 of 83 (1.20%) |
 
-![pie-chart](./boj-public/language-usage/19aa8d25603bdd38ef703c53744850a0.svg)
+![pie-chart](./boj-public/language-usage/d8ad36ea991043eb3daf1aea3e683b2a.svg)
 
 
 
