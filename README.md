@@ -456,7 +456,7 @@
   Gold V, 13398 연속합 2
 </a>
 </td><td>타임아웃</td></tr>
-<tr><td rowspan="3">2020-05-06</td><td>
+<tr><td rowspan="2">2020-05-06</td><td>
 <a href="http://noj.am/17946">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 17946 피자는 나눌 수록 커지잖아요
@@ -468,12 +468,6 @@
   Silver III, 13414 수강신청
 </a>
 </td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/13023">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 13023 ABCDE
-</a>
-</td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-07</td><td>
 <a href="http://noj.am/17478">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
@@ -528,6 +522,12 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
+<tr><td rowspan="1">2020-05-10</td><td>
+<a href="http://noj.am/13023">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 13023 ABCDE
+</a>
+</td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
   </table>
 
 
@@ -538,12 +538,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 66 of 81 (81.48%) |
-| Kotlin (.kt) | 9 of 81 (11.11%) |
-| Rust (.rs) | 5 of 81 (6.17%) |
-| ECMAScript (.js) | 1 of 81 (1.23%) |
+| Python (.py) | 67 of 82 (81.71%) |
+| Kotlin (.kt) | 9 of 82 (10.98%) |
+| Rust (.rs) | 5 of 82 (6.10%) |
+| ECMAScript (.js) | 1 of 82 (1.22%) |
 
-![pie-chart](./boj-public/language-usage/9e71460d6145f33c533c79517f30f1f9.svg)
+![pie-chart](./boj-public/language-usage/19aa8d25603bdd38ef703c53744850a0.svg)
 
 
 
