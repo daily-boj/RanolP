@@ -538,10 +538,11 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 66 of 81 (81.48%) |
+| ECMAScript (.js) | 1 of 81 (1.23%) |
 | Rust (.rs) | 5 of 81 (6.17%) |
 | Kotlin (.kt) | 9 of 81 (11.11%) |
-| Node.js (.js) | 1 of 81 (1.23%) |
+| Python (.py) | 66 of 81 (81.48%) |
+![pie-chart](./boj-public/language-usage/9e71460d6145f33c533c79517f30f1f9.svg)
 
 
 
