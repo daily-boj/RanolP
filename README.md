@@ -158,8 +158,8 @@
 </td><td><a href="./6236/solution.rs">풀이 (.rs)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
 <a href="http://noj.am/1043">
-  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
-  Gold IV, 1043 거짓말
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1043 거짓말
 </a>
 </td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
@@ -533,6 +533,24 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11060 점프 점프
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-11</td><td>
+<a href="http://noj.am/14405">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 14405 피카츄
+</a>
+</td><td><a href="./14405/solution.js">풀이 (.js)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/18870">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 18870 좌표 압축
+</a>
+</td><td><a href="./18870/solution.js">풀이 (.js)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9251">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 9251 LCS
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -544,12 +562,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 83 (81.93%) |
-| Kotlin (.kt) | 9 of 83 (10.84%) |
-| Rust (.rs) | 5 of 83 (6.02%) |
-| ECMAScript (.js) | 1 of 83 (1.20%) |
+| Python (.py) | 68 of 85 (80.00%) |
+| Kotlin (.kt) | 9 of 85 (10.59%) |
+| Rust (.rs) | 5 of 85 (5.88%) |
+| ECMAScript (.js) | 3 of 85 (3.53%) |
 
-![pie-chart](./boj-public/language-usage/d8ad36ea991043eb3daf1aea3e683b2a.svg)
+![pie-chart](./boj-public/language-usage/45be8ccf29c383a9c40c863f4c23f61e.svg)
 
 
 
