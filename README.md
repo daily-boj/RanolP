@@ -551,7 +551,25 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 9251 LCS
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-12</td><td>
+<a href="http://noj.am/1331">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 1331 나이트 투어
+</a>
+</td><td><a href="./1331/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16439">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 16439 치킨치킨치킨
+</a>
+</td><td><a href="./16439/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1599">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1599 민식어
+</a>
+</td><td><a href="./1599/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -562,12 +580,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 85 (80.00%) |
-| Kotlin (.kt) | 9 of 85 (10.59%) |
-| Rust (.rs) | 5 of 85 (5.88%) |
-| ECMAScript (.js) | 3 of 85 (3.53%) |
+| Python (.py) | 68 of 88 (77.27%) |
+| Kotlin (.kt) | 12 of 88 (13.64%) |
+| Rust (.rs) | 5 of 88 (5.68%) |
+| ECMAScript (.js) | 3 of 88 (3.41%) |
 
-![pie-chart](./boj-public/language-usage/45be8ccf29c383a9c40c863f4c23f61e.svg)
+![pie-chart](./boj-public/language-usage/2980b25e21d5a75ca7ba629def12bf22.svg)
 
 
 
