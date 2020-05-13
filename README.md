@@ -344,8 +344,8 @@
 </td><td><a href="./10799/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2757">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 2757 엑셀
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2757 엑셀
 </a>
 </td><td><a href="./2757/solution.js">풀이 (.js)</a></td></tr>
 <tr><td rowspan="3">2020-04-29</td><td>
@@ -570,6 +570,24 @@
   Gold V, 1599 민식어
 </a>
 </td><td><a href="./1599/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-05-13</td><td>
+<a href="http://noj.am/1964">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, 1964 오각형, 오각형, 오각형…
+</a>
+</td><td><a href="./1964/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2133">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2133 타일 채우기
+</a>
+</td><td><a href="./2133/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2493">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2493 탑
+</a>
+</td><td><a href="./2493/solution.rs">풀이 (.rs)</a></td></tr>
   </table>
 
 
@@ -580,12 +598,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 88 (77.27%) |
-| Kotlin (.kt) | 12 of 88 (13.64%) |
-| Rust (.rs) | 5 of 88 (5.68%) |
-| ECMAScript (.js) | 3 of 88 (3.41%) |
+| Python (.py) | 68 of 91 (74.73%) |
+| Kotlin (.kt) | 14 of 91 (15.38%) |
+| Rust (.rs) | 6 of 91 (6.59%) |
+| ECMAScript (.js) | 3 of 91 (3.30%) |
 
-![pie-chart](./boj-public/language-usage/2980b25e21d5a75ca7ba629def12bf22.svg)
+![pie-chart](./boj-public/language-usage/91696940c9834398c2105dc4dc21dac0.svg)
 
 
 
