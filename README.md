@@ -606,6 +606,24 @@
   Gold II, 2718 타일 채우기
 </a>
 </td><td><a href="./2718/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-05-15</td><td>
+<a href="http://noj.am/9996">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 9996 한국이 그리울 땐 서버에 접속하지
+</a>
+</td><td><a href="./9996/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2011">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 2011 암호코드
+</a>
+</td><td><a href="./2011/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9663">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 9663 N-Queen
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -616,12 +634,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 94 (72.34%) |
-| Kotlin (.kt) | 16 of 94 (17.02%) |
-| Rust (.rs) | 7 of 94 (7.45%) |
-| ECMAScript (.js) | 3 of 94 (3.19%) |
+| Python (.py) | 68 of 96 (70.83%) |
+| Kotlin (.kt) | 18 of 96 (18.75%) |
+| Rust (.rs) | 7 of 96 (7.29%) |
+| ECMAScript (.js) | 3 of 96 (3.13%) |
 
-![pie-chart](./boj-public/language-usage/3a03ce8d988bd6ecc1d7e31e85601921.svg)
+![pie-chart](./boj-public/language-usage/39bf422222a3c16f31a44953953ca61d.svg)
 
 
 
