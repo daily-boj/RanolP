@@ -624,6 +624,24 @@
   Gold V, 9663 N-Queen
 </a>
 </td><td><a href="./9663/solution.kt">풀이 (.kt)</a> (→ 2020-05-15)</td></tr>
+<tr><td rowspan="3">2020-05-18</td><td>
+<a href="http://noj.am/1834">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1834 나머지와 몫이 같은 수
+</a>
+</td><td><a href="./1834/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2529">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 2529 부등호
+</a>
+</td><td><a href="./2529/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1916">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1916 최소비용 구하기
+</a>
+</td><td><a href="./1916/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -634,12 +652,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 97 (70.10%) |
-| Kotlin (.kt) | 19 of 97 (19.59%) |
-| Rust (.rs) | 7 of 97 (7.22%) |
-| ECMAScript (.js) | 3 of 97 (3.09%) |
+| Python (.py) | 68 of 100 (68.00%) |
+| Kotlin (.kt) | 21 of 100 (21.00%) |
+| Rust (.rs) | 8 of 100 (8.00%) |
+| ECMAScript (.js) | 3 of 100 (3.00%) |
 
-![pie-chart](./boj-public/language-usage/b3f5c1b2c16e8c585d260e1c025c86f5.svg)
+![pie-chart](./boj-public/language-usage/ddf24e674770fe163b056b5635eda678.svg)
 
 
 
