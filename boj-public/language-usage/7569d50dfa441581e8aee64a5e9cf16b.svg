@@ -1,8 +1,8 @@
 <svg viewBox="0 0 4 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <path d="M 2 1 A 1 1 0 1 1 0.5742207084349278 0.0951729475339802 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 0.5742207084349278 0.0951729475339802 A 1 1 0 0 1 1.7705132427757895 0.36257601025131037 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.7705132427757895 0.36257601025131037 A 1 1 0 0 1 1.9822872507286888 0.8126186854142753 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9822872507286888 0.8126186854142753 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+  <path d="M 2 1 A 1 1 0 1 1 0.49999999999999956 0.13397459621556151 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 0.49999999999999956 0.13397459621556151 A 1 1 0 0 1 1.7790805745256704 0.37307619410589343 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.7790805745256704 0.37307619410589343 A 1 1 0 0 1 1.9829730996839017 0.8162504821834291 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9829730996839017 0.8162504821834291 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#3572A5"/>
 <text x="2.2600000000000002" y="0.1" dominant-baseline="middle" style="font-size: 0.08px;">Python</text>
 <circle cx="2.2" cy="0.21250000000000002" r="0.04" fill="#F18E33"/>

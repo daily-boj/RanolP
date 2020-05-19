@@ -642,6 +642,24 @@
   Gold V, 1916 최소비용 구하기
 </a>
 </td><td><a href="./1916/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-05-19</td><td>
+<a href="http://noj.am/17249">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 17249 태보태보 총난타
+</a>
+</td><td><a href="./17249/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17499">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 17499 수열과 시프트 쿼리
+</a>
+</td><td><a href="./17499/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2093">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 2093 괄호 제거
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -652,12 +670,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 100 (68.00%) |
-| Kotlin (.kt) | 21 of 100 (21.00%) |
-| Rust (.rs) | 8 of 100 (8.00%) |
-| ECMAScript (.js) | 3 of 100 (3.00%) |
+| Python (.py) | 68 of 102 (66.67%) |
+| Kotlin (.kt) | 23 of 102 (22.55%) |
+| Rust (.rs) | 8 of 102 (7.84%) |
+| ECMAScript (.js) | 3 of 102 (2.94%) |
 
-![pie-chart](./boj-public/language-usage/ddf24e674770fe163b056b5635eda678.svg)
+![pie-chart](./boj-public/language-usage/7569d50dfa441581e8aee64a5e9cf16b.svg)
 
 
 
