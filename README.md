@@ -660,6 +660,24 @@
   Gold IV, 2093 괄호 제거
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-20</td><td>
+<a href="http://noj.am/14659">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 14659 한조서열정리하고옴ㅋㅋ
+</a>
+</td><td><a href="./14659/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15724">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 15724 주지수
+</a>
+</td><td><a href="./15724/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2228">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2228 구간 나누기
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -670,12 +688,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 102 (66.67%) |
-| Kotlin (.kt) | 23 of 102 (22.55%) |
-| Rust (.rs) | 8 of 102 (7.84%) |
-| ECMAScript (.js) | 3 of 102 (2.94%) |
+| Python (.py) | 68 of 104 (65.38%) |
+| Kotlin (.kt) | 25 of 104 (24.04%) |
+| Rust (.rs) | 8 of 104 (7.69%) |
+| ECMAScript (.js) | 3 of 104 (2.88%) |
 
-![pie-chart](./boj-public/language-usage/7569d50dfa441581e8aee64a5e9cf16b.svg)
+![pie-chart](./boj-public/language-usage/6a1a684533103640630c1cb69ae041db.svg)
 
 
 
