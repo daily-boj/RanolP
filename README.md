@@ -230,8 +230,8 @@
 </td><td><a href="./15721/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-04-22</td><td>
 <a href="http://noj.am/13301">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 13301 타일 장식물
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 13301 타일 장식물
 </a>
 </td><td><a href="./13301/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -677,6 +677,24 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 2228 구간 나누기
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-21</td><td>
+<a href="http://noj.am/14563">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 14563 완전수
+</a>
+</td><td><a href="./14563/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3257">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 3257 발코딩
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/5875">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 5875 오타
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -688,12 +706,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 104 (65.38%) |
-| Kotlin (.kt) | 25 of 104 (24.04%) |
-| Rust (.rs) | 8 of 104 (7.69%) |
-| ECMAScript (.js) | 3 of 104 (2.88%) |
+| Python (.py) | 68 of 105 (64.76%) |
+| Kotlin (.kt) | 25 of 105 (23.81%) |
+| Rust (.rs) | 9 of 105 (8.57%) |
+| ECMAScript (.js) | 3 of 105 (2.86%) |
 
-![pie-chart](./boj-public/language-usage/6a1a684533103640630c1cb69ae041db.svg)
+![pie-chart](./boj-public/language-usage/9de76a8ac1d44cecd9e9e288a3a3a93e.svg)
 
 
 
