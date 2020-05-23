@@ -494,8 +494,8 @@
 </td><td><a href="./14594/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/16916">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 16916 부분 문자열
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 16916 부분 문자열
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
@@ -506,8 +506,8 @@
 </td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/11082">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 11082 소수를 분수로
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11082 소수를 분수로
 </a>
 </td><td><a href="./11082/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -689,13 +689,31 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 3257 발코딩
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/5875">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 5875 오타
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-22</td><td>
+<a href="http://noj.am/14491">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, 14491 9진수
+</a>
+</td><td><a href="./14491/solution.js">풀이 (.js)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/4375">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 4375 1
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/9658">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 9658 돌 게임 4
+</a>
+</td><td><a href="./9658/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -706,12 +724,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 105 (64.76%) |
-| Kotlin (.kt) | 25 of 105 (23.81%) |
-| Rust (.rs) | 9 of 105 (8.57%) |
-| ECMAScript (.js) | 3 of 105 (2.86%) |
+| Python (.py) | 68 of 107 (63.55%) |
+| Kotlin (.kt) | 26 of 107 (24.30%) |
+| Rust (.rs) | 9 of 107 (8.41%) |
+| ECMAScript (.js) | 4 of 107 (3.74%) |
 
-![pie-chart](./boj-public/language-usage/9de76a8ac1d44cecd9e9e288a3a3a93e.svg)
+![pie-chart](./boj-public/language-usage/f3c3e9a00659aeac9afde1c4722d56c8.svg)
 
 
 
