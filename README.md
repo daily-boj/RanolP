@@ -536,8 +536,8 @@
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 14405 피카츄
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 14405 피카츄
 </a>
 </td><td><a href="./14405/solution.js">풀이 (.js)</a></td></tr>
 <tr><td>
@@ -714,6 +714,24 @@
   Silver I, 9658 돌 게임 4
 </a>
 </td><td><a href="./9658/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-05-25</td><td>
+<a href="http://noj.am/17950">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 17950 스노우볼
+</a>
+</td><td><a href="./17950/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17615">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 17615 볼 모으기
+</a>
+</td><td><a href="./17615/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2695">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 2695 공
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -724,12 +742,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 107 (63.55%) |
-| Kotlin (.kt) | 26 of 107 (24.30%) |
-| Rust (.rs) | 9 of 107 (8.41%) |
-| ECMAScript (.js) | 4 of 107 (3.74%) |
+| Python (.py) | 68 of 109 (62.39%) |
+| Kotlin (.kt) | 27 of 109 (24.77%) |
+| Rust (.rs) | 10 of 109 (9.17%) |
+| ECMAScript (.js) | 4 of 109 (3.67%) |
 
-![pie-chart](./boj-public/language-usage/f3c3e9a00659aeac9afde1c4722d56c8.svg)
+![pie-chart](./boj-public/language-usage/325b42d84520d5f0b26bfe74cff57a19.svg)
 
 
 
