@@ -523,17 +523,17 @@
 </a>
 </td><td><a href="./18512/solution.py">풀이 (.py)</a> (→ 2020-05-05)</td></tr>
 <tr><td>
-<a href="http://noj.am/13023">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 13023 ABCDE
-</a>
-</td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
-<tr><td>
 <a href="http://noj.am/11060">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11060 점프 점프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/13023">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 13023 ABCDE
+</a>
+</td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
@@ -732,6 +732,24 @@
   Gold II, 2695 공
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-26</td><td>
+<a href="http://noj.am/3181">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 3181 줄임말 만들기
+</a>
+</td><td><a href="./3181/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11508">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 11508 2+1 세일
+</a>
+</td><td><a href="./11508/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9084">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 9084 동전
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -742,12 +760,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 109 (62.39%) |
-| Kotlin (.kt) | 27 of 109 (24.77%) |
-| Rust (.rs) | 10 of 109 (9.17%) |
-| ECMAScript (.js) | 4 of 109 (3.67%) |
+| Python (.py) | 68 of 111 (61.26%) |
+| Kotlin (.kt) | 29 of 111 (26.13%) |
+| Rust (.rs) | 10 of 111 (9.01%) |
+| ECMAScript (.js) | 4 of 111 (3.60%) |
 
-![pie-chart](./boj-public/language-usage/325b42d84520d5f0b26bfe74cff57a19.svg)
+![pie-chart](./boj-public/language-usage/2e723470597c53398f3f3c638220ecca.svg)
 
 
 
