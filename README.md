@@ -750,6 +750,24 @@
   Silver I, 9084 동전
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-27</td><td>
+<a href="http://noj.am/16478">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 16478 원의 분할
+</a>
+</td><td><a href="./16478/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1709">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 1709 타일 위의 원
+</a>
+</td><td><a href="./1709/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14583">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 14583 이음줄
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -760,12 +778,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 111 (61.26%) |
-| Kotlin (.kt) | 29 of 111 (26.13%) |
-| Rust (.rs) | 10 of 111 (9.01%) |
-| ECMAScript (.js) | 4 of 111 (3.60%) |
+| Python (.py) | 68 of 113 (60.18%) |
+| Kotlin (.kt) | 29 of 113 (25.66%) |
+| Rust (.rs) | 12 of 113 (10.62%) |
+| ECMAScript (.js) | 4 of 113 (3.54%) |
 
-![pie-chart](./boj-public/language-usage/2e723470597c53398f3f3c638220ecca.svg)
+![pie-chart](./boj-public/language-usage/6af4ab78860ba7ebeb0fdc34304db6af.svg)
 
 
 
