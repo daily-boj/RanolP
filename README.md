@@ -499,12 +499,6 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -516,6 +510,12 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -767,6 +767,24 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 14583 이음줄
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-28</td><td>
+<a href="http://noj.am/16497">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16497 대출 요청
+</a>
+</td><td><a href="./16497/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/4921">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 4921 나무 블록
+</a>
+</td><td><a href="./4921/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14658">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 14658 하늘에서 별똥별이 빗발친다
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -778,12 +796,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 113 (60.18%) |
-| Kotlin (.kt) | 29 of 113 (25.66%) |
-| Rust (.rs) | 12 of 113 (10.62%) |
-| ECMAScript (.js) | 4 of 113 (3.54%) |
+| Python (.py) | 68 of 115 (59.13%) |
+| Kotlin (.kt) | 31 of 115 (26.96%) |
+| Rust (.rs) | 12 of 115 (10.43%) |
+| ECMAScript (.js) | 4 of 115 (3.48%) |
 
-![pie-chart](./boj-public/language-usage/6af4ab78860ba7ebeb0fdc34304db6af.svg)
+![pie-chart](./boj-public/language-usage/66efafbdf6abc77214c86a3812acdb78.svg)
 
 
 
