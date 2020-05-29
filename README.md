@@ -380,8 +380,8 @@
 </td><td><a href="./15649/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/3709">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 3709 레이저빔은 어디로
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 3709 레이저빔은 어디로
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-01</td><td>
@@ -499,6 +499,12 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -510,12 +516,6 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -785,7 +785,25 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 14658 하늘에서 별똥별이 빗발친다
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-05-29</td><td>
+<a href="http://noj.am/14929">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 14929 귀찮아 (SIB)
+</a>
+</td><td><a href="./14929/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2103">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2103 직교다각형 복원
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/1756">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1756 피자 굽기
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -796,12 +814,12 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 115 (59.13%) |
-| Kotlin (.kt) | 31 of 115 (26.96%) |
-| Rust (.rs) | 12 of 115 (10.43%) |
-| ECMAScript (.js) | 4 of 115 (3.48%) |
+| Python (.py) | 68 of 116 (58.62%) |
+| Kotlin (.kt) | 32 of 116 (27.59%) |
+| Rust (.rs) | 12 of 116 (10.34%) |
+| ECMAScript (.js) | 4 of 116 (3.45%) |
 
-![pie-chart](./boj-public/language-usage/66efafbdf6abc77214c86a3812acdb78.svg)
+![pie-chart](./boj-public/language-usage/11e2a4e5dabcce67d3512571e12ecdad.svg)
 
 
 
