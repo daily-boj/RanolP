@@ -12,12 +12,17 @@
 <path d="M 1.9985826956767618 0.9467778251578216 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#3572A5"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
 <circle cx="2.2" cy="0.21250000000000002" r="0.04" fill="#F18E33"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.21250000000000002" dominant-baseline="middle">Kotlin</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.21250000000000002" dominant-baseline="middle">Kotlin</text>
 <circle cx="2.2" cy="0.325" r="0.04" fill="#dea584"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.325" dominant-baseline="middle">Rust</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.325" dominant-baseline="middle">Rust</text>
 <circle cx="2.2" cy="0.4375" r="0.04" fill="#f1e05a"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.4375" dominant-baseline="middle">ECMAScript</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.4375" dominant-baseline="middle">ECMAScript</text>
 <circle cx="2.2" cy="0.55" r="0.04" fill="#f34b7d"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.55" dominant-baseline="middle">C++</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.55" dominant-baseline="middle">C++</text>
 </svg>
