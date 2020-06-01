@@ -523,17 +523,17 @@
 </a>
 </td><td><a href="./18512/solution.py">풀이 (.py)</a> (→ 2020-05-05)</td></tr>
 <tr><td>
-<a href="http://noj.am/11060">
-  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, 11060 점프 점프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/13023">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 13023 ABCDE
 </a>
 </td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
+<tr><td>
+<a href="http://noj.am/11060">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11060 점프 점프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
@@ -804,6 +804,24 @@
   Gold V, 1756 피자 굽기
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-01</td><td>
+<a href="http://noj.am/11719">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 11719 그대로 출력하기 2
+</a>
+</td><td><a href="./11719/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11663">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 11663 선분 위의 점
+</a>
+</td><td><a href="./11663/solution.cc">풀이 (.cc)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11000">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 11000 강의실 배정
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -814,12 +832,13 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 116 (58.62%) |
-| Kotlin (.kt) | 32 of 116 (27.59%) |
-| Rust (.rs) | 12 of 116 (10.34%) |
-| ECMAScript (.js) | 4 of 116 (3.45%) |
+| Python (.py) | 68 of 118 (57.63%) |
+| Kotlin (.kt) | 33 of 118 (27.97%) |
+| Rust (.rs) | 12 of 118 (10.17%) |
+| ECMAScript (.js) | 4 of 118 (3.39%) |
+| C++ (.cc) | 1 of 118 (0.85%) |
 
-![pie-chart](./boj-public/language-usage/11e2a4e5dabcce67d3512571e12ecdad.svg)
+![pie-chart](./boj-public/language-usage/a30d1c342d87473d8c8bf167c87c1673.svg)
 
 
 

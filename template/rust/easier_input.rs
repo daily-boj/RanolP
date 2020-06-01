@@ -96,6 +96,13 @@ macro_rules! input {
         }
         result
     }};
+    (@inner $stdin:ident; BTreeSet[$size:expr; $($t:tt),+]) => {{
+        let mut result = std::collections::BTreeSet::new();
+        for _ in 0..$size {
+            result.insert(input!(@inner $stdin; $($t)*));
+        }
+        result
+    }};
     (@inner $stdin:ident; $t:ty) => {
         input!(@inner $stdin; word).parse::<$t>().unwrap()
     };
@@ -105,9 +112,9 @@ macro_rules! input {
     ($size:literal; $t:ty) => {
         input!([$size; $t])
     };
-    ($($($t:tt)+),*) => {{
+    ($($t:tt)+) => {{
         let stdin = stdin();
         let mut stdin = stdin.lock();
-        ($(input!(@inner stdin; $($t)+)),*)
+        input!(@inner stdin; $($t)+)
     }};
 }

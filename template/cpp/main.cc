@@ -1,13 +1,12 @@
 #include <cstdlib>
 #include <iostream>
 
+using i64 = long long;
 using u64 = unsigned long long;
 
 #define newl '\n';
 
-void real_main()
-{
-}
+void real_main();
 
 int main()
 {
@@ -18,4 +17,10 @@ int main()
 
     std::cout.flush();
     return EXIT_SUCCESS;
+}
+
+#define main real_main
+
+void main()
+{
 }
