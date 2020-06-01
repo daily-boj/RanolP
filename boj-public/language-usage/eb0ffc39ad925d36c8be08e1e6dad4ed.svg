@@ -1,17 +1,23 @@
 <svg viewBox="0 0 4 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter x="-0.001" y="-0.001" width="1.002" height="1.002" id="solid">
+      <feFlood flood-color="#ffffff"/>
+      <feComposite in="SourceGraphic" operator="xor" />
+    </filter>
+  </defs>
   <path d="M 2 1 A 1 1 0 1 1 0.11264792494342846 0.5389074985506741 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
 <path d="M 0.11264792494342846 0.5389074985506741 A 1 1 0 0 1 1.6175246149461917 0.21344844419735742 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
 <path d="M 1.6175246149461917 0.21344844419735742 A 1 1 0 0 1 1.9647678688145158 0.7368974357724782 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
 <path d="M 1.9647678688145158 0.7368974357724782 A 1 1 0 0 1 1.9985826956767618 0.9467778251578216 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
 <path d="M 1.9985826956767618 0.9467778251578216 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#3572A5"/>
-<text x="2.2600000000000002" y="0.1" dominant-baseline="middle" style="font-size: 0.08px;">Python</text>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
 <circle cx="2.2" cy="0.21250000000000002" r="0.04" fill="#F18E33"/>
-<text x="2.2600000000000002" y="0.21250000000000002" dominant-baseline="middle" style="font-size: 0.08px;">Kotlin</text>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.21250000000000002" dominant-baseline="middle">Kotlin</text>
 <circle cx="2.2" cy="0.325" r="0.04" fill="#dea584"/>
-<text x="2.2600000000000002" y="0.325" dominant-baseline="middle" style="font-size: 0.08px;">Rust</text>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.325" dominant-baseline="middle">Rust</text>
 <circle cx="2.2" cy="0.4375" r="0.04" fill="#f1e05a"/>
-<text x="2.2600000000000002" y="0.4375" dominant-baseline="middle" style="font-size: 0.08px;">ECMAScript</text>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.4375" dominant-baseline="middle">ECMAScript</text>
 <circle cx="2.2" cy="0.55" r="0.04" fill="#f34b7d"/>
-<text x="2.2600000000000002" y="0.55" dominant-baseline="middle" style="font-size: 0.08px;">C++</text>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.55" dominant-baseline="middle">C++</text>
 </svg>

@@ -838,7 +838,7 @@
 | ECMAScript (.js) | 4 of 118 (3.39%) |
 | C++ (.cc) | 1 of 118 (0.85%) |
 
-![pie-chart](./boj-public/language-usage/a30d1c342d87473d8c8bf167c87c1673.svg)
+![pie-chart](./boj-public/language-usage/eb0ffc39ad925d36c8be08e1e6dad4ed.svg)
 
 
 
