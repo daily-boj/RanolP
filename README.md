@@ -416,8 +416,8 @@
 </td><td><a href="./16456/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="1">2020-05-03</td><td>
 <a href="http://noj.am/2812">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 2812 크게 만들기
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2812 크게 만들기
 </a>
 </td><td><a href="./2812/solution.kt">풀이 (.kt)</a> (→ 2020-05-02)</td></tr>
 <tr><td rowspan="3">2020-05-04</td><td>
@@ -821,6 +821,24 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 11000 강의실 배정
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-02</td><td>
+<a href="http://noj.am/6246">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 6246 풍선 놀이
+</a>
+</td><td><a href="./6246/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15501">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 15501 부당한 퍼즐
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2240">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2240 자두나무
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -832,13 +850,13 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 118 (57.63%) |
-| Kotlin (.kt) | 33 of 118 (27.97%) |
-| Rust (.rs) | 12 of 118 (10.17%) |
-| ECMAScript (.js) | 4 of 118 (3.39%) |
-| C++ (.cc) | 1 of 118 (0.85%) |
+| Python (.py) | 68 of 119 (57.14%) |
+| Kotlin (.kt) | 34 of 119 (28.57%) |
+| Rust (.rs) | 12 of 119 (10.08%) |
+| ECMAScript (.js) | 4 of 119 (3.36%) |
+| C++ (.cc) | 1 of 119 (0.84%) |
 
-![pie-chart](./boj-public/language-usage/460a98d8b0cde8898f030647efa91564.svg)
+![pie-chart](./boj-public/language-usage/79637d2fe0e7ab0153aadac1ea63503c.svg)
 
 
 
