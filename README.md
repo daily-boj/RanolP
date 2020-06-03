@@ -833,11 +833,29 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 15501 부당한 퍼즐
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2240">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 2240 자두나무
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-03</td><td>
+<a href="http://noj.am/15720">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 15720 카우버거
+</a>
+</td><td><a href="./15720/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14246">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 14246 K보다 큰 구간
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/14629">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 14629 숫자 조각
 </a>
 </td><td>푸는 중</td></tr>
   </table>
@@ -850,13 +868,13 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 119 (57.14%) |
-| Kotlin (.kt) | 34 of 119 (28.57%) |
-| Rust (.rs) | 12 of 119 (10.08%) |
-| ECMAScript (.js) | 4 of 119 (3.36%) |
-| C++ (.cc) | 1 of 119 (0.84%) |
+| Python (.py) | 68 of 120 (56.67%) |
+| Kotlin (.kt) | 35 of 120 (29.17%) |
+| Rust (.rs) | 12 of 120 (10.00%) |
+| ECMAScript (.js) | 4 of 120 (3.33%) |
+| C++ (.cc) | 1 of 120 (0.83%) |
 
-![pie-chart](./boj-public/language-usage/79637d2fe0e7ab0153aadac1ea63503c.svg)
+![pie-chart](./boj-public/language-usage/1b2e2162b32fb858f1f6a6276c709c07.svg)
 
 
 
