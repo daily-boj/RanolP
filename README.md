@@ -851,13 +851,49 @@
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 14246 K보다 큰 구간
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/14629">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 14629 숫자 조각
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="6">2020-06-04</td><td>
+<a href="http://noj.am/12779">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 12779 상품 is 뭔들
+</a>
+</td><td><a href="./12779/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/8911">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 8911 거북이
+</a>
 </td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/6051">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 6051 시간 여행
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2920">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2920 음계
+</a>
+</td><td><a href="./2920/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1157">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1157 단어 공부
+</a>
+</td><td><a href="./1157/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/10809">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 10809 알파벳 찾기
+</a>
+</td><td><a href="./10809/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -868,13 +904,13 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 120 (56.67%) |
-| Kotlin (.kt) | 35 of 120 (29.17%) |
-| Rust (.rs) | 12 of 120 (10.00%) |
-| ECMAScript (.js) | 4 of 120 (3.33%) |
-| C++ (.cc) | 1 of 120 (0.83%) |
+| Python (.py) | 68 of 124 (54.84%) |
+| Kotlin (.kt) | 39 of 124 (31.45%) |
+| Rust (.rs) | 12 of 124 (9.68%) |
+| ECMAScript (.js) | 4 of 124 (3.23%) |
+| C++ (.cc) | 1 of 124 (0.81%) |
 
-![pie-chart](./boj-public/language-usage/1b2e2162b32fb858f1f6a6276c709c07.svg)
+![pie-chart](./boj-public/language-usage/e6d090a53dec1b805e61d9cfebf39099.svg)
 
 
 
