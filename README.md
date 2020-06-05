@@ -692,8 +692,8 @@
 </td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/5875">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 5875 오타
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 5875 오타
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-22</td><td>
@@ -869,13 +869,13 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 8911 거북이
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/6051">
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 6051 시간 여행
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2920">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -894,6 +894,24 @@
   Bronze II, 10809 알파벳 찾기
 </a>
 </td><td><a href="./10809/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-06-05</td><td>
+<a href="http://noj.am/11650">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 11650 좌표 정렬하기
+</a>
+</td><td><a href="./11650/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11403">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 11403 경로 찾기
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/1629">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 1629 곱셈
+</a>
+</td><td><a href="./1629/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -904,13 +922,13 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 124 (54.84%) |
-| Kotlin (.kt) | 39 of 124 (31.45%) |
-| Rust (.rs) | 12 of 124 (9.68%) |
-| ECMAScript (.js) | 4 of 124 (3.23%) |
-| C++ (.cc) | 1 of 124 (0.81%) |
+| Python (.py) | 68 of 126 (53.97%) |
+| Kotlin (.kt) | 41 of 126 (32.54%) |
+| Rust (.rs) | 12 of 126 (9.52%) |
+| ECMAScript (.js) | 4 of 126 (3.17%) |
+| C++ (.cc) | 1 of 126 (0.79%) |
 
-![pie-chart](./boj-public/language-usage/e6d090a53dec1b805e61d9cfebf39099.svg)
+![pie-chart](./boj-public/language-usage/7717fb8698d2a202456ed219b1e0edb4.svg)
 
 
 
