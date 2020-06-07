@@ -19,17 +19,17 @@
   <tr>
     <td>
       <a href="https://www.acmicpc.net/user/asdhugh1">
-        <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  style="height: 1em; vertical-align: middle;" >
+        <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  height="16px" >
         asdhugh1
       </a>
     </td>
     <td>
       <a href="https://solved.ac/profile/asdhugh1">
-        <img src="https://static.solved.ac/logo.svg" style="height: 1em; vertical-align: middle;" />
+        <img src="https://static.solved.ac/logo.svg" height="16px" />
         asdhugh1
       </a>
       <br>
-      <img src="https://static.solved.ac/tier_small/11.svg" style="height: 1em; vertical-align: middle;" > <font color="#ec9a00">Gold V</font>
+      <img src="https://static.solved.ac/tier_small/11.svg" height="16px" > <font color="#ec9a00">Gold V</font>
     </td>
     <td>
       <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
