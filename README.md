@@ -2,6 +2,43 @@
 
 > 이 저장소는 [boj](https://github.com/RanolP/boj)를 통해 관리하고 있습니다.
 
+<table>
+  <tr>
+    <td rowspan="3">
+      <image src="https://gravatar.com/avatar/8ef181fc6a8aaefd5e285af21a159c52.png?s=128">
+    </td>
+    <td colspan="4">
+      <b>Ranol☆P</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Lazy, but get Better.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.acmicpc.net/user/asdhugh1">
+        <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  style="height: 1em; vertical-align: middle;" >
+        asdhugh1
+      </a>
+    </td>
+    <td>
+      <a href="https://solved.ac/profile/asdhugh1">
+        <img src="https://static.solved.ac/logo.svg" style="height: 1em; vertical-align: middle;" />
+        asdhugh1
+      </a>
+      <br>
+      <img src="https://static.solved.ac/tier_small/11.svg" style="height: 1em; vertical-align: middle;" > <font color="#ec9a00">Gold V</font>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
+      <br>
+      <font color="green">💚 Pupil ¹²⁷⁴</font>
+    </td>
+  </tr>
+</table>
+
 ## 문제 풀이 현황
 
 
@@ -894,25 +931,25 @@
   Bronze II, 10809 알파벳 찾기
 </a>
 </td><td><a href="./10809/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="3">2020-06-05</td><td>
+<tr><td rowspan="2">2020-06-05</td><td>
 <a href="http://noj.am/11650">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
   Silver V, 11650 좌표 정렬하기
 </a>
 </td><td><a href="./11650/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/11403">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 11403 경로 찾기
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/1629">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 1629 곱셈
 </a>
 </td><td><a href="./1629/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="1">2020-06-07</td><td>
+<tr><td rowspan="2">2020-06-07</td><td>
+<a href="http://noj.am/11403">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 11403 경로 찾기
+</a>
+</td><td><a href="./11403/solution.kt">풀이 (.kt)</a> (→ 2020-06-05)</td></tr>
+<tr><td>
 <a href="http://noj.am/18765">
   <img src="https://static.solved.ac/tier_small/16.svg" height="16px"/>
   Platinum V, 18765 정*수-를+[만들자!]
@@ -928,14 +965,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 127 (53.54%) |
-| Kotlin (.kt) | 41 of 127 (32.28%) |
-| Rust (.rs) | 12 of 127 (9.45%) |
-| ECMAScript (.js) | 4 of 127 (3.15%) |
-| Text (.txt) | 1 of 127 (0.79%) |
-| C++ (.cc) | 1 of 127 (0.79%) |
+| Python (.py) | 68 of 128 (53.13%) |
+| Kotlin (.kt) | 42 of 128 (32.81%) |
+| Rust (.rs) | 12 of 128 (9.38%) |
+| ECMAScript (.js) | 4 of 128 (3.13%) |
+| Text (.txt) | 1 of 128 (0.78%) |
+| C++ (.cc) | 1 of 128 (0.78%) |
 
-![pie-chart](./boj-public/language-usage/6eaa99c68d0cf08cc3d9922ba53fc06c.svg)
+![pie-chart](./boj-public/language-usage/5aaf6913811fa8a9d95231f10f150dfb.svg)
 
 
 
