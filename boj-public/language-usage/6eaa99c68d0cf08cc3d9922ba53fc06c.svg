@@ -5,11 +5,12 @@
       <feComposite in="SourceGraphic" operator="xor" />
     </filter>
   </defs>
-  <path d="M 2 1 A 1 1 0 1 1 0.030922713770921928 0.7532426023097069 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 0.030922713770921928 0.7532426023097069 A 1 1 0 0 1 1.6616858375968593 0.2502187970322658 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.6616858375968593 0.2502187970322658 A 1 1 0 0 1 1.9690772862290777 0.7532426023097061 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9690772862290777 0.7532426023097061 A 1 1 0 0 1 1.9987569212189222 0.9501541143393024 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9987569212189222 0.9501541143393024 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+  <path d="M 2 1 A 1 1 0 1 1 0.02468043209483739 0.7792020370082938 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 0.02468043209483739 0.7792020370082938 A 1 1 0 0 1 1.6289999338937426 0.22259464681437446 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.6289999338937426 0.22259464681437446 A 1 1 0 0 1 1.9562645670201275 0.7074968754665891 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9562645670201275 0.7074968754665891 A 1 1 0 0 1 1.9951086591716065 0.9012135816942054 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9951086591716065 0.9012135816942054 A 1 1 0 0 1 1.9987764162142612 0.9505462800772606 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9987764162142612 0.9505462800772606 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#3572A5"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
 <text style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
@@ -25,4 +26,7 @@
 <circle cx="2.2" cy="0.55" r="0.04" fill="#f34b7d"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.55" dominant-baseline="middle">C++</text>
 <text style="font-size: 0.08px;" x="2.2600000000000002" y="0.55" dominant-baseline="middle">C++</text>
+<circle cx="2.2" cy="0.6625" r="0.04" fill="#88aaee"/>
+<text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.6625" dominant-baseline="middle">Text</text>
+<text style="font-size: 0.08px;" x="2.2600000000000002" y="0.6625" dominant-baseline="middle">Text</text>
 </svg>

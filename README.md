@@ -912,6 +912,12 @@
   Silver I, 1629 곱셈
 </a>
 </td><td><a href="./1629/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="1">2020-06-07</td><td>
+<a href="http://noj.am/18765">
+  <img src="https://static.solved.ac/tier_small/16.svg" height="16px"/>
+  Platinum V, 18765 정*수-를+[만들자!]
+</a>
+</td><td><a href="./18765/solution.txt">풀이 (.txt)</a> (→ 2020-06-06)</td></tr>
   </table>
 
 
@@ -922,13 +928,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 126 (53.97%) |
-| Kotlin (.kt) | 41 of 126 (32.54%) |
-| Rust (.rs) | 12 of 126 (9.52%) |
-| ECMAScript (.js) | 4 of 126 (3.17%) |
-| C++ (.cc) | 1 of 126 (0.79%) |
+| Python (.py) | 68 of 127 (53.54%) |
+| Kotlin (.kt) | 41 of 127 (32.28%) |
+| Rust (.rs) | 12 of 127 (9.45%) |
+| ECMAScript (.js) | 4 of 127 (3.15%) |
+| Text (.txt) | 1 of 127 (0.79%) |
+| C++ (.cc) | 1 of 127 (0.79%) |
 
-![pie-chart](./boj-public/language-usage/7717fb8698d2a202456ed219b1e0edb4.svg)
+![pie-chart](./boj-public/language-usage/6eaa99c68d0cf08cc3d9922ba53fc06c.svg)
 
 
 
