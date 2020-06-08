@@ -955,6 +955,24 @@
   Platinum V, 18765 정*수-를+[만들자!]
 </a>
 </td><td><a href="./18765/solution.txt">풀이 (.txt)</a> (→ 2020-06-06)</td></tr>
+<tr><td rowspan="3">2020-06-08</td><td>
+<a href="http://noj.am/2028">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2028 자기복제수
+</a>
+</td><td><a href="./2028/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5397">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 5397 키로거
+</a>
+</td><td><a href="./5397/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1504">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1504 특정한 최단 경로
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -965,14 +983,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 128 (53.13%) |
-| Kotlin (.kt) | 42 of 128 (32.81%) |
-| Rust (.rs) | 12 of 128 (9.38%) |
-| ECMAScript (.js) | 4 of 128 (3.13%) |
-| Text (.txt) | 1 of 128 (0.78%) |
-| C++ (.cc) | 1 of 128 (0.78%) |
+| Python (.py) | 68 of 130 (52.31%) |
+| Kotlin (.kt) | 44 of 130 (33.85%) |
+| Rust (.rs) | 12 of 130 (9.23%) |
+| ECMAScript (.js) | 4 of 130 (3.08%) |
+| Text (.txt) | 1 of 130 (0.77%) |
+| C++ (.cc) | 1 of 130 (0.77%) |
 
-![pie-chart](./boj-public/language-usage/5aaf6913811fa8a9d95231f10f150dfb.svg)
+![pie-chart](./boj-public/language-usage/32d86aa1364257e7b3325ff7d37371ba.svg)
 
 
 
