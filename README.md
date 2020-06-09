@@ -972,6 +972,24 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 1504 특정한 최단 경로
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-09</td><td>
+<a href="http://noj.am/2684">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2684 동전 게임
+</a>
+</td><td><a href="./2684/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3273">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 3273 두 수의 합
+</a>
+</td><td><a href="./3273/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2320">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 2320 끝말잇기
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -983,14 +1001,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 130 (52.31%) |
-| Kotlin (.kt) | 44 of 130 (33.85%) |
-| Rust (.rs) | 12 of 130 (9.23%) |
-| ECMAScript (.js) | 4 of 130 (3.08%) |
-| Text (.txt) | 1 of 130 (0.77%) |
-| C++ (.cc) | 1 of 130 (0.77%) |
+| Python (.py) | 68 of 132 (51.52%) |
+| Kotlin (.kt) | 46 of 132 (34.85%) |
+| Rust (.rs) | 12 of 132 (9.09%) |
+| ECMAScript (.js) | 4 of 132 (3.03%) |
+| Text (.txt) | 1 of 132 (0.76%) |
+| C++ (.cc) | 1 of 132 (0.76%) |
 
-![pie-chart](./boj-public/language-usage/32d86aa1364257e7b3325ff7d37371ba.svg)
+![pie-chart](./boj-public/language-usage/0c5d0bd0869df320da019aa3662528ae.svg)
 
 
 
