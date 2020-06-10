@@ -51,8 +51,8 @@
     </tr>
   <tr><td rowspan="1">2020-04-07</td><td>
 <a href="http://noj.am/1340">
-  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-  Bronze I, 1340 연도 진행바
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 1340 연도 진행바
 </a>
 </td><td><a href="./1340/solution.py">풀이 (.py)</a>, <a href="./1340/README.md">노트</a></td></tr>
 <tr><td rowspan="1">2020-04-08</td><td>
@@ -990,7 +990,25 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 2320 끝말잇기
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-10</td><td>
+<a href="http://noj.am/14581">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 14581 팬들에게 둘러싸인 홍준
+</a>
+</td><td><a href="./14581/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17253">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 17253 삼삼한 수 2
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/2411">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 2411 아이템 먹기
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -1001,14 +1019,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 132 (51.52%) |
-| Kotlin (.kt) | 46 of 132 (34.85%) |
-| Rust (.rs) | 12 of 132 (9.09%) |
-| ECMAScript (.js) | 4 of 132 (3.03%) |
-| Text (.txt) | 1 of 132 (0.76%) |
-| C++ (.cc) | 1 of 132 (0.76%) |
+| Python (.py) | 68 of 133 (51.13%) |
+| Kotlin (.kt) | 47 of 133 (35.34%) |
+| Rust (.rs) | 12 of 133 (9.02%) |
+| ECMAScript (.js) | 4 of 133 (3.01%) |
+| Text (.txt) | 1 of 133 (0.75%) |
+| C++ (.cc) | 1 of 133 (0.75%) |
 
-![pie-chart](./boj-public/language-usage/0c5d0bd0869df320da019aa3662528ae.svg)
+![pie-chart](./boj-public/language-usage/3b0dd715bf5683e2b51247df99245dad.svg)
 
 
 
