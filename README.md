@@ -1009,6 +1009,24 @@
   Gold IV, 2411 아이템 먹기
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-11</td><td>
+<a href="http://noj.am/3062">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 3062 수 뒤집기
+</a>
+</td><td><a href="./3062/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2992">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2992 크면서 작은 수
+</a>
+</td><td><a href="./2992/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2589">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 2589 보물섬
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1019,14 +1037,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 133 (51.13%) |
-| Kotlin (.kt) | 47 of 133 (35.34%) |
-| Rust (.rs) | 12 of 133 (9.02%) |
-| ECMAScript (.js) | 4 of 133 (3.01%) |
-| Text (.txt) | 1 of 133 (0.75%) |
-| C++ (.cc) | 1 of 133 (0.75%) |
+| Python (.py) | 68 of 135 (50.37%) |
+| Kotlin (.kt) | 49 of 135 (36.30%) |
+| Rust (.rs) | 12 of 135 (8.89%) |
+| ECMAScript (.js) | 4 of 135 (2.96%) |
+| Text (.txt) | 1 of 135 (0.74%) |
+| C++ (.cc) | 1 of 135 (0.74%) |
 
-![pie-chart](./boj-public/language-usage/3b0dd715bf5683e2b51247df99245dad.svg)
+![pie-chart](./boj-public/language-usage/9dabd2b8113b531269eb35b2d60db1a0.svg)
 
 
 

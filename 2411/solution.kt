@@ -14,6 +14,11 @@ fun main(args: Array<out String>) {
         map[x - 1][y - 1] = BLOCKED
     }
 
+    if (n == 1 && m == 1 && map[0][0] != BLOCKED) {
+        println(1)
+        return
+    }
+
     data class Walk(val value: Int, val branch: Int)
     val visit = MutableList(n) { MutableList(m) { Walk(0, 1) } }
     for (y in (0 until m).reversed()) {

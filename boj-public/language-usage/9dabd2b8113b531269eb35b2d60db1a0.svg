@@ -5,12 +5,12 @@
       <feComposite in="SourceGraphic" operator="xor" />
     </filter>
   </defs>
-  <path d="M 2 1 A 1 1 0 1 1 0.0025097313357441697 0.9291963000958934 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 0.0025097313357441697 0.9291963000958934 A 1 1 0 0 1 1.6597157187105467 0.24848475033022333 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.6597157187105467 0.24848475033022333 A 1 1 0 0 1 1.9600957431390325 0.7203284712268534 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9600957431390325 0.7203284712268534 A 1 1 0 0 1 1.9955397075072834 0.9056565276433373 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9955397075072834 0.9056565276433373 A 1 1 0 0 1 1.9988843044885838 0.9527755757434959 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9988843044885838 0.9527755757434959 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+  <path d="M 2 1 A 1 1 0 1 1 0.00027075882053828604 0.9767310436259441 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 0.00027075882053828604 0.9767310436259441 A 1 1 0 0 1 1.6691306063588585 0.256855174522606 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.6691306063588585 0.256855174522606 A 1 1 0 0 1 1.961261695938319 0.7243626441830011 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.961261695938319 0.7243626441830011 A 1 1 0 0 1 1.9956707906498043 0.9070501390706077 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9956707906498043 0.9070501390706077 A 1 1 0 0 1 1.9989171113385245 0.9534746878022528 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9989171113385245 0.9534746878022528 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#3572A5"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
 <text style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Python</text>
