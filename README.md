@@ -1044,7 +1044,7 @@
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 1081 합
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./1081/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1055,14 +1055,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 136 (50.00%) |
-| Kotlin (.kt) | 50 of 136 (36.76%) |
-| Rust (.rs) | 12 of 136 (8.82%) |
-| ECMAScript (.js) | 4 of 136 (2.94%) |
-| Text (.txt) | 1 of 136 (0.74%) |
-| C++ (.cc) | 1 of 136 (0.74%) |
+| Python (.py) | 68 of 137 (49.64%) |
+| Kotlin (.kt) | 51 of 137 (37.23%) |
+| Rust (.rs) | 12 of 137 (8.76%) |
+| ECMAScript (.js) | 4 of 137 (2.92%) |
+| Text (.txt) | 1 of 137 (0.73%) |
+| C++ (.cc) | 1 of 137 (0.73%) |
 
-![pie-chart](./boj-public/language-usage/49dadac17ebe991b6e2a92ddb7c7e291.svg)
+![pie-chart](./boj-public/language-usage/072347037b353a3c1c4913011ec890fe.svg)
 
 
 
