@@ -1026,6 +1026,24 @@
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 2589 보물섬
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-12</td><td>
+<a href="http://noj.am/1236">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1236 성 지키기
+</a>
+</td><td><a href="./1236/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2469">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2469 사다리 타기
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/1081">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 1081 합
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -1037,14 +1055,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 135 (50.37%) |
-| Kotlin (.kt) | 49 of 135 (36.30%) |
-| Rust (.rs) | 12 of 135 (8.89%) |
-| ECMAScript (.js) | 4 of 135 (2.96%) |
-| Text (.txt) | 1 of 135 (0.74%) |
-| C++ (.cc) | 1 of 135 (0.74%) |
+| Python (.py) | 68 of 136 (50.00%) |
+| Kotlin (.kt) | 50 of 136 (36.76%) |
+| Rust (.rs) | 12 of 136 (8.82%) |
+| ECMAScript (.js) | 4 of 136 (2.94%) |
+| Text (.txt) | 1 of 136 (0.74%) |
+| C++ (.cc) | 1 of 136 (0.74%) |
 
-![pie-chart](./boj-public/language-usage/9dabd2b8113b531269eb35b2d60db1a0.svg)
+![pie-chart](./boj-public/language-usage/49dadac17ebe991b6e2a92ddb7c7e291.svg)
 
 
 
