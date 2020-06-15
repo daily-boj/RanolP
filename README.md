@@ -1045,7 +1045,7 @@
   Gold III, 1081 합
 </a>
 </td><td><a href="./1081/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="3">2020-06-15</td><td>
+<tr><td rowspan="4">2020-06-15</td><td>
 <a href="http://noj.am/17174">
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
   Bronze III, 17174 전체 계산 횟수
@@ -1063,6 +1063,12 @@
   Gold V, 12781 PIZZA ALVOLOC
 </a>
 </td><td><a href="./12781/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9735">
+  <img src="https://static.solved.ac/tier_small/21.svg" height="16px"/>
+  Diamond V, 9735 삼차 방정식 풀기
+</a>
+</td><td><a href="./9735/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1073,14 +1079,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 140 (48.57%) |
-| Kotlin (.kt) | 54 of 140 (38.57%) |
-| Rust (.rs) | 12 of 140 (8.57%) |
-| ECMAScript (.js) | 4 of 140 (2.86%) |
-| Text (.txt) | 1 of 140 (0.71%) |
-| C++ (.cc) | 1 of 140 (0.71%) |
+| Python (.py) | 68 of 141 (48.23%) |
+| Kotlin (.kt) | 55 of 141 (39.01%) |
+| Rust (.rs) | 12 of 141 (8.51%) |
+| ECMAScript (.js) | 4 of 141 (2.84%) |
+| Text (.txt) | 1 of 141 (0.71%) |
+| C++ (.cc) | 1 of 141 (0.71%) |
 
-![pie-chart](./boj-public/language-usage/802b021fa3e939f4c53d44a64eed4e10.svg)
+![pie-chart](./boj-public/language-usage/70dfbffe8e967769370c8c4a5665cfe7.svg)
 
 
 
