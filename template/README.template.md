@@ -35,7 +35,6 @@
     <td>
       <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
       <br>
-      💚
       <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=7fff00&size=12&text=Pupil (1274)">
     </td>
   </tr>
