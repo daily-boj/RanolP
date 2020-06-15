@@ -22,6 +22,8 @@
         <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  height="16px" >
         asdhugh1
       </a>
+      <br>
+      <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=304 Solved">
     </td>
     <td>
       <a href="https://solved.ac/profile/asdhugh1">
@@ -35,7 +37,7 @@
     <td>
       <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
       <br>
-      <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=7fff00&size=12&text=Pupil (1274)">
+      <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=008000&size=12&text=Pupil (1274)">
     </td>
   </tr>
 </table>
