@@ -21,18 +21,18 @@
       <a href="https://www.acmicpc.net/user/asdhugh1">
         <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  height="16px" >
         asdhugh1
+        <br>
+        <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=304 Solved">
       </a>
-      <br>
-      <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=304 Solved">
     </td>
     <td>
       <a href="https://solved.ac/profile/asdhugh1">
         <img src="https://static.solved.ac/logo.svg" height="16px" />
         asdhugh1
+        <br>
+        <img src="https://static.solved.ac/tier_small/13.svg" height="16px" />
+        <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold III">
       </a>
-      <br>
-      <img src="https://static.solved.ac/tier_small/13.svg" height="16px" />
-      <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold III">
     </td>
     <td>
       <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
