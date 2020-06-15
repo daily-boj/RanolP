@@ -1038,13 +1038,31 @@
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 2469 사다리 타기
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/1081">
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 1081 합
 </a>
 </td><td><a href="./1081/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-06-15</td><td>
+<a href="http://noj.am/17174">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, 17174 전체 계산 횟수
+</a>
+</td><td><a href="./17174/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/4320">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 4320 완전 P제곱수
+</a>
+</td><td><a href="./4320/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/12781">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 12781 PIZZA ALVOLOC
+</a>
+</td><td><a href="./12781/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1055,14 +1073,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 137 (49.64%) |
-| Kotlin (.kt) | 51 of 137 (37.23%) |
-| Rust (.rs) | 12 of 137 (8.76%) |
-| ECMAScript (.js) | 4 of 137 (2.92%) |
-| Text (.txt) | 1 of 137 (0.73%) |
-| C++ (.cc) | 1 of 137 (0.73%) |
+| Python (.py) | 68 of 140 (48.57%) |
+| Kotlin (.kt) | 54 of 140 (38.57%) |
+| Rust (.rs) | 12 of 140 (8.57%) |
+| ECMAScript (.js) | 4 of 140 (2.86%) |
+| Text (.txt) | 1 of 140 (0.71%) |
+| C++ (.cc) | 1 of 140 (0.71%) |
 
-![pie-chart](./boj-public/language-usage/072347037b353a3c1c4913011ec890fe.svg)
+![pie-chart](./boj-public/language-usage/802b021fa3e939f4c53d44a64eed4e10.svg)
 
 
 
