@@ -29,12 +29,14 @@
         asdhugh1
       </a>
       <br>
-      <img src="https://static.solved.ac/tier_small/11.svg" height="16px" > <font color="#ec9a00">Gold V</font>
+      <img src="https://static.solved.ac/tier_small/13.svg" height="16px" />
+      <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold III">
     </td>
     <td>
       <a href="https://codeforces.com/profile/RanolP">CodeForces: RanolP</a>
       <br>
-      <font color="green">💚 Pupil ¹²⁷⁴</font>
+      💚
+      <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=7fff00&size=12&text=Pupil (1274)">
     </td>
   </tr>
 </table>
