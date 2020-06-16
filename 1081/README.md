@@ -35,7 +35,7 @@
 
 임의의 자연수 <i class="variable">m</i>에 대해
 <img src="https://render.githubusercontent.com/render/math?math=S(m%20%2B%20k)%20%3D%20S(m%20-%201)%20%2B%20D(m)%20%2B%20D(m%20%2B%201)%20%2B%20%5Ccdots%20%2B%20D(m%20%2B%20k%20-%201)%20%2B%20D(m%20%2B%20k)" alt="S(m + k) = S(m - 1) + D(m) + D(m + 1) + \cdots + D(m + k - 1) + D(m + k)" style="max-width:100%;" >이므로
-<img src="https://render.githubusercontent.com/render/math?math=S(m%20%2B%20k)%20-%20S(m%20-%201)" alt="S(m + k) - S(m - 1)" style="max-width:100%;" >은 n과 m을 포함하는 범위의 자릿수합이라고 할 수 있다.
+<img src="https://render.githubusercontent.com/render/math?math=S(m)%20-%20S(n%20-%201)" alt="S(m) - S(n - 1)" style="max-width:100%;" >은 n과 m을 포함하는 범위의 자릿수합이라고 할 수 있다.
 
 ### S(n)
 
