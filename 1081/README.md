@@ -29,7 +29,7 @@
 ## 풀이
 
 <img src="https://render.githubusercontent.com/render/math?math=D(n)" alt="D(n)" style="max-width:100%;" >을 <i class="variable">n</i>의 자릿수합이라고 하고,
-<img src="https://render.githubusercontent.com/render/math?math=S(n)" alt="S(n)" style="max-width:100%;" > 0부터 <i class="variable">n</i>까지의 자릿수합이라고 하자.
+<img src="https://render.githubusercontent.com/render/math?math=S(n)" alt="S(n)" style="max-width:100%;" >을 0부터 <i class="variable">n</i>까지의 자릿수합이라고 하자.
 
 ### 보조정리: S(m) - S(n - 1)은 n ~ m 범위의 자릿수합이다
 
