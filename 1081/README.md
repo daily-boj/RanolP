@@ -75,7 +75,7 @@
 
 반복되는 꼴을 찾을 수 있다. 괄호를 풀고 좀 정리를 하면 다음과 같이 정리가 된다.
 
-<img src="https://render.githubusercontent.com/render/math?math=S(10%5Ek%20-%201)%20%3D%2045%20%5Ctimes%2010%5E%7Bk%20-%201%7D%20%2B%2010%20%5Ctimes%20S(10%5E%7Bk%20-%201%7D%20-%201)%5C%20(1%20%5Cle%20k)" alt="S(10^k - 1) = 45 \times 10^{k - 1} + 10 \times S(10^{k - 1} - 1)\ (1 \le k)" style="max-width:100%;" >
+<img src="https://render.githubusercontent.com/render/math?math=S(10%5Ek%20-%201)%20%3D%2045%20%5Ctimes%2010%5E%7Bk%20-%201%7D%20%2B%2010%20%5Ctimes%20S(10%5E%7Bk%20-%201%7D%20-%201)" alt="S(10^k - 1) = 45 \times 10^{k - 1} + 10 \times S(10^{k - 1} - 1)" style="max-width:100%;" > (단, 0 < k)
 
 조금 복잡해보이지만 직접 대입해서 풀어보면 45 × 1, 45 × 20, 45 × 300, ... 임을 알 수 있다. 따라서 식을 다음과 같이 변형할 수 있다.
 
