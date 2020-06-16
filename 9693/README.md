@@ -24,7 +24,7 @@
 
 ## 문제 분석
 
-![N! / 10^M](https://render.githubusercontent.com/render/math?math=N!%20%2F%2010%5EM)이 정수가 되는 값 중 가장 큰수를 구하는 문제입니다.
+<img src="https://render.githubusercontent.com/render/math?math=N!%20%2F%2010%5EM" alt="N! / 10^M" style="max-width:100%;" >이 정수가 되는 값 중 가장 큰수를 구하는 문제입니다.
 N이 5보다 크므로 정답은 1보다 큼이 보장됩니다.
 
 ## 풀이
@@ -44,7 +44,7 @@ N이 5보다 크므로 정답은 1보다 큼이 보장됩니다.
 
 따라서 2를 인수로 가지는 수가 5를 인수로 가지는 수보다 5/2배 더 많다고 할 수 있습니다.
 
-또, ![2^x](https://render.githubusercontent.com/render/math?math=2%5Ex)가 ![5^x](https://render.githubusercontent.com/render/math?math=5%5Ex)보다 더 느리게 증가하므로,
+또, <img src="https://render.githubusercontent.com/render/math?math=2%5Ex" alt="2^x" style="max-width:100%;" >가 <img src="https://render.githubusercontent.com/render/math?math=5%5Ex" alt="5^x" style="max-width:100%;" >보다 더 느리게 증가하므로,
 10 ≤ a, b이고 |a - b| ≤ 10인 두 정수를 소인수분해 했을 때, 2의 차수가 더 높다고 추측할 수 있습니다.
 
 따라서 1, 2, 3, ..., n - 1, n을 모두 곱하는 n!의 인수는 2가 많다고 볼 수 있습니다.

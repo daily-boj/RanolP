@@ -37,8 +37,8 @@
 - 속 : 아무 것도 드러내지 않고 있습니다.
 
 꼭지점은 위쪽에 4개 존재하고,
-모서리는 위쪽에 ![(n - 2) \times 4](https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%204)개, 옆쪽 기둥에 ![(n - 1) \times 4](https://render.githubusercontent.com/render/math?math=(n%20-%201)%20%5Ctimes%204)개.
-면은 위쪽에 ![(n - 2) \times (n - 2)](https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%20(n%20-%202))개, 옆면에 ![(n - 2) \times (n - 1)](https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%20(n%20-%201))개 있습니다.
+모서리는 위쪽에 <img src="https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%204" alt="(n - 2) \times 4" style="max-width:100%;" >개, 옆쪽 기둥에 <img src="https://render.githubusercontent.com/render/math?math=(n%20-%201)%20%5Ctimes%204" alt="(n - 1) \times 4" style="max-width:100%;" >개.
+면은 위쪽에 <img src="https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%20(n%20-%202)" alt="(n - 2) \times (n - 2)" style="max-width:100%;" >개, 옆면에 <img src="https://render.githubusercontent.com/render/math?math=(n%20-%202)%20%5Ctimes%20(n%20-%201)" alt="(n - 2) \times (n - 1)" style="max-width:100%;" >개 있습니다.
 
 3면을 구할 때 서로 이웃한 면만 구해야 한다는 것에 주의하면
-![O(1)](https://render.githubusercontent.com/render/math?math=O(1))로 풀 수 있습니다.
+<img src="https://render.githubusercontent.com/render/math?math=O(1)" alt="O(1)" style="max-width:100%;" >로 풀 수 있습니다.

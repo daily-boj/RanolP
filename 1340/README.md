@@ -10,8 +10,8 @@
   <tr>
     <td>
       <a href="http://noj.am/1340">
-        <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
-        Bronze I, 1340 연도 진행바
+        <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+        Bronze II, 1340 연도 진행바
       </a>
     </td>
     <td>

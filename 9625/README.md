@@ -30,7 +30,7 @@
 ## 풀이
 
 `A`는 `이전 B 개수`와 같고, `B`는 `이전 A 개수 + 이전 B 개수`입니다.
-`K`가 작기 때문에 ![O(1)](https://render.githubusercontent.com/render/math?math=O(1))을 만들어도 나쁘지는 않지만...
+`K`가 작기 때문에 <img src="https://render.githubusercontent.com/render/math?math=O(1)" alt="O(1)" style="max-width:100%;" >을 만들어도 나쁘지는 않지만...
 
 
 

@@ -222,8 +222,8 @@
 </td><td><a href="./15500/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/18891">
-  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
-  Gold I, 18891 제21대 국회의원 선거
+  <img src="https://static.solved.ac/tier_small/16.svg" height="16px"/>
+  Platinum V, 18891 제21대 국회의원 선거
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-04-19</td><td>
@@ -234,8 +234,8 @@
 </td><td><a href="./9625/solution.py">풀이 (.py)</a>, <a href="./9625/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2606">
-  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, 2606 바이러스
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 2606 바이러스
 </a>
 </td><td><a href="./2606/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -1047,7 +1047,7 @@
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 1081 합
 </a>
-</td><td><a href="./1081/solution.kt">풀이 (.kt)</a></td></tr>
+</td><td><a href="./1081/solution.kt">풀이 (.kt)</a>, <a href="./1081/README.md">노트</a></td></tr>
 <tr><td rowspan="4">2020-06-15</td><td>
 <a href="http://noj.am/17174">
   <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
@@ -1072,6 +1072,24 @@
   Diamond V, 9735 삼차 방정식 풀기
 </a>
 </td><td><a href="./9735/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-06-16</td><td>
+<a href="http://noj.am/18868">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 18868 멀티버스 Ⅰ
+</a>
+</td><td><a href="./18868/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16112">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 16112 5차 전직
+</a>
+</td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1562">
+  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
+  Gold I, 1562 계단 수
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1082,14 +1100,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 141 (48.23%) |
-| Kotlin (.kt) | 55 of 141 (39.01%) |
-| Rust (.rs) | 12 of 141 (8.51%) |
-| ECMAScript (.js) | 4 of 141 (2.84%) |
-| Text (.txt) | 1 of 141 (0.71%) |
-| C++ (.cc) | 1 of 141 (0.71%) |
+| Python (.py) | 68 of 143 (47.55%) |
+| Kotlin (.kt) | 56 of 143 (39.16%) |
+| Rust (.rs) | 13 of 143 (9.09%) |
+| ECMAScript (.js) | 4 of 143 (2.80%) |
+| Text (.txt) | 1 of 143 (0.70%) |
+| C++ (.cc) | 1 of 143 (0.70%) |
 
-![pie-chart](./boj-public/language-usage/70dfbffe8e967769370c8c4a5665cfe7.svg)
+![pie-chart](./boj-public/language-usage/704bbfe04586728639e9d70c9ad5aa35.svg)
 
 
 
