@@ -34,8 +34,8 @@
 ### 보조정리: S(m) - S(n - 1)은 n ~ m 범위의 자릿수합이다
 
 임의의 자연수 <i class="variable">m</i>에 대해
-<img src="https://render.githubusercontent.com/render/math?math=S(m%20%2B%20k)%20%3D%20S(m)%20%2B%20D(m)%20%2B%20D(m%20%2B%201)%20%2B%20%5Ccdots%20%2B%20D(m%20%2B%20k%20-%201)%20%2B%20D(m%20%2B%20k)" alt="S(m + k) = S(m) + D(m) + D(m + 1) + \cdots + D(m + k - 1) + D(m + k)" style="max-width:100%;" >이므로
-<img src="https://render.githubusercontent.com/render/math?math=S(m)%20-%20S(n%20-%201)" alt="S(m) - S(n - 1)" style="max-width:100%;" >은 n과 m을 포함하는 범위의 자릿수합이라고 할 수 있다.
+<img src="https://render.githubusercontent.com/render/math?math=S(m%20%2B%20k)%20%3D%20S(m%20-%201)%20%2B%20D(m)%20%2B%20D(m%20%2B%201)%20%2B%20%5Ccdots%20%2B%20D(m%20%2B%20k%20-%201)%20%2B%20D(m%20%2B%20k)" alt="S(m + k) = S(m - 1) + D(m) + D(m + 1) + \cdots + D(m + k - 1) + D(m + k)" style="max-width:100%;" >이므로
+<img src="https://render.githubusercontent.com/render/math?math=S(m%20%2B%20k)%20-%20S(m%20-%201)" alt="S(m + k) - S(m - 1)" style="max-width:100%;" >은 n과 m을 포함하는 범위의 자릿수합이라고 할 수 있다.
 
 ### S(n)
 
@@ -44,7 +44,7 @@
 <img src="https://render.githubusercontent.com/render/math?math=n%20%3D%20a_0%20%2B%20a_1%2010%20%2B%20a_2%2010%5E2%20%2B%20%5Ccdots" alt="n = a_0 + a_1 10 + a_2 10^2 + \cdots" style="max-width:100%;" >라고 하자.
 
 한 자리수에선 자릿수합이나 합이나 다름이 없으므로,
-<img src="https://render.githubusercontent.com/render/math?math=S(a_0)%20%3D%20a_0%20(a_0%20-%201)%20%2F%202" alt="S(a_0) = a_0 (a_0 - 1) / 2" style="max-width:100%;" >이다.
+<img src="https://render.githubusercontent.com/render/math?math=S(a_0)%20%3D%20%5Cfrac%7Ba_0%20(a_0%20-%201)%7D%7B2%7D" alt="S(a_0) = \frac{a_0 (a_0 - 1)}{2}" style="max-width:100%;" >이다.
 
 십의 자리 뒤에 붙을 수 있는 숫자들을 생각해보자.
 일의 자리 수 0~9가 붙을 거니까 십의 자리 수는 10번 나오고,
@@ -75,7 +75,7 @@
 
 반복되는 꼴을 찾을 수 있다. 괄호를 풀고 좀 정리를 하면 다음과 같이 정리가 된다.
 
-<img src="https://render.githubusercontent.com/render/math?math=S(10%5Ek%20-%201)%20%3D%2045%20%5Ctimes%2010%5E%7Bk%20-%201%7D%20%2B%2010%20%5Ctimes%20S(10%5E%7Bk%20-%201%7D%20-%201)%20(1%20%5Cgt%20k)" alt="S(10^k - 1) = 45 \times 10^{k - 1} + 10 \times S(10^{k - 1} - 1) (1 \gt k)" style="max-width:100%;" >
+<img src="https://render.githubusercontent.com/render/math?math=S(10%5Ek%20-%201)%20%3D%2045%20%5Ctimes%2010%5E%7Bk%20-%201%7D%20%2B%2010%20%5Ctimes%20S(10%5E%7Bk%20-%201%7D%20-%201)%20(1%20%5Cle%20k)" alt="S(10^k - 1) = 45 \times 10^{k - 1} + 10 \times S(10^{k - 1} - 1) (1 \le k)" style="max-width:100%;" >
 
 조금 복잡해보이지만 직접 대입해서 풀어보면 45 × 1, 45 × 20, 45 × 300, ... 임을 알 수 있다. 따라서 식을 다음과 같이 변형할 수 있다.
 
@@ -83,7 +83,7 @@
 
 #### 나누어둔 걸 합치기
 
-슬프게도 <img src="https://render.githubusercontent.com/render/math?math=S(a_0)%20%2B%20S(a_1%2010)%20%2B%20S(a_2%2010%5E2)%20%2B%20%5Ccdots%20%5Ceq%20S(a_0%20%2B%20a_1%2010%20%2B%20a_2%2010%5E2)" alt="S(a_0) + S(a_1 10) + S(a_2 10^2) + \cdots \eq S(a_0 + a_1 10 + a_2 10^2)" style="max-width:100%;" >가 아니다.
+슬프게도 <img src="https://render.githubusercontent.com/render/math?math=S(a_0)%20%2B%20S(a_1%2010)%20%2B%20S(a_2%2010%5E2)%20%2B%20%5Ccdots%20%3D%20S(a_0%20%2B%20a_1%2010%20%2B%20a_2%2010%5E2%20%2B%20%5Ccdots)" alt="S(a_0) + S(a_1 10) + S(a_2 10^2) + \cdots = S(a_0 + a_1 10 + a_2 10^2 + \cdots)" style="max-width:100%;" >가 아니다.
 <img src="https://render.githubusercontent.com/render/math?math=a_n" alt="a_n" style="max-width:100%;" >은 <img src="https://render.githubusercontent.com/render/math?math=a_%7Bn%20-%201%7D%20%2B%20a_%7Bn%20-%202%7D%20%2B%20a_%7Bn%20-%203%7D%20%2B%20%5Ccdots" alt="a_{n - 1} + a_{n - 2} + a_{n - 3} + \cdots" style="max-width:100%;" >번 더 등장하기 때문이다. 이걸 고려해서 더해줘야 제대로 된 결과가 나온다.
 
 ## 사실
