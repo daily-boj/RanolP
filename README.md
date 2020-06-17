@@ -1089,7 +1089,25 @@
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
   Gold I, 1562 계단 수
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-17</td><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5177">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 5177 출력 형식이 잘못되었습니다
+</a>
+</td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2410">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 2410 2의 멱수의 합
+</a>
+</td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1100,14 +1118,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 143 (47.55%) |
-| Kotlin (.kt) | 56 of 143 (39.16%) |
-| Rust (.rs) | 13 of 143 (9.09%) |
-| ECMAScript (.js) | 4 of 143 (2.80%) |
-| Text (.txt) | 1 of 143 (0.70%) |
-| C++ (.cc) | 1 of 143 (0.70%) |
+| Python (.py) | 68 of 146 (46.58%) |
+| Kotlin (.kt) | 59 of 146 (40.41%) |
+| Rust (.rs) | 13 of 146 (8.90%) |
+| ECMAScript (.js) | 4 of 146 (2.74%) |
+| Text (.txt) | 1 of 146 (0.68%) |
+| C++ (.cc) | 1 of 146 (0.68%) |
 
-![pie-chart](./boj-public/language-usage/704bbfe04586728639e9d70c9ad5aa35.svg)
+![pie-chart](./boj-public/language-usage/c347fbde26ed066ccf9e51a240e8234e.svg)
 
 
 
