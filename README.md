@@ -1108,6 +1108,24 @@
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-06-18</td><td>
+<a href="http://noj.am/5597">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 5597 과제 안 내신 분..?
+</a>
+</td><td><a href="./5597/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13116">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 13116 30번
+</a>
+</td><td><a href="./13116/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1689">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1689 겹치는 선분
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1118,14 +1136,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 146 (46.58%) |
-| Kotlin (.kt) | 59 of 146 (40.41%) |
-| Rust (.rs) | 13 of 146 (8.90%) |
-| ECMAScript (.js) | 4 of 146 (2.74%) |
-| Text (.txt) | 1 of 146 (0.68%) |
-| C++ (.cc) | 1 of 146 (0.68%) |
+| Python (.py) | 68 of 148 (45.95%) |
+| Kotlin (.kt) | 61 of 148 (41.22%) |
+| Rust (.rs) | 13 of 148 (8.78%) |
+| ECMAScript (.js) | 4 of 148 (2.70%) |
+| Text (.txt) | 1 of 148 (0.68%) |
+| C++ (.cc) | 1 of 148 (0.68%) |
 
-![pie-chart](./boj-public/language-usage/c347fbde26ed066ccf9e51a240e8234e.svg)
+![pie-chart](./boj-public/language-usage/c1d495f40ef732e176f4b9b1f87479d0.svg)
 
 
 
