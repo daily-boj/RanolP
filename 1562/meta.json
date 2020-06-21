@@ -1,6 +1,7 @@
 {
-  "createDate": "2020-06-16",
-  "status": "in-progress",
-  "type": "daily-boj",
-  "order": 7
+	"createDate": "2020-06-16",
+	"status": "solved",
+	"type": "daily-boj",
+	"order": 7,
+	"solvedDate": "2020-06-20"
 }

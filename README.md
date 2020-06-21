@@ -726,14 +726,14 @@
 </td><td><a href="./14563/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/3257">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 3257 발코딩
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 3257 발코딩
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/5875">
-  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
-  Gold III, 5875 오타
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 5875 오타
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-22</td><td>
@@ -1072,7 +1072,7 @@
   Diamond V, 9735 삼차 방정식 풀기
 </a>
 </td><td><a href="./9735/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="3">2020-06-16</td><td>
+<tr><td rowspan="2">2020-06-16</td><td>
 <a href="http://noj.am/18868">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 18868 멀티버스 Ⅰ
@@ -1084,31 +1084,25 @@
   Silver II, 16112 5차 전직
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/1562">
-  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
-  Gold I, 1562 계단 수
-</a>
-</td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
 </a>
 </td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td rowspan="3">2020-06-18</td><td>
+<tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 5597 과제 안 내신 분..?
@@ -1120,13 +1114,13 @@
   Silver III, 13116 30번
 </a>
 </td><td><a href="./13116/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/1689">
-  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
-  Gold IV, 1689 겹치는 선분
+<tr><td rowspan="3">2020-06-19</td><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
 </a>
 </td><td>타임아웃</td></tr>
-<tr><td rowspan="3">2020-06-19</td><td>
+<tr><td>
 <a href="http://noj.am/4436">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 4436 엘프의 검
@@ -1138,12 +1132,18 @@
   Silver IV, 12789 도키도키 간식드리미
 </a>
 </td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
+<tr><td rowspan="2">2020-06-20</td><td>
+<a href="http://noj.am/1562">
+  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
+  Gold I, 1562 계단 수
 </a>
-</td><td>푸는 중</td></tr>
+</td><td><a href="./1562/solution.kt">풀이 (.kt)</a> (→ 2020-06-16)</td></tr>
+<tr><td>
+<a href="http://noj.am/1689">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1689 겹치는 선분
+</a>
+</td><td><a href="./1689/solution.rs">풀이 (.rs)</a> (→ 2020-06-18)</td></tr>
   </table>
 
 
@@ -1154,14 +1154,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 150 (45.33%) |
-| Kotlin (.kt) | 63 of 150 (42.00%) |
-| Rust (.rs) | 13 of 150 (8.67%) |
-| ECMAScript (.js) | 4 of 150 (2.67%) |
-| Text (.txt) | 1 of 150 (0.67%) |
-| C++ (.cc) | 1 of 150 (0.67%) |
+| Python (.py) | 68 of 152 (44.74%) |
+| Kotlin (.kt) | 64 of 152 (42.11%) |
+| Rust (.rs) | 14 of 152 (9.21%) |
+| ECMAScript (.js) | 4 of 152 (2.63%) |
+| Text (.txt) | 1 of 152 (0.66%) |
+| C++ (.cc) | 1 of 152 (0.66%) |
 
-![pie-chart](./boj-public/language-usage/ba62f8b5aaf25024a7abea0b0ae6036e.svg)
+![pie-chart](./boj-public/language-usage/77ca3830b081314cc29364d5f5fc6d7d.svg)
 
 
 
