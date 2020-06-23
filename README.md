@@ -503,17 +503,17 @@
 </a>
 </td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-05-07</td><td>
-<a href="http://noj.am/17478">
-  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-  Silver V, 17478 재귀함수가 뭔가요?
-</a>
-</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11441">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 11441 합 구하기
 </a>
 </td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17478">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 17478 재귀함수가 뭔가요?
+</a>
+</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/15922">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
@@ -1115,17 +1115,17 @@
 </a>
 </td><td><a href="./13116/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-06-19</td><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/4436">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 4436 엘프의 검
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/12789">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
@@ -1168,6 +1168,24 @@
   Gold II, 3165 5
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-23</td><td>
+<a href="http://noj.am/13163">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 13163 닉네임에 갓 붙이기
+</a>
+</td><td><a href="./13163/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16953">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 16953 A → B
+</a>
+</td><td><a href="./16953/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1365">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 1365 꼬인 전깃줄
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1178,14 +1196,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 154 (44.16%) |
-| Kotlin (.kt) | 66 of 154 (42.86%) |
-| Rust (.rs) | 14 of 154 (9.09%) |
-| ECMAScript (.js) | 4 of 154 (2.60%) |
-| Text (.txt) | 1 of 154 (0.65%) |
-| C++ (.cc) | 1 of 154 (0.65%) |
+| Kotlin (.kt) | 68 of 156 (43.59%) |
+| Python (.py) | 68 of 156 (43.59%) |
+| Rust (.rs) | 14 of 156 (8.97%) |
+| ECMAScript (.js) | 4 of 156 (2.56%) |
+| Text (.txt) | 1 of 156 (0.64%) |
+| C++ (.cc) | 1 of 156 (0.64%) |
 
-![pie-chart](./boj-public/language-usage/858e2fa436d10fb8f048bb3f585add76.svg)
+![pie-chart](./boj-public/language-usage/244b78e8e0af94257860435b935cb572.svg)
 
 
 
