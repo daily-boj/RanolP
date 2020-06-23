@@ -312,8 +312,8 @@
 </td><td><a href="./1357/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/14715">
-  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, 14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
 </a>
 </td><td><a href="./14715/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
@@ -534,8 +534,8 @@
 </td><td><a href="./14594/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/16916">
-  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
-  Gold IV, 16916 부분 문자열
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 16916 부분 문자열
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
@@ -1144,6 +1144,30 @@
   Gold IV, 1689 겹치는 선분
 </a>
 </td><td><a href="./1689/solution.rs">풀이 (.rs)</a> (→ 2020-06-18)</td></tr>
+<tr><td rowspan="1">2020-06-21</td><td>
+<a href="http://noj.am/16117">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 16117 실버런
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-22</td><td>
+<a href="http://noj.am/4101">
+  <img src="https://static.solved.ac/tier_small/3.svg" height="16px"/>
+  Bronze III, 4101 크냐?
+</a>
+</td><td><a href="./4101/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/9184">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 9184 신나는 함수 실행
+</a>
+</td><td><a href="./9184/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3165">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 3165 5
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -1154,14 +1178,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Python (.py) | 68 of 152 (44.74%) |
-| Kotlin (.kt) | 64 of 152 (42.11%) |
-| Rust (.rs) | 14 of 152 (9.21%) |
-| ECMAScript (.js) | 4 of 152 (2.63%) |
-| Text (.txt) | 1 of 152 (0.66%) |
-| C++ (.cc) | 1 of 152 (0.66%) |
+| Python (.py) | 68 of 154 (44.16%) |
+| Kotlin (.kt) | 66 of 154 (42.86%) |
+| Rust (.rs) | 14 of 154 (9.09%) |
+| ECMAScript (.js) | 4 of 154 (2.60%) |
+| Text (.txt) | 1 of 154 (0.65%) |
+| C++ (.cc) | 1 of 154 (0.65%) |
 
-![pie-chart](./boj-public/language-usage/77ca3830b081314cc29364d5f5fc6d7d.svg)
+![pie-chart](./boj-public/language-usage/858e2fa436d10fb8f048bb3f585add76.svg)
 
 
 
