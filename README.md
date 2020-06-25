@@ -198,8 +198,8 @@
 </td><td><a href="./6236/solution.rs">풀이 (.rs)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
 <a href="http://noj.am/1043">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1043 거짓말
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1043 거짓말
 </a>
 </td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
@@ -539,6 +539,12 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -550,12 +556,6 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -576,8 +576,8 @@
 </td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 14405 피카츄
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 14405 피카츄
 </a>
 </td><td><a href="./14405/solution.js">풀이 (.js)</a></td></tr>
 <tr><td>
@@ -1085,17 +1085,17 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/5177">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 5177 출력 형식이 잘못되었습니다
-</a>
-</td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/16205">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 16205 변수명
 </a>
 </td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5177">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 5177 출력 형식이 잘못되었습니다
+</a>
+</td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/12789">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 12789 도키도키 간식드리미
 </a>
 </td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1203,7 +1203,25 @@
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 14256 SSR
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-25</td><td>
+<a href="http://noj.am/2386">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2386 도비의 영어 공부
+</a>
+</td><td><a href="./2386/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17829">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 17829 222-풀링
+</a>
+</td><td><a href="./17829/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1253">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 1253 좋다
+</a>
+</td><td><a href="./1253/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1214,14 +1232,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 70 of 158 (44.30%) |
-| Python (.py) | 68 of 158 (43.04%) |
-| Rust (.rs) | 14 of 158 (8.86%) |
-| ECMAScript (.js) | 4 of 158 (2.53%) |
-| Text (.txt) | 1 of 158 (0.63%) |
-| C++ (.cc) | 1 of 158 (0.63%) |
+| Kotlin (.kt) | 73 of 161 (45.34%) |
+| Python (.py) | 68 of 161 (42.24%) |
+| Rust (.rs) | 14 of 161 (8.70%) |
+| ECMAScript (.js) | 4 of 161 (2.48%) |
+| Text (.txt) | 1 of 161 (0.62%) |
+| C++ (.cc) | 1 of 161 (0.62%) |
 
-![pie-chart](./boj-public/language-usage/7f57e18d5c449a19579940a6dcbde041.svg)
+![pie-chart](./boj-public/language-usage/88a0ab0556b1aa8ab8ba6f437c401f22.svg)
 
 
 
