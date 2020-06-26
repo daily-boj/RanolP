@@ -539,12 +539,6 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -556,6 +550,12 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -1085,17 +1085,17 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
 </a>
 </td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/12789">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 12789 도키도키 간식드리미
-</a>
-</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/1034">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 1034 램프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/12789">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 12789 도키도키 간식드리미
+</a>
+</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1222,6 +1222,24 @@
   Gold IV, 1253 좋다
 </a>
 </td><td><a href="./1253/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-06-26</td><td>
+<a href="http://noj.am/2097">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2097 조약돌
+</a>
+</td><td><a href="./2097/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15710">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 15710 xor 게임
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/9694">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 9694 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1232,14 +1250,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 73 of 161 (45.34%) |
-| Python (.py) | 68 of 161 (42.24%) |
-| Rust (.rs) | 14 of 161 (8.70%) |
-| ECMAScript (.js) | 4 of 161 (2.48%) |
-| Text (.txt) | 1 of 161 (0.62%) |
-| C++ (.cc) | 1 of 161 (0.62%) |
+| Kotlin (.kt) | 74 of 162 (45.68%) |
+| Python (.py) | 68 of 162 (41.98%) |
+| Rust (.rs) | 14 of 162 (8.64%) |
+| ECMAScript (.js) | 4 of 162 (2.47%) |
+| Text (.txt) | 1 of 162 (0.62%) |
+| C++ (.cc) | 1 of 162 (0.62%) |
 
-![pie-chart](./boj-public/language-usage/88a0ab0556b1aa8ab8ba6f437c401f22.svg)
+![pie-chart](./boj-public/language-usage/a68b094b16acf18705496338f2addaaf.svg)
 
 
 
