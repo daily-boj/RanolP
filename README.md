@@ -503,17 +503,17 @@
 </a>
 </td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-05-07</td><td>
-<a href="http://noj.am/17478">
-  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-  Silver V, 17478 재귀함수가 뭔가요?
-</a>
-</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11441">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 11441 합 구하기
 </a>
 </td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17478">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 17478 재귀함수가 뭔가요?
+</a>
+</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/15922">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
@@ -1091,17 +1091,17 @@
 </a>
 </td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -1233,11 +1233,29 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 15710 xor 게임
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/9694">
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 9694 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-29</td><td>
+<a href="http://noj.am/1459">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 1459 걷기
+</a>
+</td><td><a href="./1459/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3186">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 3186 소변기
+</a>
+</td><td><a href="./3186/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15999">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 15999 뒤집기
 </a>
 </td><td>푸는 중</td></tr>
   </table>
@@ -1250,14 +1268,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 74 of 162 (45.68%) |
-| Python (.py) | 68 of 162 (41.98%) |
-| Rust (.rs) | 14 of 162 (8.64%) |
-| ECMAScript (.js) | 4 of 162 (2.47%) |
-| Text (.txt) | 1 of 162 (0.62%) |
-| C++ (.cc) | 1 of 162 (0.62%) |
+| Kotlin (.kt) | 76 of 164 (46.34%) |
+| Python (.py) | 68 of 164 (41.46%) |
+| Rust (.rs) | 14 of 164 (8.54%) |
+| ECMAScript (.js) | 4 of 164 (2.44%) |
+| Text (.txt) | 1 of 164 (0.61%) |
+| C++ (.cc) | 1 of 164 (0.61%) |
 
-![pie-chart](./boj-public/language-usage/a68b094b16acf18705496338f2addaaf.svg)
+![pie-chart](./boj-public/language-usage/5758ae9ba8981bdb07fd46b9d1a6efc7.svg)
 
 
 
