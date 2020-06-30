@@ -503,17 +503,17 @@
 </a>
 </td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-05-07</td><td>
-<a href="http://noj.am/11441">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 11441 합 구하기
-</a>
-</td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/17478">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
   Silver V, 17478 재귀함수가 뭔가요?
 </a>
 </td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11441">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 11441 합 구하기
+</a>
+</td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/15922">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
@@ -539,6 +539,12 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -550,12 +556,6 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -563,17 +563,17 @@
 </a>
 </td><td><a href="./18512/solution.py">풀이 (.py)</a> (→ 2020-05-05)</td></tr>
 <tr><td>
-<a href="http://noj.am/11060">
-  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
-  Silver II, 11060 점프 점프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/13023">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 13023 ABCDE
 </a>
 </td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
+<tr><td>
+<a href="http://noj.am/11060">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 11060 점프 점프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
@@ -876,8 +876,8 @@
 </td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2240">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 2240 자두나무
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 2240 자두나무
 </a>
 </td><td>타임아웃</td></tr>
 <tr><td rowspan="3">2020-06-03</td><td>
@@ -1085,6 +1085,12 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
@@ -1096,12 +1102,6 @@
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/12789">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 12789 도키도키 간식드리미
 </a>
 </td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1257,6 +1257,24 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 15999 뒤집기
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-06-30</td><td>
+<a href="http://noj.am/17294">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 17294 귀여운 수~ε٩(๑&gt; ₃ &lt;)۶з
+</a>
+</td><td><a href="./17294/solution.rs">풀이 (.rs)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/15565">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 15565 귀여운 라이언
+</a>
+</td><td><a href="./15565/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2560">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 2560 짚신벌레
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -1268,14 +1286,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 76 of 164 (46.34%) |
-| Python (.py) | 68 of 164 (41.46%) |
-| Rust (.rs) | 14 of 164 (8.54%) |
-| ECMAScript (.js) | 4 of 164 (2.44%) |
-| Text (.txt) | 1 of 164 (0.61%) |
-| C++ (.cc) | 1 of 164 (0.61%) |
+| Kotlin (.kt) | 77 of 166 (46.39%) |
+| Python (.py) | 68 of 166 (40.96%) |
+| Rust (.rs) | 15 of 166 (9.04%) |
+| ECMAScript (.js) | 4 of 166 (2.41%) |
+| Text (.txt) | 1 of 166 (0.60%) |
+| C++ (.cc) | 1 of 166 (0.60%) |
 
-![pie-chart](./boj-public/language-usage/5758ae9ba8981bdb07fd46b9d1a6efc7.svg)
+![pie-chart](./boj-public/language-usage/dbc35628db6e89ce07b91c6fab776fcf.svg)
 
 
 
