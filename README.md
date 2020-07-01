@@ -1275,6 +1275,24 @@
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 2560 짚신벌레
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-07-01</td><td>
+<a href="http://noj.am/2740">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2740 행렬 곱셈
+</a>
+</td><td><a href="./2740/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14731">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 14731 謎紛芥索紀 (Large)
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2749">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 2749 피보나치 수 3
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -1286,14 +1304,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 77 of 166 (46.39%) |
-| Python (.py) | 68 of 166 (40.96%) |
-| Rust (.rs) | 15 of 166 (9.04%) |
-| ECMAScript (.js) | 4 of 166 (2.41%) |
-| Text (.txt) | 1 of 166 (0.60%) |
-| C++ (.cc) | 1 of 166 (0.60%) |
+| Kotlin (.kt) | 78 of 167 (46.71%) |
+| Python (.py) | 68 of 167 (40.72%) |
+| Rust (.rs) | 15 of 167 (8.98%) |
+| ECMAScript (.js) | 4 of 167 (2.40%) |
+| Text (.txt) | 1 of 167 (0.60%) |
+| C++ (.cc) | 1 of 167 (0.60%) |
 
-![pie-chart](./boj-public/language-usage/dbc35628db6e89ce07b91c6fab776fcf.svg)
+![pie-chart](./boj-public/language-usage/2a35a442acb6503bf3ae51fd50a4e5eb.svg)
 
 
 
