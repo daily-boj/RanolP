@@ -503,17 +503,17 @@
 </a>
 </td><td><a href="./13414/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-05-07</td><td>
-<a href="http://noj.am/17478">
-  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
-  Silver V, 17478 재귀함수가 뭔가요?
-</a>
-</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11441">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 11441 합 구하기
 </a>
 </td><td><a href="./11441/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/17478">
+  <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
+  Silver V, 17478 재귀함수가 뭔가요?
+</a>
+</td><td><a href="./17478/solution.py">풀이 (.py)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/15922">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
@@ -539,12 +539,6 @@
 </a>
 </td><td><a href="./16916/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-05-09</td><td>
-<a href="http://noj.am/2622">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 2622 삼각형만들기
-</a>
-</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/11082">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11082 소수를 분수로
@@ -556,6 +550,12 @@
   Gold V, 10464 XOR
 </a>
 </td><td><a href="./10464/solution.py">풀이 (.py)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2622">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 2622 삼각형만들기
+</a>
+</td><td><a href="./2622/solution.py">풀이 (.py)</a></td></tr>
 <tr><td rowspan="3">2020-05-10</td><td>
 <a href="http://noj.am/18512">
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
@@ -563,17 +563,17 @@
 </a>
 </td><td><a href="./18512/solution.py">풀이 (.py)</a> (→ 2020-05-05)</td></tr>
 <tr><td>
-<a href="http://noj.am/13023">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 13023 ABCDE
-</a>
-</td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
-<tr><td>
 <a href="http://noj.am/11060">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 11060 점프 점프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/13023">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 13023 ABCDE
+</a>
+</td><td><a href="./13023/solution.py">풀이 (.py)</a> (→ 2020-05-06)</td></tr>
 <tr><td rowspan="3">2020-05-11</td><td>
 <a href="http://noj.am/14405">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
@@ -1085,12 +1085,6 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
@@ -1102,6 +1096,12 @@
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/12789">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 12789 도키도키 간식드리미
-</a>
-</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/1034">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 1034 램프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/12789">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 12789 도키도키 간식드리미
+</a>
+</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1287,11 +1287,29 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 14731 謎紛芥索紀 (Large)
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2749">
   <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
   Gold II, 2749 피보나치 수 3
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-07-02</td><td>
+<a href="http://noj.am/15549">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 15549 if
+</a>
+</td><td><a href="./15549/solution.txt">풀이 (.txt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16457">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 16457 단풍잎 이야기
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/15910">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 15910 바나나나빠나나
 </a>
 </td><td>푸는 중</td></tr>
   </table>
@@ -1304,14 +1322,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 78 of 167 (46.71%) |
-| Python (.py) | 68 of 167 (40.72%) |
-| Rust (.rs) | 15 of 167 (8.98%) |
-| ECMAScript (.js) | 4 of 167 (2.40%) |
-| Text (.txt) | 1 of 167 (0.60%) |
-| C++ (.cc) | 1 of 167 (0.60%) |
+| Kotlin (.kt) | 78 of 168 (46.43%) |
+| Python (.py) | 68 of 168 (40.48%) |
+| Rust (.rs) | 15 of 168 (8.93%) |
+| ECMAScript (.js) | 4 of 168 (2.38%) |
+| Text (.txt) | 2 of 168 (1.19%) |
+| C++ (.cc) | 1 of 168 (0.60%) |
 
-![pie-chart](./boj-public/language-usage/2a35a442acb6503bf3ae51fd50a4e5eb.svg)
+![pie-chart](./boj-public/language-usage/af2f1e73546be7ef4b87ab4931c96216.svg)
 
 
 
