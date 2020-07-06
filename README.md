@@ -348,8 +348,8 @@
 </td><td><a href="./5639/solution.py">풀이 (.py)</a> (→ 2020-04-21)</td></tr>
 <tr><td>
 <a href="http://noj.am/2019">
-  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
-  Silver I, 2019 다각형개수
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 2019 다각형개수
 </a>
 </td><td><a href="./2019/solution.py">풀이 (.py)</a> (→ 2020-04-21)</td></tr>
 <tr><td rowspan="2">2020-04-27</td><td>
@@ -1085,6 +1085,12 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
@@ -1096,12 +1102,6 @@
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/12789">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 12789 도키도키 간식드리미
 </a>
 </td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1330,6 +1330,24 @@
   Gold IV, 15550 if 2
 </a>
 </td><td><a href="./15550/solution.txt">풀이 (.txt)</a></td></tr>
+<tr><td rowspan="3">2020-07-06</td><td>
+<a href="http://noj.am/9047">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 9047 6174
+</a>
+</td><td><a href="./9047/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/10476">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 10476 좁은 미술전시관
+</a>
+</td><td><a href="./10476/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1111">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 1111 IQ Test
+</a>
+</td><td><a href="./1111/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1340,14 +1358,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 80 of 171 (46.78%) |
-| Python (.py) | 68 of 171 (39.77%) |
-| Rust (.rs) | 15 of 171 (8.77%) |
-| ECMAScript (.js) | 4 of 171 (2.34%) |
-| Text (.txt) | 3 of 171 (1.75%) |
-| C++ (.cc) | 1 of 171 (0.58%) |
+| Kotlin (.kt) | 83 of 174 (47.70%) |
+| Python (.py) | 68 of 174 (39.08%) |
+| Rust (.rs) | 15 of 174 (8.62%) |
+| ECMAScript (.js) | 4 of 174 (2.30%) |
+| Text (.txt) | 3 of 174 (1.72%) |
+| C++ (.cc) | 1 of 174 (0.57%) |
 
-![pie-chart](./boj-public/language-usage/e4eb9817ee5676c2aa761672aaa5dac5.svg)
+![pie-chart](./boj-public/language-usage/a8b728d3a3334f5261893b9457fc14bd.svg)
 
 
 
