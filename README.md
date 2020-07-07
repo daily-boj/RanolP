@@ -1348,6 +1348,24 @@
   Gold II, 1111 IQ Test
 </a>
 </td><td><a href="./1111/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-07-07</td><td>
+<a href="http://noj.am/2033">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2033 반올림
+</a>
+</td><td><a href="./2033/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3372">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 3372 보드 점프
+</a>
+</td><td><a href="./3372/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2878">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 2878 캔디캔디
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1358,14 +1376,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 83 of 174 (47.70%) |
-| Python (.py) | 68 of 174 (39.08%) |
-| Rust (.rs) | 15 of 174 (8.62%) |
-| ECMAScript (.js) | 4 of 174 (2.30%) |
-| Text (.txt) | 3 of 174 (1.72%) |
-| C++ (.cc) | 1 of 174 (0.57%) |
+| Kotlin (.kt) | 85 of 176 (48.30%) |
+| Python (.py) | 68 of 176 (38.64%) |
+| Rust (.rs) | 15 of 176 (8.52%) |
+| ECMAScript (.js) | 4 of 176 (2.27%) |
+| Text (.txt) | 3 of 176 (1.70%) |
+| C++ (.cc) | 1 of 176 (0.57%) |
 
-![pie-chart](./boj-public/language-usage/a8b728d3a3334f5261893b9457fc14bd.svg)
+![pie-chart](./boj-public/language-usage/473d46006993ec0e2e5080979e17674e.svg)
 
 
 
