@@ -1085,17 +1085,17 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 5177 출력 형식이 잘못되었습니다
 </a>
 </td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/12789">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 12789 도키도키 간식드리미
-</a>
-</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/1034">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 1034 램프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/12789">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 12789 도키도키 간식드리미
+</a>
+</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1365,6 +1365,24 @@
   <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
   Gold II, 2878 캔디캔디
 </a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-07-08</td><td>
+<a href="http://noj.am/12090">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 12090 초성 변환
+</a>
+</td><td><a href="./12090/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13699">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 13699 점화식
+</a>
+</td><td><a href="./13699/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/11877">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 11877 홍수
+</a>
 </td><td>푸는 중</td></tr>
   </table>
 
@@ -1376,14 +1394,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 85 of 176 (48.30%) |
-| Python (.py) | 68 of 176 (38.64%) |
-| Rust (.rs) | 15 of 176 (8.52%) |
-| ECMAScript (.js) | 4 of 176 (2.27%) |
-| Text (.txt) | 3 of 176 (1.70%) |
-| C++ (.cc) | 1 of 176 (0.57%) |
+| Kotlin (.kt) | 87 of 178 (48.88%) |
+| Python (.py) | 68 of 178 (38.20%) |
+| Rust (.rs) | 15 of 178 (8.43%) |
+| ECMAScript (.js) | 4 of 178 (2.25%) |
+| Text (.txt) | 3 of 178 (1.69%) |
+| C++ (.cc) | 1 of 178 (0.56%) |
 
-![pie-chart](./boj-public/language-usage/473d46006993ec0e2e5080979e17674e.svg)
+![pie-chart](./boj-public/language-usage/e7999edd760fcda251d452eba0e8c41b.svg)
 
 
 

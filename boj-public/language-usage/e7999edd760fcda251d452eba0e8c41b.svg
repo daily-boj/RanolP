@@ -5,12 +5,12 @@
       <feComposite in="SourceGraphic" operator="xor" />
     </filter>
   </defs>
-  <path d="M 2 1 A 1 1 0 0 1 0.005729698228102653 1.1068951215651126 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 0.005729698228102653 1.1068951215651126 A 1 1 0 0 1 1.6814179395938909 0.2681054778182743 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.6814179395938909 0.2681054778182743 A 1 1 0 0 1 1.9594929736144975 0.7182674431585703 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9594929736144975 0.7182674431585703 A 1 1 0 0 1 1.9898214418809328 0.8576851617267147 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9898214418809328 0.8576851617267147 A 1 1 0 0 1 1.9993628256569917 0.9643076661610192 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9993628256569917 0.9643076661610192 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+  <path d="M 2 1 A 1 1 0 0 1 0.002490974849236216 1.0705389590423113 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 0.002490974849236216 1.0705389590423113 A 1 1 0 0 1 1.6881411722458683 0.274423176321017 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.6881411722458683 0.274423176321017 A 1 1 0 0 1 1.9603921063437793 0.7213478834235078 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9603921063437793 0.7213478834235078 A 1 1 0 0 1 1.9900485105144543 0.8592735034611089 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9900485105144543 0.8592735034611089 A 1 1 0 0 1 1.9993770622619782 0.9647085360941472 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9993770622619782 0.9647085360941472 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#F18E33"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Kotlin</text>
 <text style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Kotlin</text>
