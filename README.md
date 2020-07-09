@@ -1383,7 +1383,25 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 11877 홍수
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-07-09</td><td>
+<a href="http://noj.am/2546">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 2546 경제학과 정원영
+</a>
+</td><td><a href="./2546/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/2502">
+  <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
+  Silver I, 2502 떡 먹는 호랑이
+</a>
+</td><td><a href="./2502/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5015">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 5015 ls
+</a>
+</td><td><a href="./5015/solution.kt">풀이 (.kt)</a></td></tr>
   </table>
 
 
@@ -1394,14 +1412,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 87 of 178 (48.88%) |
-| Python (.py) | 68 of 178 (38.20%) |
-| Rust (.rs) | 15 of 178 (8.43%) |
-| ECMAScript (.js) | 4 of 178 (2.25%) |
-| Text (.txt) | 3 of 178 (1.69%) |
-| C++ (.cc) | 1 of 178 (0.56%) |
+| Kotlin (.kt) | 90 of 181 (49.72%) |
+| Python (.py) | 68 of 181 (37.57%) |
+| Rust (.rs) | 15 of 181 (8.29%) |
+| ECMAScript (.js) | 4 of 181 (2.21%) |
+| Text (.txt) | 3 of 181 (1.66%) |
+| C++ (.cc) | 1 of 181 (0.55%) |
 
-![pie-chart](./boj-public/language-usage/e7999edd760fcda251d452eba0e8c41b.svg)
+![pie-chart](./boj-public/language-usage/6e2c9324530ba6e8ea48deec24d2f015.svg)
 
 
 
