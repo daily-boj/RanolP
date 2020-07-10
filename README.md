@@ -132,8 +132,8 @@
 </td><td><a href="./2508/solution.py">풀이 (.py)</a>, <a href="./2508/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2435">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 2435 기상청 인턴 신현수
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 2435 기상청 인턴 신현수
 </a>
 </td><td><a href="./2435/solution.py">풀이 (.py)</a>, <a href="./2435/README.md">노트</a></td></tr>
 <tr><td rowspan="3">2020-04-14</td><td>
@@ -198,8 +198,8 @@
 </td><td><a href="./6236/solution.rs">풀이 (.rs)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
 <a href="http://noj.am/1043">
-  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
-  Gold IV, 1043 거짓말
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1043 거짓말
 </a>
 </td><td><a href="./1043/solution.py">풀이 (.py)</a> (→ 2020-04-10)</td></tr>
 <tr><td>
@@ -1402,6 +1402,24 @@
   Gold III, 5015 ls
 </a>
 </td><td><a href="./5015/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td rowspan="3">2020-07-10</td><td>
+<a href="http://noj.am/7481">
+  <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
+  Bronze I, 7481 ATM놀이
+</a>
+</td><td><a href="./7481/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/14400">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 14400 편의점 2
+</a>
+</td><td><a href="./14400/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/13710">
+  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
+  Gold I, 13710 XOR 합 3
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1412,14 +1430,14 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 90 of 181 (49.72%) |
-| Python (.py) | 68 of 181 (37.57%) |
-| Rust (.rs) | 15 of 181 (8.29%) |
-| ECMAScript (.js) | 4 of 181 (2.21%) |
-| Text (.txt) | 3 of 181 (1.66%) |
-| C++ (.cc) | 1 of 181 (0.55%) |
+| Kotlin (.kt) | 92 of 183 (50.27%) |
+| Python (.py) | 68 of 183 (37.16%) |
+| Rust (.rs) | 15 of 183 (8.20%) |
+| ECMAScript (.js) | 4 of 183 (2.19%) |
+| Text (.txt) | 3 of 183 (1.64%) |
+| C++ (.cc) | 1 of 183 (0.55%) |
 
-![pie-chart](./boj-public/language-usage/6e2c9324530ba6e8ea48deec24d2f015.svg)
+![pie-chart](./boj-public/language-usage/d561b1532652771a29316c99d7bbd40d.svg)
 
 
 
