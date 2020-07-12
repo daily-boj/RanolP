@@ -41,8 +41,8 @@
 `00`으로 채운다면 <i class="variable">n</i> - 2 길이인 2진 수열들이 뒤에 붙을 수 있을 것입니다.
 점화식으로 나타내면 다음과 같습니다:
 
-<img src="https://render.githubusercontent.com/render/math?math=F(n)%20%3D%20F(n%20-%201)%20%2B%20F(n%20-%202)" alt="F(n) = F(n - 1) + F(n - 2)" style="max-width:100%;" >
+<img src="https://latex.codecogs.com/svg.latex?F(n)%20%3D%20F(n%20-%201)%20%2B%20F(n%20-%202)" alt="F(n) = F(n - 1) + F(n - 2)" style="max-width:100%;" >
 
 매우 익숙합니다, 네 피보나치 수열입니다!
-따라서 <img src="https://render.githubusercontent.com/render/math?math=n" alt="n" style="max-width:100%;" >번째 피보나치 수를 구하면 됩니다.
+따라서 <img src="https://latex.codecogs.com/svg.latex?n" alt="n" style="max-width:100%;" >번째 피보나치 수를 구하면 됩니다.
 15746로 나눈 나머지임에 주의해야 합니다.

@@ -44,7 +44,7 @@
 | 9         | 37        | 7        |
 
 굵게 처리한 부분을 제외하곤 전부 1씩 증가하고 있음을 알아낼 수 있습니다.
-<img src="https://render.githubusercontent.com/render/math?math=n%20%5Cbmod%203%20%5Cequiv%200" alt="n \bmod 3 \equiv 0" style="max-width:100%;" >인 경우에 증가시키지 않고 그대로 넘어가네요.
+<img src="https://latex.codecogs.com/svg.latex?n%20%5Cbmod%203%20%5Cequiv%200" alt="n \bmod 3 \equiv 0" style="max-width:100%;" >인 경우에 증가시키지 않고 그대로 넘어가네요.
 이를 이용해서 풀면 됩니다.
 
 ![Euler characteristic (χ=V-E+F)](./tag.png)

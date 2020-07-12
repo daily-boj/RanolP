@@ -22,7 +22,7 @@
         <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  height="16px" >
         asdhugh1
         <br>
-        <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=304 Solved">
+        <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=351+α Solved">
       </a>
     </td>
     <td>
@@ -31,7 +31,7 @@
         asdhugh1
         <br>
         <img src="https://static.solved.ac/tier_small/13.svg" height="16px" />
-        <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold III">
+        <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold II">
       </a>
     </td>
     <td>

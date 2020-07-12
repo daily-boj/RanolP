@@ -33,4 +33,4 @@
 <i class="variable">a</i> < <i class="variable">b</i> < <i class="variable">c</i>가 보장되면 편해집니다.
 중복 조합은 `Map<Int, Set<Int>>`에 넣어두고,
 작은 것부터 겹치나 안 겹치나 확인합니다.
-<img src="https://render.githubusercontent.com/render/math?math=O(n%5E3m)" alt="O(n^3m)" style="max-width:100%;" >으로 풀었습니다.
+<img src="https://latex.codecogs.com/svg.latex?O(n%5E3m)" alt="O(n^3m)" style="max-width:100%;" >으로 풀었습니다.

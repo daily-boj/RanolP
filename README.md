@@ -22,7 +22,7 @@
         <img src="https://daily-boj.github.io/homepage/images/baekjoon-square.svg"  height="16px" >
         asdhugh1
         <br>
-        <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=304 Solved">
+        <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=0076c0&size=12&text=351+α Solved">
       </a>
     </td>
     <td>
@@ -31,7 +31,7 @@
         asdhugh1
         <br>
         <img src="https://static.solved.ac/tier_small/13.svg" height="16px" />
-        <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold III">
+        <img src="https://lingtalfi.com/services/pngtext?color=ec9a00&size=12&text=Gold II">
       </a>
     </td>
     <td>
@@ -1419,7 +1419,13 @@
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
   Gold I, 13710 XOR 합 3
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="1">2020-07-12</td><td>
+<a href="http://noj.am/17118">
+  <img src="https://static.solved.ac/tier_small/21.svg" height="16px"/>
+  Diamond V, 17118 갓 소수
+</a>
+</td><td><a href="./17118/solution.rb">풀이 (.rb)</a>, <a href="./17118/README.md">노트</a></td></tr>
   </table>
 
 
@@ -1430,14 +1436,15 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 92 of 183 (50.27%) |
-| Python (.py) | 68 of 183 (37.16%) |
-| Rust (.rs) | 15 of 183 (8.20%) |
-| ECMAScript (.js) | 4 of 183 (2.19%) |
-| Text (.txt) | 3 of 183 (1.64%) |
-| C++ (.cc) | 1 of 183 (0.55%) |
+| Kotlin (.kt) | 92 of 184 (50.00%) |
+| Python (.py) | 68 of 184 (36.96%) |
+| Rust (.rs) | 15 of 184 (8.15%) |
+| ECMAScript (.js) | 4 of 184 (2.17%) |
+| Text (.txt) | 3 of 184 (1.63%) |
+| Ruby (.rb) | 1 of 184 (0.54%) |
+| C++ (.cc) | 1 of 184 (0.54%) |
 
-![pie-chart](./boj-public/language-usage/d561b1532652771a29316c99d7bbd40d.svg)
+![pie-chart](./boj-public/language-usage/da261eb45ad2c24d846f6906960f3661.svg)
 
 
 
