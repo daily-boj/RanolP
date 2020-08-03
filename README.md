@@ -90,8 +90,8 @@
 </td><td><a href="./1373/solution.py">풀이 (.py)</a>, <a href="./1373/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/3213">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 3213 피자
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 3213 피자
 </a>
 </td><td><a href="./3213/solution.py">풀이 (.py)</a>, <a href="./3213/README.md">노트</a></td></tr>
 <tr><td>
@@ -1086,8 +1086,8 @@
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
 <a href="http://noj.am/5177">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 5177 출력 형식이 잘못되었습니다
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 5177 출력 형식이 잘못되었습니다
 </a>
 </td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
@@ -1398,8 +1398,8 @@
 </td><td><a href="./2502/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/5015">
-  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
-  Gold III, 5015 ls
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 5015 ls
 </a>
 </td><td><a href="./5015/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="3">2020-07-10</td><td>
@@ -1479,7 +1479,25 @@
   <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
   Gold IV, 1717 집합의 표현
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="2">2020-08-03</td><td>
+<a href="http://noj.am/3991">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 3991 한번 쏘면 멈출 수 없어
+</a>
+</td><td><a href="./3991/solution.kt">풀이 (.kt)</a>, <a href="./3991/README.md">노트</a></td></tr>
+<tr><td>
+<a href="http://noj.am/3026">
+  <img src="https://static.solved.ac/tier_small/19.svg" height="16px"/>
+  Platinum II, 3026 V
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="1">2020-08-04</td><td>
+<a href="http://noj.am/2014">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 2014 소수의 곱
+</a>
+</td><td><a href="./2014/solution.kt">풀이 (.kt)</a> (→ 2020-08-03)</td></tr>
   </table>
 
 
@@ -1490,15 +1508,15 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 96 of 188 (51.06%) |
-| Python (.py) | 68 of 188 (36.17%) |
-| Rust (.rs) | 15 of 188 (7.98%) |
-| ECMAScript (.js) | 4 of 188 (2.13%) |
-| Text (.txt) | 3 of 188 (1.60%) |
-| Ruby (.rb) | 1 of 188 (0.53%) |
-| C++ (.cc) | 1 of 188 (0.53%) |
+| Kotlin (.kt) | 98 of 190 (51.58%) |
+| Python (.py) | 68 of 190 (35.79%) |
+| Rust (.rs) | 15 of 190 (7.89%) |
+| ECMAScript (.js) | 4 of 190 (2.11%) |
+| Text (.txt) | 3 of 190 (1.58%) |
+| Ruby (.rb) | 1 of 190 (0.53%) |
+| C++ (.cc) | 1 of 190 (0.53%) |
 
-![pie-chart](./boj-public/language-usage/1ed766d26ae12cf3cfb071ca31e0cd43.svg)
+![pie-chart](./boj-public/language-usage/a4973c1c3b7634ee6f89c7e28162f8ad.svg)
 
 
 

@@ -10,8 +10,8 @@
   <tr>
     <td>
       <a href="http://noj.am/3213">
-        <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-        Silver III, 3213 피자
+        <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+        Silver IV, 3213 피자
       </a>
     </td>
     <td>
