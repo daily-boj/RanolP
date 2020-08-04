@@ -213,7 +213,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 9933 민균이의 비밀번호
 </a>
-</td><td><a href="./9933/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./9933/solution.py">풀이 (.py)</a>, <a href="./9933/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/15500">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
@@ -291,7 +291,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 17247 택시 거리
 </a>
-</td><td><a href="./17247/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./17247/solution.py">풀이 (.py)</a>, <a href="./17247/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/1654">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
@@ -309,7 +309,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 1357 뒤집힌 덧셈
 </a>
-</td><td><a href="./1357/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./1357/solution.py">풀이 (.py)</a>, <a href="./1357/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/14715">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -327,7 +327,7 @@
   <img src="https://static.solved.ac/tier_small/5.svg" height="16px"/>
   Bronze I, 11285 초성 중성 종성 2
 </a>
-</td><td><a href="./11285/solution.py">풀이 (.py)</a></td></tr>
+</td><td><a href="./11285/solution.py">풀이 (.py)</a>, <a href="./11285/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/18187">
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
@@ -1085,17 +1085,17 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/5177">
-  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
-  Silver III, 5177 출력 형식이 잘못되었습니다
-</a>
-</td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/16205">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
   Bronze II, 16205 변수명
 </a>
 </td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/5177">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 5177 출력 형식이 잘못되었습니다
+</a>
+</td><td><a href="./5177/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
 <a href="http://noj.am/2410">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
@@ -1121,17 +1121,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/1034">
-  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
-  Gold V, 1034 램프
-</a>
-</td><td>타임아웃</td></tr>
-<tr><td>
 <a href="http://noj.am/12789">
   <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
   Silver IV, 12789 도키도키 간식드리미
 </a>
 </td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/1034">
+  <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
+  Gold V, 1034 램프
+</a>
+</td><td>타임아웃</td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1492,12 +1492,30 @@
   Platinum II, 3026 V
 </a>
 </td><td>타임아웃</td></tr>
-<tr><td rowspan="1">2020-08-04</td><td>
+<tr><td rowspan="4">2020-08-04</td><td>
 <a href="http://noj.am/2014">
   <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
   Gold II, 2014 소수의 곱
 </a>
 </td><td><a href="./2014/solution.kt">풀이 (.kt)</a> (→ 2020-08-03)</td></tr>
+<tr><td>
+<a href="http://noj.am/16925">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 16925 문자열 추측
+</a>
+</td><td><a href="./16925/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/6597">
+  <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
+  Gold III, 6597 트리 복구
+</a>
+</td><td>푸는 중</td></tr>
+<tr><td>
+<a href="http://noj.am/2505">
+  <img src="https://static.solved.ac/tier_small/16.svg" height="16px"/>
+  Platinum V, 2505 두 번 뒤집기
+</a>
+</td><td>푸는 중</td></tr>
   </table>
 
 
@@ -1508,15 +1526,15 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 98 of 190 (51.58%) |
-| Python (.py) | 68 of 190 (35.79%) |
-| Rust (.rs) | 15 of 190 (7.89%) |
-| ECMAScript (.js) | 4 of 190 (2.11%) |
-| Text (.txt) | 3 of 190 (1.58%) |
-| Ruby (.rb) | 1 of 190 (0.53%) |
-| C++ (.cc) | 1 of 190 (0.53%) |
+| Kotlin (.kt) | 99 of 191 (51.83%) |
+| Python (.py) | 68 of 191 (35.60%) |
+| Rust (.rs) | 15 of 191 (7.85%) |
+| ECMAScript (.js) | 4 of 191 (2.09%) |
+| Text (.txt) | 3 of 191 (1.57%) |
+| Ruby (.rb) | 1 of 191 (0.52%) |
+| C++ (.cc) | 1 of 191 (0.52%) |
 
-![pie-chart](./boj-public/language-usage/a4973c1c3b7634ee6f89c7e28162f8ad.svg)
+![pie-chart](./boj-public/language-usage/62ed6da67481319e315db2124eebd613.svg)
 
 
 
