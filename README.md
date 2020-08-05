@@ -1509,13 +1509,31 @@
   <img src="https://static.solved.ac/tier_small/13.svg" height="16px"/>
   Gold III, 6597 트리 복구
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
 <tr><td>
 <a href="http://noj.am/2505">
   <img src="https://static.solved.ac/tier_small/16.svg" height="16px"/>
   Platinum V, 2505 두 번 뒤집기
 </a>
-</td><td>푸는 중</td></tr>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-08-05</td><td>
+<a href="http://noj.am/12845">
+  <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
+  Silver III, 12845 모두의 마블
+</a>
+</td><td><a href="./12845/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16202">
+  <img src="https://static.solved.ac/tier_small/12.svg" height="16px"/>
+  Gold IV, 16202 MST 게임
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/1226">
+  <img src="https://static.solved.ac/tier_small/17.svg" height="16px"/>
+  Platinum IV, 1226 국회
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -1526,15 +1544,15 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 99 of 191 (51.83%) |
-| Python (.py) | 68 of 191 (35.60%) |
-| Rust (.rs) | 15 of 191 (7.85%) |
-| ECMAScript (.js) | 4 of 191 (2.09%) |
-| Text (.txt) | 3 of 191 (1.57%) |
-| Ruby (.rb) | 1 of 191 (0.52%) |
-| C++ (.cc) | 1 of 191 (0.52%) |
+| Kotlin (.kt) | 100 of 192 (52.08%) |
+| Python (.py) | 68 of 192 (35.42%) |
+| Rust (.rs) | 15 of 192 (7.81%) |
+| ECMAScript (.js) | 4 of 192 (2.08%) |
+| Text (.txt) | 3 of 192 (1.56%) |
+| Ruby (.rb) | 1 of 192 (0.52%) |
+| C++ (.cc) | 1 of 192 (0.52%) |
 
-![pie-chart](./boj-public/language-usage/62ed6da67481319e315db2124eebd613.svg)
+![pie-chart](./boj-public/language-usage/3a993cec22b38f4b4f0b7979005a2f47.svg)
 
 
 
