@@ -357,13 +357,13 @@
   <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
   Silver II, 2504 괄호의 값
 </a>
-</td><td><a href="./2504/solution.kt">풀이 (.kt)</a></td></tr>
+</td><td><a href="./2504/solution.kt">풀이 (.kt)</a>, <a href="./2504/README.md">노트</a></td></tr>
 <tr><td>
 <a href="http://noj.am/4531">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 4531 Verdis Quo
 </a>
-</td><td><a href="./4531/solution.kt">풀이 (.kt)</a></td></tr>
+</td><td><a href="./4531/solution.kt">풀이 (.kt)</a>, <a href="./4531/README.md">노트</a></td></tr>
 <tr><td rowspan="4">2020-04-28</td><td>
 <a href="http://noj.am/10610">
   <img src="https://static.solved.ac/tier_small/6.svg" height="16px"/>
@@ -945,7 +945,7 @@
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
   Silver I, 1629 곱셈
 </a>
-</td><td><a href="./1629/solution.kt">풀이 (.kt)</a></td></tr>
+</td><td><a href="./1629/solution.kt">풀이 (.kt)</a>, <a href="./1629/README.md">노트</a></td></tr>
 <tr><td rowspan="2">2020-06-07</td><td>
 <a href="http://noj.am/11403">
   <img src="https://static.solved.ac/tier_small/10.svg" height="16px"/>
