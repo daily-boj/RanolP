@@ -1089,12 +1089,6 @@
 </a>
 </td><td><a href="./16112/solution.rs">풀이 (.rs)</a></td></tr>
 <tr><td rowspan="3">2020-06-17</td><td>
-<a href="http://noj.am/16205">
-  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
-  Bronze II, 16205 변수명
-</a>
-</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/5177">
   <img src="https://static.solved.ac/tier_small/8.svg" height="16px"/>
   Silver III, 5177 출력 형식이 잘못되었습니다
@@ -1106,6 +1100,12 @@
   Silver I, 2410 2의 멱수의 합
 </a>
 </td><td><a href="./2410/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/16205">
+  <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
+  Bronze II, 16205 변수명
+</a>
+</td><td><a href="./16205/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-18</td><td>
 <a href="http://noj.am/5597">
   <img src="https://static.solved.ac/tier_small/4.svg" height="16px"/>
@@ -1125,17 +1125,17 @@
 </a>
 </td><td><a href="./4436/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td>
-<a href="http://noj.am/12789">
-  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
-  Silver IV, 12789 도키도키 간식드리미
-</a>
-</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
-<tr><td>
 <a href="http://noj.am/1034">
   <img src="https://static.solved.ac/tier_small/11.svg" height="16px"/>
   Gold V, 1034 램프
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/12789">
+  <img src="https://static.solved.ac/tier_small/7.svg" height="16px"/>
+  Silver IV, 12789 도키도키 간식드리미
+</a>
+</td><td><a href="./12789/solution.kt">풀이 (.kt)</a></td></tr>
 <tr><td rowspan="2">2020-06-20</td><td>
 <a href="http://noj.am/1562">
   <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
@@ -1538,6 +1538,42 @@
   Platinum IV, 1226 국회
 </a>
 </td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-08-06</td><td>
+<a href="http://noj.am/13915">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 13915 현수의 열기구 교실
+</a>
+</td><td><a href="./13915/solution.kt">풀이 (.kt)</a></td></tr>
+<tr><td>
+<a href="http://noj.am/18921">
+  <img src="https://static.solved.ac/tier_small/15.svg" height="16px"/>
+  Gold I, 18921 Cost Of Subtree
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/1767">
+  <img src="https://static.solved.ac/tier_small/18.svg" height="16px"/>
+  Platinum III, 1767 N-Rook II
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td rowspan="3">2020-08-07</td><td>
+<a href="http://noj.am/15966">
+  <img src="https://static.solved.ac/tier_small/9.svg" height="16px"/>
+  Silver II, 15966 군계일학
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/5550">
+  <img src="https://static.solved.ac/tier_small/14.svg" height="16px"/>
+  Gold II, 5550 헌책방
+</a>
+</td><td>타임아웃</td></tr>
+<tr><td>
+<a href="http://noj.am/16000">
+  <img src="https://static.solved.ac/tier_small/18.svg" height="16px"/>
+  Platinum III, 16000 섬
+</a>
+</td><td>타임아웃</td></tr>
   </table>
 
 
@@ -1548,15 +1584,15 @@
 
 | 언어 | 사용 비율 |
 | ---- | --------- |
-| Kotlin (.kt) | 100 of 192 (52.08%) |
-| Python (.py) | 68 of 192 (35.42%) |
-| Rust (.rs) | 15 of 192 (7.81%) |
-| ECMAScript (.js) | 4 of 192 (2.08%) |
-| Text (.txt) | 3 of 192 (1.56%) |
-| Ruby (.rb) | 1 of 192 (0.52%) |
-| C++ (.cc) | 1 of 192 (0.52%) |
+| Kotlin (.kt) | 101 of 193 (52.33%) |
+| Python (.py) | 68 of 193 (35.23%) |
+| Rust (.rs) | 15 of 193 (7.77%) |
+| ECMAScript (.js) | 4 of 193 (2.07%) |
+| Text (.txt) | 3 of 193 (1.55%) |
+| Ruby (.rb) | 1 of 193 (0.52%) |
+| C++ (.cc) | 1 of 193 (0.52%) |
 
-![pie-chart](./boj-public/language-usage/3a993cec22b38f4b4f0b7979005a2f47.svg)
+![pie-chart](./boj-public/language-usage/43e0015e4618cbe9d200b6073d6a13b5.svg)
 
 
 

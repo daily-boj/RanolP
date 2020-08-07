@@ -5,13 +5,13 @@
       <feComposite in="SourceGraphic" operator="xor" />
     </filter>
   </defs>
-  <path d="M 2 1 A 1 1 0 1 1 0.008555138626189618 0.8694738077799482 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 0.008555138626189618 0.8694738077799482 A 1 1 0 0 1 1.7071067811865475 0.2928932188134523 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.7071067811865475 0.2928932188134523 A 1 1 0 0 1 1.9569403357322088 0.7097153227455375 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9569403357322088 0.7097153227455375 A 1 1 0 0 1 1.986643332084879 0.837104526605411 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.986643332084879 0.837104526605411 A 1 1 0 0 1 1.9978589232386035 0.9345968707698572 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9978589232386035 0.9345968707698572 A 1 1 0 0 1 1.9994645874763657 0.9672809171782234 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
-<path d="M 1.9994645874763657 0.9672809171782234 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#701516" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+  <path d="M 2 1 A 1 1 0 1 1 0.010711820241240066 0.8540243260347828 L 1 1" fill="#F18E33" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 0.010711820241240066 0.8540243260347828 A 1 1 0 0 1 1.7099784331999008 0.2957765806286944 L 1 1" fill="#3572A5" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.7099784331999008 0.2957765806286944 A 1 1 0 0 1 1.9573822052208012 0.7111759824277837 L 1 1" fill="#dea584" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9573822052208012 0.7111759824277837 A 1 1 0 0 1 1.9867810796112741 0.8379410572624627 L 1 1" fill="#f1e05a" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9867810796112741 0.8379410572624627 A 1 1 0 0 1 1.997881045263754 0.9349352668235915 L 1 1" fill="#88aaee" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.997881045263754 0.9349352668235915 A 1 1 0 0 1 1.9994701209300243 0.9674503860526291 L 1 1" fill="#f34b7d" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
+<path d="M 1.9994701209300243 0.9674503860526291 A 1 1 0 0 1 2 0.9999999999999998 L 1 1" fill="#701516" style="transform-origin: 1px 1px; transform: rotate(-90deg)"/>
     <circle cx="2.2" cy="0.1" r="0.04" fill="#F18E33"/>
 <text filter="url(#solid)" style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Kotlin</text>
 <text style="font-size: 0.08px;" x="2.2600000000000002" y="0.1" dominant-baseline="middle">Kotlin</text>
